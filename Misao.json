@@ -2671,7 +2671,10 @@
         "data": [
           ["操記憶", ""],
           ["顔グラフィック", ""],
-          ["@1\nWere those Misao's memories?", "@1\nЭто были воспоминания Мисао?"]
+          [
+            "@1\nWere those Misao's memories?",
+            "@1\nЭто были воспоминания Мисао?"
+          ]
         ],
         "context": [
           ["CommonEvent.dat/CommonEvent/17/name"],
@@ -3104,7 +3107,10 @@
           ["monster_mandrakebom", ""],
           ["SE/match_voice_mandrake2.ogg", ""],
           ["SE/onjin_glass_korkoro.ogg", ""],
-          ["@1\nDoesn't seem to be satisfactory.", "@1\nВыглядит неудоволетворенным."],
+          [
+            "@1\nDoesn't seem to be satisfactory.",
+            "@1\nВыглядит неудоволетворенным."
+          ],
           ["画面色調変更", ""],
           ["アイテム使用不可", ""],
           ["使用アイテム", ""],
@@ -4241,7 +4247,10 @@
           ["ショートカット", ""],
           ["CharaChip/obj_etc02.png", ""],
           ["顔グラフィック", ""],
-          ["@1\nDoesn't seem to be satisfactory.", "@1\nВыглядит неудоволетворенным."],
+          [
+            "@1\nDoesn't seem to be satisfactory.",
+            "@1\nВыглядит неудоволетворенным."
+          ],
           ["画面色調変更", ""],
           [" ", ""],
           ["キャラモーション", ""],
@@ -4667,9 +4676,15 @@
           ["キャラ方向変更", ""],
           ["CharaChip/chara_aki_etc.png", ""],
           ["CharaChip/chara_aki_etc_b.png", ""],
-          ["@1\nIt seems too big for the small flowerpot.", "@1\nКажется, это слишком большое для маленького цветочного горшка."],
+          [
+            "@1\nIt seems too big for the small flowerpot.",
+            "@1\nКажется, это слишком большое для маленького цветочного горшка."
+          ],
           ["ショートカット", ""],
-          ["@1\nIt seems too big for the small vase.", "@1\nКажется, это слишком большое для маленькой вазы."],
+          [
+            "@1\nIt seems too big for the small vase.",
+            "@1\nКажется, это слишком большое для маленькой вазы."
+          ],
           ["食堂", ""],
           ["SE/onjin_tsukamu.ogg", ""],
           ["キャラモーション", ""],
@@ -4939,9 +4954,15 @@
           ["キャラ方向変更", ""],
           ["CharaChip/chara_aki_etc.png", ""],
           ["CharaChip/chara_aki_etc_b.png", ""],
-          ["@1\nIt seems too big for the small flowerpot.", "@1\nКажется, это слишком большое для маленького цветочного горшка."],
+          [
+            "@1\nIt seems too big for the small flowerpot.",
+            "@1\nКажется, это слишком большое для маленького цветочного горшка."
+          ],
           ["ショートカット", ""],
-          ["@1\nIt seems too big for the small vase.", "@1\nКажется, это слишком большое для маленькой вазы."],
+          [
+            "@1\nIt seems too big for the small vase.",
+            "@1\nКажется, это слишком большое для маленькой вазы."
+          ],
           ["食堂", ""],
           ["キャラモーション", ""],
           ["anime_aki04", ""],
@@ -5265,14 +5286,23 @@
           ["@1\nThe wall doesn't budge.", "@1\nСтена не двигается с места."],
           ["洞窟ボム", ""],
           ["SE/match_voice_mandrake2.ogg", ""],
-          ["@1\nEven if it's a plant, I feel bad…", "@1\nДаже если это и растение, мне кажется что из-за него\nможет произойти что-то нехорошее..."],
-          ["Is it really going to explode\njust from giving it an impact?", "Он действительно собирается взорваться\nиз-за моего удара?"],
+          [
+            "@1\nEven if it's a plant, I feel bad…",
+            "@1\nДаже если это и растение, мне кажется что из-за него\nможет произойти что-то нехорошее..."
+          ],
+          [
+            "Is it really going to explode\njust from giving it an impact?",
+            "Он действительно собирается взорваться\nиз-за моего удара?"
+          ],
           ["anime_aki04", ""],
           ["SE/onjin_kon.ogg", ""],
           ["SE/match_voice_mandrake.ogg", ""],
           ["anime_aki02", ""],
           ["感情表現アイコン", ""],
-          ["T-This seems kind of bad...!\nI should probably get away…", "Э-Это всё выглядит нехорошим..!\nМне, наверное, нужно уходить отсюда..."],
+          [
+            "T-This seems kind of bad...!\nI should probably get away…",
+            "Э-Это всё выглядит нехорошим..!\nМне, наверное, нужно уходить отсюда..."
+          ],
           ["anime_aki_f_bat2", ""],
           ["anime_aki_m_bat2", ""],
           [
@@ -5707,18 +5737,27 @@
           ["anime_aki_f_bat2", ""],
           ["顔グラフィック", ""],
           ["Apologize in the afterlife!!", ""],
-          ["Sir... It's all right.\nYou'll have relief soon.", "Сэр... Всё в порядке.\nСкоро вам станет легче."],
+          [
+            "Sir... It's all right.\nYou'll have relief soon.",
+            "Сэр... Всё в порядке.\nСкоро вам станет легче."
+          ],
           ["\\i[600]", ""],
           ["\\i[501]", ""],
           ["隠しルート", ""],
-          ["@2\nNo!\nI won't let you do that!", "@2\nНет!\nЯ не позволю тебе это сделать!"],
+          [
+            "@2\nNo!\nI won't let you do that!",
+            "@2\nНет!\nЯ не позволю тебе это сделать!"
+          ],
           ["感情表現アイコン", ""],
           ["x", ""],
           ["@1\nWho...?", "@1\nКто...?"],
           ["Is there another way?", "Здесь есть другой выход?"],
           ["W-What are you doing?", "Ч-Что ты делаешь?"],
           ["仕草", ""],
-          ["@1\nI see... I get it.\nI'll try going to the altar again!", "@1\nПонятно... Мне стало понятно.\nПопробую снова пойти к алтарю!"],
+          [
+            "@1\nI see... I get it.\nI'll try going to the altar again!",
+            "@1\nПонятно... Мне стало понятно.\nПопробую снова пойти к алтарю!"
+          ],
           ["画面色調変更", ""],
           ["SE/lab_swing.ogg", ""],
           ["SE/match_hit.ogg", ""],
@@ -5726,12 +5765,24 @@
           ["男主人公ルート", ""],
           ["anime_aki_m_bat2", ""],
           ["Apologize in the afterlife!", "Извинишься в загробной жизни!"],
-          ["No... I can't do it...\nI can't kill Tohma...", "Нет... я не могу этого сделать...\nЯ не могу убить Тому..."],
-          ["No... I can't do it...\nI can't kill my teacher...", "Нет... я не могу этого сделать...\nЯ не могу убить своего учителя..."],
-          ["@2\nYes, you can.\nBecause you are me.", "@2\nДа, ты можешь.\nПотому что ты - это я."],
+          [
+            "No... I can't do it...\nI can't kill Tohma...",
+            "Нет... я не могу этого сделать...\nЯ не могу убить Тому..."
+          ],
+          [
+            "No... I can't do it...\nI can't kill my teacher...",
+            "Нет... я не могу этого сделать...\nЯ не могу убить своего учителя..."
+          ],
+          [
+            "@2\nYes, you can.\nBecause you are me.",
+            "@2\nДа, ты можешь.\nПотому что ты - это я."
+          ],
           ["anime_aki04", ""],
           ["@1\nW-Who's that?!", "@1\nК-Кто это?!"],
-          ["@2\nRaise that bat high...\nAnd swing it down on him!", "@2\nПодними эту биту высоко...\nИ опусти её прямо на него!"],
+          [
+            "@2\nRaise that bat high...\nAnd swing it down on him!",
+            "@2\nПодними эту биту высоко...\nИ опусти её прямо на него!"
+          ],
           ["@1\nMy body's moving on its...!", "@1\nМоё тело движется само..!"],
           ["W-WAAAAAAAAAAUGH!!", "А-АААААААААААААА!!"],
           ["SE/match_swing.ogg", ""],
@@ -5740,7 +5791,10 @@
             "(I can't just sacrifice a human life,\n not even to save Misao!)",
             "(Я просто не могу пожертвовать человеческой жизнью,\nдаже если и ради спасения Мисао!)"
           ],
-          ["I'm sorry, Misao...\nI can't do anything...", "Прости, Мисао...\nЯ не могу ничего сделать...."],
+          [
+            "I'm sorry, Misao...\nI can't do anything...",
+            "Прости, Мисао...\nЯ не могу ничего сделать...."
+          ],
           ["ショートカット", ""],
           ["(I'll head to the altar again...)", "(Я снова пойду к алтарю...)"],
           ["生贄", ""],
@@ -6210,7 +6264,10 @@
           ["仕草", ""],
           ["アイテム「箱と鍵」", ""],
           ["顔グラフィック", ""],
-          ["@1\nI'll try this if I find a small lock.", "@1\nЯ попробую его, если найду маленький замок."],
+          [
+            "@1\nI'll try this if I find a small lock.",
+            "@1\nЯ попробую его, если найду маленький замок."
+          ],
           ["アイテム使用不可", ""],
           ["使用アイテム", ""],
           ["スノーボール", ""],
@@ -6338,7 +6395,10 @@
           ["アイテム「鍵の掛かった小箱」", ""],
           ["アイテム「箱と鍵」", ""],
           ["顔グラフィック", ""],
-          ["@1\nNeed a key to open the box.", "@1\nНужен ключ, чтобы открыть шкатулку."],
+          [
+            "@1\nNeed a key to open the box.",
+            "@1\nНужен ключ, чтобы открыть шкатулку."
+          ],
           ["アイテム使用不可", ""],
           ["使用アイテム", ""],
           ["スノーボール", ""],
@@ -6600,7 +6660,10 @@
         "data": [
           ["アイテム使用不可", ""],
           ["顔グラフィック", ""],
-          ["@1\nThis item won't help here.", "@1\nЭтот предмет здеь не поможет."]
+          [
+            "@1\nThis item won't help here.",
+            "@1\nЭтот предмет здеь не поможет."
+          ]
         ],
         "context": [
           ["CommonEvent.dat/CommonEvent/42/name"],
@@ -6634,7 +6697,10 @@
           ["イベントスキップ", ""],
           ["BGM/HMIX_misao.ogg", ""],
           ["BGM/HMIX_zetsubou.ogg", ""],
-          ["<C>\\c[3]Creation Tool\n\\c[0]WOLF RPG Editor", "<C>\\c[3]Движок\n\\c[0]WOLF RPG Editor"],
+          [
+            "<C>\\c[3]Creation Tool\n\\c[0]WOLF RPG Editor",
+            "<C>\\c[3]Движок\n\\c[0]WOLF RPG Editor"
+          ],
           [
             "<C>\\c[3]Map Graphics/Character Graphics\n\\c[0]Nekura Fantasy Map Chips\nDot E Sekai",
             "<C>\\c[3]Графика карт/Графика персонажей\n\\c[0]Nekura Fantasy Map Chips\nDot E Sekai"
@@ -6651,17 +6717,32 @@
             "<C>\\c[3]Sound Effects\n\\c[0]Vita-chi Sozaikan\nThe Matchmakers\nMaou Damashii\nFree Sound Effects On-Jin\nSound Effect Lab",
             "<C>\\c[3]Звуковые эффекты\n\\c[0]Vita-chi Sozaikan\nThe Matchmakers\nMaou Damashii\nFree Sound Effects On-Jin\nSound Effect Lab"
           ],
-          ["<C>\\c[3]Backgrounds/Effects\n\\c[0]Pipoya", "<C>\\c[3]Фоны/Эффекты\n\\c[0]Pipoya"],
-          ["<C>\\c[3]Common Events\n\\c[0]Foolish Kingdom", "<C>\\c[3]События\n\\c[0]Foolish Kingdom"],
-          ["<C>\\c[3]Fonts\n\\c[0]Source Han Serif\nfub Koubou (Minamoji)", "<C>\\c[3]Шрифты\n\\c[0]Source Han Serif\nfub Koubou (Minamoji)"],
+          [
+            "<C>\\c[3]Backgrounds/Effects\n\\c[0]Pipoya",
+            "<C>\\c[3]Фоны/Эффекты\n\\c[0]Pipoya"
+          ],
+          [
+            "<C>\\c[3]Common Events\n\\c[0]Foolish Kingdom",
+            "<C>\\c[3]События\n\\c[0]Foolish Kingdom"
+          ],
+          [
+            "<C>\\c[3]Fonts\n\\c[0]Source Han Serif\nfub Koubou (Minamoji)",
+            "<C>\\c[3]Шрифты\n\\c[0]Source Han Serif\nfub Koubou (Minamoji)"
+          ],
           [" 追加", ""],
           [
             "<C>\\c[3]English Localization\n\\c[0]vgperson\n\n\\c[3]Chinese Localization\n\\c[0]Zheng Zhang（PLAYISM）",
             "<C>\\c[3]Английская локализация\n\\c[0]vgperson\n\n\\c[3]Китайская локализация\n\\c[0]Zheng Zhang（PLAYISM）"
           ],
-          ["<C>\\c[3]Distribution\n\\c[0]PLAYISM", "<C>\\c[3]Распространение\n\\c[0]PLAYISM"],
+          [
+            "<C>\\c[3]Distribution\n\\c[0]PLAYISM",
+            "<C>\\c[3]Распространение\n\\c[0]PLAYISM"
+          ],
           [" ", ""],
-          ["<C>\\c[3]Presented by\n\\c[0]Hitodenashi no kuukan", "<C>\\c[3]Представил игру\n\\c[0]Hitodenashi no kuukan"],
+          [
+            "<C>\\c[3]Presented by\n\\c[0]Hitodenashi no kuukan",
+            "<C>\\c[3]Представил игру\n\\c[0]Hitodenashi no kuukan"
+          ],
           ["<C>\\c[3]NORMAL END", "<C>\\c[3]КОНЕЦ"],
           ["<C>\\c[3]BAD END", "<C>\\c[3]ПЛОХАЯ КОНЦОВКА"],
           ["Save/System.sav", ""],
@@ -6672,7 +6753,10 @@
           ["成績表", ""],
           ["SystemFile/maou_itemget2.ogg", ""],
           ["顔グラフィック", ""],
-          ["@0\n\"Truth\" has been unlocked.", "@0\n\"Правда\" была разблокирована."],
+          [
+            "@0\n\"Truth\" has been unlocked.",
+            "@0\n\"Правда\" была разблокирована."
+          ],
           ["バッドエンド", ""],
           ["14", ""],
           ["スタイル", ""],
@@ -6880,7 +6964,10 @@
           ["特別な友達", ""],
           ["SystemFile/maou_itemget2.ogg", ""],
           ["顔グラフィック", ""],
-          ["@0\nGallery has been unlocked.", "@0\nГалерея была разблокирована."],
+          [
+            "@0\nGallery has been unlocked.",
+            "@0\nГалерея была разблокирована."
+          ],
           ["スタイル", ""],
           ["通常", ""],
           ["スキップ", ""],
@@ -7348,8 +7435,14 @@
             "Не-а, она даже не посмотрела. Какой позор.\nДумаю, мне придется оставить эти монеты для себя."
           ],
           ["@1\nMisao! Need some cash?", "@1\nМисао! Нужны деньги?"],
-          ["Didn't even look at me.\nChump change not enough...?", "Даже не посмотрела на меня.\nНеужели ей этих денег мало?"],
-          ["Or, yeah, I guess that's not the issue...", "Или, да, полагаю, проблема не в этом..."],
+          [
+            "Didn't even look at me.\nChump change not enough...?",
+            "Даже не посмотрела на меня.\nНеужели ей этих денег мало?"
+          ],
+          [
+            "Or, yeah, I guess that's not the issue...",
+            "Или, да, полагаю, проблема не в этом..."
+          ],
           ["17", ""],
           ["アイテム使用不可", ""],
           ["使用アイテム", ""],
@@ -7530,7 +7623,10 @@
             "...Nope. I can't do something so awful\nas sprinkle her with salt!\nBetter think of something else!",
             "...Нет. Я не могу сделать что-то настолько ужасное,\n как посыпать её солью!\nНадо придумать что-то другое!"
           ],
-          ["@1\nI know!\nI'll scatter this around Yoshino!", "@1\nЗнаю!\nЯ рассыпаю это вокруг Йошино!"],
+          [
+            "@1\nI know!\nI'll scatter this around Yoshino!",
+            "@1\nЗнаю!\nЯ рассыпаю это вокруг Йошино!"
+          ],
           ["SE/onjin_step_kusa.ogg", ""],
           ["画面色調変更", ""],
           ["アイテム使用不可", ""],
@@ -7814,7 +7910,10 @@
           ["CharaChip/aki_バット.png", ""],
           ["@52\n\\s[1]\n Misao, stop it!", "@52\n\\s[1]\n Мисао, прерати!"],
           ["CharaChip/aki.png", ""],
-          ["@50\n\\s[1]\n Look, Misao! Money!", "@50\n\\s[1]\nСмотри, Мисао! Деньги!"],
+          [
+            "@50\n\\s[1]\n Look, Misao! Money!",
+            "@50\n\\s[1]\nСмотри, Мисао! Деньги!"
+          ],
           [
             "@3\n\\s[1]\n Nope, she didn't even look. What a shame.\n I guess I'll have to keep these coins for myself.",
             "@3\n\\s[1]\n Не-а, она даже не посмотрела. Какой позор.\n Думаю, мне придется оставить эти монеты для себя."
@@ -7826,19 +7925,31 @@
           ],
           ["@1\nMisao can't be stopped.", "@1\nМисао не остановить."],
           ["CharaChip/aki2_バット.png", ""],
-          ["@53\n\\s[1]\n Misao, stop it already!", "@53\n\\s[1]\n Мисао, хватит!"],
+          [
+            "@53\n\\s[1]\n Misao, stop it already!",
+            "@53\n\\s[1]\n Мисао, хватит!"
+          ],
           ["CharaChip/aki2.png", ""],
           [
             "\\s[1]\n Ugh, I'm getting some awful ideas...\n But there must be a better way!",
             "\\s[1]\n Гх, у меня в голове ужасные мысли...\n Должен же быть лучший путь!"
           ],
-          ["@51\n\\s[1]\n Misao! Need some cash?", "@51\n\\s[1]\n Мисао! Нужны деньги?"],
+          [
+            "@51\n\\s[1]\n Misao! Need some cash?",
+            "@51\n\\s[1]\n Мисао! Нужны деньги?"
+          ],
           [
             "@16\n\\s[1]\n Didn't even look at me.\n Chump change not enough...?",
             "@16\n\\s[1]\n Даже не посмотрела на меня.\n Неужели, ей этих денег мало?"
           ],
-          ["\\s[1]\n Or, yeah, I guess that's not the issue...", "\\s[1]\n Или, да, полагаю, проблема не в этом..."],
-          ["@16\n\\s[1]\n I know!\n I'll scatter this around Yoshino!", "@16\n\\s[1]\n Знаю!\n Я рассыпаю это вокруг Йошино!"],
+          [
+            "\\s[1]\n Or, yeah, I guess that's not the issue...",
+            "\\s[1]\n Или, да, полагаю, проблема не в этом..."
+          ],
+          [
+            "@16\n\\s[1]\n I know!\n I'll scatter this around Yoshino!",
+            "@16\n\\s[1]\n Знаю!\n Я рассыпаю это вокруг Йошино!"
+          ],
           ["SE/☆足音(草).ogg", ""]
         ],
         "context": [
@@ -7926,10 +8037,16 @@
           ["CharaChip/chara_aki_etc.png", ""],
           ["CharaChip/chara_aki_etc_b.png", ""],
           ["顔グラフィック", ""],
-          ["@1\nThe small key seems to fit the small lock perfectly.", "@1\nМаленький ключ, кажется, идеально подходит к маленькому замку.."],
+          [
+            "@1\nThe small key seems to fit the small lock perfectly.",
+            "@1\nМаленький ключ, кажется, идеально подходит к маленькому замку.."
+          ],
           ["SE/lab_door_key.ogg", ""],
           ["画面色調変更", ""],
-          ["The box opened.\nThere's a pendant with a bell on it inside.", "Шкатулка открылась.\nВнутри оказался кулон с колокольчиком."],
+          [
+            "The box opened.\nThere's a pendant with a bell on it inside.",
+            "Шкатулка открылась.\nВнутри оказался кулон с колокольчиком."
+          ],
           ["アイテム入手", ""],
           ["ショートカット", ""],
           ["項目", ""]
@@ -8761,7 +8878,10 @@
           ["セーブ確認", ""],
           ["<SQUARE>", ""],
           ["Save your game?", "Сохранить вашу игру?"],
-          ["You will lose your quicksave data.\nDo you wish to continue?", "Вы потеряете быстрое сохранение.\nВы хотите продолжить?"],
+          [
+            "You will lose your quicksave data.\nDo you wish to continue?",
+            "Вы потеряете быстрое сохранение.\nВы хотите продолжить?"
+          ],
           ["Yes", "Да"],
           ["No", "Нет"],
           ["カーソル表示", ""],
@@ -10801,7 +10921,10 @@
           ["立ち絵変更", ""],
           ["戻るキー押す", ""],
           ["選択肢", ""],
-          ["Change the title screen to this image?", "Изменить главное меню на это изображение?"],
+          [
+            "Change the title screen to this image?",
+            "Изменить главное меню на это изображение?"
+          ],
           ["Yes", "Да"],
           ["No", "Нет"],
           ["Save/System.sav", ""],
@@ -10959,7 +11082,10 @@
           ["12", ""],
           ["実績：くっさ～い！", ""],
           ["@1\nSmells like floral mint.", "@1\nПахнет цветочной мятой."],
-          ["@1\nThis is the girls' bathroom...\nI should get out quick.", "@1\nЭто туалет для девушек...\nЯ должен уйти, быстро."],
+          [
+            "@1\nThis is the girls' bathroom...\nI should get out quick.",
+            "@1\nЭто туалет для девушек...\nЯ должен уйти, быстро."
+          ],
           ["種類", ""],
           ["通常", ""],
           ["特殊", ""]
@@ -12553,7 +12679,10 @@
           ["BAD END", "ПЛОХАЯ КОНЦОВКА"],
           ["\\f[10]\\cself[6]", ""],
           ["SystemFile/menu_line.png", ""],
-          ["This function requires save data from ver. 1.06 or later.", "Эта функция требует сохранение из версии 1.06 или позже."],
+          [
+            "This function requires save data from ver. 1.06 or later.",
+            "Эта функция требует сохранение из версии 1.06 или позже."
+          ],
           ["項目表示", ""],
           ["プレイ時間", ""],
           [" ", ""],
@@ -12571,7 +12700,10 @@
           ["ボタン説明", ""],
           ["\\E\\f[10]\\i[600]\\my[-4] Change Avatar", ""],
           ["\\E\\f[10]\\i[510]\\my[-4] Change Avatar", ""],
-          ["Not usable in this scenario.", "Нельзя использовать в текущем сценарии."],
+          [
+            "Not usable in this scenario.",
+            "Нельзя использовать в текущем сценарии."
+          ],
           ["項目選択", ""],
           ["ｷｬﾝｾﾙ押しっぱなし防止", ""],
           ["アバター選択", ""],
@@ -19459,28 +19591,46 @@
           ["キャラ方向変更", ""],
           ["画面色調変更", ""],
           ["顔グラフィック", ""],
-          ["@1\nI see...\nSo you offered the keys at the altar.", "@1\nПонятно...\nВы принесли все ключи к алтарю."],
+          [
+            "@1\nI see...\nSo you offered the keys at the altar.",
+            "@1\nПонятно...\nВы принесли все ключи к алтарю."
+          ],
           [
             "However, it appears the curse has yet to lift.\nIt seems we will need a sacrifice.",
             "Тем не менее, кажется, проклятие всё ещё не снято.\nПохоже, нам понадобится жертва."
           ],
           ["Sacrifice?", "Жертва?"],
-          ["Did you see the red tombstones outside?", "Вы видели красные надгробия снаружи?"],
+          [
+            "Did you see the red tombstones outside?",
+            "Вы видели красные надгробия снаружи?"
+          ],
           [
             "The spirits of the ones who, in death,\netch their names into the graves,\nmust be sacrificed to free her spirit.",
             "Души тех, кто после смерти запечатал свои имена\nна могиле, должны были быть принесены в жертву, чтобы освободить её дух."
           ],
-          ["There are four tombstones.\nSo there must be four names.", "Есть четыре надгробия.\nТак что должно быть четыре имени."],
+          [
+            "There are four tombstones.\nSo there must be four names.",
+            "Есть четыре надгробия.\nТак что должно быть четыре имени."
+          ],
           [
             "Three of them already\nhave names engraved in them.\n...There's just one left.",
             "На трёх из них уже выгравированы имена.\n...Там осталось только одно имя."
           ],
-          ["Someone must be the last sacrifice...", "Кто-то должен быть последней жертвой..."],
+          [
+            "Someone must be the last sacrifice...",
+            "Кто-то должен быть последней жертвой..."
+          ],
           ["キャラモーション", ""],
           ["anime_aki02", ""],
           ["anime_aki05", ""],
-          ["Then I'll... I'll be the sacrifice...!", "Тогда я буду... Я буду жертвой...!"],
-          ["Then I... I'll be the sacrifice...!", "Тогда я... я буду жертвой...!"],
+          [
+            "Then I'll... I'll be the sacrifice...!",
+            "Тогда я буду... Я буду жертвой...!"
+          ],
+          [
+            "Then I... I'll be the sacrifice...!",
+            "Тогда я... я буду жертвой...!"
+          ],
           [
             "That is impossible. Those tombstones\nare tools born of her hatred...",
             "Это невозможно.\nЭти надгробия - инструменты, рожденные от её ненависти..."
@@ -19490,13 +19640,19 @@
             "Тот, кто не заработал её обиды\nне может вырезать там своё имя."
           ],
           ["x", ""],
-          ["You set out to save her.\nAs such, she could not hate you.", "Ты хочешь спасти её.\nТаким образом, она не может ненавидеть тебя."],
+          [
+            "You set out to save her.\nAs such, she could not hate you.",
+            "Ты хочешь спасти её.\nТаким образом, она не может ненавидеть тебя."
+          ],
           [
             "There are others still alive.\nThink well on who must be the sacrifice.",
             "Есть другие, кто ещё живой.\nХорошо подумай о том, кто должен стать жертвой."
           ],
           ["仕草", ""],
-          ["Someone who Misao hates...\nHmm...", "Кто-то, кого Мисао ненавидит...\nХмм..."],
+          [
+            "Someone who Misao hates...\nHmm...",
+            "Кто-то, кого Мисао ненавидит...\nХмм..."
+          ],
           [
             "But... I have to sacrifice someone to lift the curse...?\nI can't possibly...",
             "Но... я должен пожертвовать кем-то, чтобы снять проклятие..?\nЯ не могу..."
@@ -19726,7 +19882,7 @@
           ["ひとでなしくんの声", ""],
           ["SE/match_voice_hitodenashi_re.ogg", ""],
           ["SE/match_voice_hitodenashi.ogg", ""],
-          ["@2\nНайден \\c[2]Маленький негодник\\c[0]!", ""],
+          ["@2\nНайден \\c[2]Маленький проказник\\c[0]!", ""],
           ["SE/match_voice_hitodenashi2_re.ogg", ""],
           ["SE/match_voice_hitodenashi2.ogg", ""],
           ["アニメーション", ""],
@@ -19849,10 +20005,7 @@
           ["<SCREENSHOT>", ""],
           ["ショートカット", ""],
           ["Получен аватар \\E\\c[2]\\cself[5]\\N\\c[0].", ""],
-          [
-            "\\f[10]Эта функция требует сохранение версии 1.06 или позже.",
-            ""
-          ],
+          ["\\f[10]Эта функция требует сохранение версии 1.06 или позже.", ""],
           ["入手アバター", ""],
           ["演出", ""],
           ["文字列", ""],
@@ -21285,32 +21438,59 @@
             "Найдено в шкафчике, в котором был заперт Мр. Курата.\r\nОн его уронил?"
           ],
           ["SE/match_key.ogg", ""],
-          ["\\i[002]\\my[-9] Emergency Exit Key", "\\i[002]\\my[-9] Ключ от аварийного выхода"],
+          [
+            "\\i[002]\\my[-9] Emergency Exit Key",
+            "\\i[002]\\my[-9] Ключ от аварийного выхода"
+          ],
           [
             "The key to the emergency exit, dropped into a vase.\r\nCould you leave the school with this?",
             "Ключ от аварийного выхода, брошенный в вазу.\r\nМожет, так получится выбрать из школы?"
           ],
           ["\\i[003]\\my[-9] Seeds", "\\i[003]\\my[-9] Семена"],
-          ["Seeds of some kind.\r\nCould plant them in a pot.", "Какие-то семена.\r\nИх можно посадить в горшок."],
+          [
+            "Seeds of some kind.\r\nCould plant them in a pot.",
+            "Какие-то семена.\r\nИх можно посадить в горшок."
+          ],
           ["SE/lab_seed.ogg", ""],
-          ["\\i[004]\\my[-9] Plant Enrichment", "\\i[004]\\my[-9] Удобрение для растений"],
+          [
+            "\\i[004]\\my[-9] Plant Enrichment",
+            "\\i[004]\\my[-9] Удобрение для растений"
+          ],
           [
             "Chemicals that make plants thrive.\r\nThey seem to speed up growth.",
             "Химикаты, которые способствуют цветению.\r\nОни, видимо, ускоряют рост.."
           ],
           ["SE/match_kucha_re.ogg", ""],
-          ["\\i[005]\\my[-9] Purple Lilies", "\\i[005]\\my[-9] Фиолетовые лилии"],
-          ["Lilies grown from the seeds planted in the library.", "Лилии, выращенные из семян, посаженных в библиотеке."],
+          [
+            "\\i[005]\\my[-9] Purple Lilies",
+            "\\i[005]\\my[-9] Фиолетовые лилии"
+          ],
+          [
+            "Lilies grown from the seeds planted in the library.",
+            "Лилии, выращенные из семян, посаженных в библиотеке."
+          ],
           ["SE/lab_eff_kira.ogg", ""],
           ["\\i[006]\\my[-9] White Lilies", "\\i[006]\\my[-9] Белые лилии"],
-          ["Lilies painted white with paint.", "Лилии, покрашенные белой краской."],
+          [
+            "Lilies painted white with paint.",
+            "Лилии, покрашенные белой краской."
+          ],
           ["\\i[007]\\my[-9] CD-ROM", "\\i[007]\\my[-9] CD-ROM"],
-          ["An unknown compact disc.\r\nCould use it with a computer.", "Неизвестный компакт диск.\r\nМожно использовать на компьютере."],
+          [
+            "An unknown compact disc.\r\nCould use it with a computer.",
+            "Неизвестный компакт диск.\r\nМожно использовать на компьютере."
+          ],
           ["SE/lab_cdrom.ogg", ""],
           ["\\i[008]\\my[-9] Coin", "\\i[008]\\my[-9] Монета"],
-          ["A 100-yen coin fished out of a toilet.\r\nIt stinks a little.", "Монета в 100 иен, выловленная из унитаза.\r\nОна немного воняет."],
+          [
+            "A 100-yen coin fished out of a toilet.\r\nIt stinks a little.",
+            "Монета в 100 иен, выловленная из унитаза.\r\nОна немного воняет."
+          ],
           ["SE/match_coin.ogg", ""],
-          ["\\i[009]\\my[-9] Sports Drink", "\\i[009]\\my[-9] Спортивный напиток"],
+          [
+            "\\i[009]\\my[-9] Sports Drink",
+            "\\i[009]\\my[-9] Спортивный напиток"
+          ],
           [
             "A drink from a 100-yen vending machine.\r\nSomeone who's tired can have it.",
             "Напиток, купленный в торговом автомате за 100 иен.\r\nТот, кто устал, может взять его себе."
@@ -21322,7 +21502,10 @@
             "Острый инструмент для хирургии.\r\nОн заставляет вас немного почувствовать себя врачом."
           ],
           ["SE/onjin_sasinuku.ogg", ""],
-          ["\\i[011]\\my[-9] Salt Mandrake", "\\i[011]\\my[-9] Соляная Мандрагора"],
+          [
+            "\\i[011]\\my[-9] Salt Mandrake",
+            "\\i[011]\\my[-9] Соляная Мандрагора"
+          ],
           [
             "An exceedingly strange creature.\r\nWas startled by the phone and died.",
             "Чрезвычайно странное существо.\r\nИспугался телефонного звонка и умер."
@@ -21339,16 +21522,28 @@
             "A small key from inside the Sports Drink.\r\nNearly ended up in Tohma's stomach.",
             "Маленький ключ, который был в спортивном напитке.\r\nЧуть не оказался у Томы в животе."
           ],
-          ["\\i[014]\\my[-9] Mandrake Bomb", "\\i[014]\\my[-9] Мандрагорная бомба"],
+          [
+            "\\i[014]\\my[-9] Mandrake Bomb",
+            "\\i[014]\\my[-9] Мандрагорная бомба"
+          ],
           [
             "A weird creature smelling of gunpowder.\r\nMight explode if given a shock.",
             "Странное существо, пахнущее порохом.\r\nМожет взорваться, если испытает шок."
           ],
           ["\\i[015]\\my[-9] Locked Box", "\\i[015]\\my[-9] Шкатулка"],
-          ["A small box with a lock.\r\nIt needs a similarly small key.", "Маленький ящик на замке.\r\nНужен такой же маленький ключ."],
+          [
+            "A small box with a lock.\r\nIt needs a similarly small key.",
+            "Маленький ящик на замке.\r\nНужен такой же маленький ключ."
+          ],
           ["SE/lab_box.ogg", ""],
-          ["\\i[016]\\my[-9] Warding Bell", "\\i[016]\\my[-9] Защитный колокольчик"],
-          ["A bell pendant.\r\nWearing it feels slightly reassuring.", "Кулон с колокольчиком.\r\nНадевая его, чувствуешь себя немного увереннее."],
+          [
+            "\\i[016]\\my[-9] Warding Bell",
+            "\\i[016]\\my[-9] Защитный колокольчик"
+          ],
+          [
+            "A bell pendant.\r\nWearing it feels slightly reassuring.",
+            "Кулон с колокольчиком.\r\nНадевая его, чувствуешь себя немного увереннее."
+          ],
           ["SE/match_bell.ogg", ""],
           ["\\i[017]\\my[-9] Board Notice", "\\i[017]\\my[-9] Записка с доски"],
           [
@@ -21356,10 +21551,16 @@
             "Кусок бумаги со странным кодом на нём.\r\nПохоже, он означает место в школе."
           ],
           ["SE/onjin_book_page.ogg", ""],
-          ["\\i[018]\\my[-9] Doll Room Key", "\\i[018]\\my[-9] Ключ от кукольной комнаты"],
+          [
+            "\\i[018]\\my[-9] Doll Room Key",
+            "\\i[018]\\my[-9] Ключ от кукольной комнаты"
+          ],
           ["A key from the Doll Room.", "Ключ от кукольной комнаты."],
           ["------------------------------", ""],
-          ["A bat used by the baseball team.", "Бита, которой пользуется бейсбольная команда."]
+          [
+            "A bat used by the baseball team.",
+            "Бита, которой пользуется бейсбольная команда."
+          ]
         ],
         "context": [
           [
@@ -21631,89 +21832,89 @@
       "Data/BasicData/DataBase.dat/db/8": {
         "data": [
           ["Picture/tr_00.png", ""],
-          ["Thorned Rose", ""],
+          ["Thorned Rose", "Шипованная роза"],
           ["Picture/tr_01.png", ""],
-          ["Spirits' Temptation 1", ""],
+          ["Spirits' Temptation 1", "Дух искушения 1"],
           ["Picture/tr_02.png", ""],
-          ["Spirits' Temptation 2", ""],
+          ["Spirits' Temptation 2", "Дух искушения 2"],
           ["Picture/tr_03.png", ""],
-          ["Cursed Desk", ""],
+          ["Cursed Desk", "Проклятая парта"],
           ["Picture/tr_04.png", ""],
-          ["Bogus Door", ""],
+          ["Bogus Door", "Фальшивая дверь"],
           ["Picture/tr_05.png", ""],
-          ["The Library Killer", ""],
+          ["The Library Killer", "Библиотечный убийца"],
           ["Picture/tr_06.png", ""],
-          ["Pancake", ""],
+          ["Pancake", "Блин"],
           ["Picture/tr_07.png", ""],
-          ["Lazy-Eyed Ranger", ""],
+          ["Lazy-Eyed Ranger", "Ленивый рейнджер"],
           ["Picture/tr_08.png", ""],
-          ["Blood Wall", ""],
+          ["Blood Wall", "Кровавая стена"],
           ["Picture/tr_09.png", ""],
-          ["Locker 1", ""],
+          ["Locker 1", "Шкафчик 1"],
           ["Picture/tr_10.png", ""],
-          ["Locker 2", ""],
+          ["Locker 2", "Шкафчик 2"],
           ["Picture/tr_11.png", ""],
-          ["Hanako of the Toilet", ""],
+          ["Hanako of the Toilet", "Туалетная Ханако"],
           ["Picture/tr_12.png", ""],
-          ["Lunchtime", ""],
+          ["Lunchtime", "Время обеда"],
           ["Picture/tr_13.png", ""],
-          ["Anatomical Model", ""],
+          ["Anatomical Model", "Анатомическая модель"],
           ["Picture/tr_14.png", ""],
-          ["Measuring Up", ""],
+          ["Measuring Up", "Измерясь"],
           ["Picture/tr_15.png", ""],
-          ["Engulfing Darkness", ""],
+          ["Engulfing Darkness", "Всепоглощающая тьма"],
           ["Picture/tr_16.png", ""],
-          ["Hall of Death", ""],
+          ["Hall of Death", "Зал смерти"],
           ["Picture/tr_17.png", ""],
-          ["Sharp Glass", ""],
+          ["Sharp Glass", "Острое Стекло"],
           ["Picture/tr_18.png", ""],
-          ["Broken Fire Door", ""],
+          ["Broken Fire Door", "Сломанная пожарная дверь"],
           ["Picture/tr_19.png", ""],
-          ["Kurata's Attack", ""],
+          ["Kurata's Attack", "Атака Кураты"],
           ["Picture/tr_20.png", ""],
-          ["Trip Laser", ""],
+          ["Trip Laser", "Лазер"],
           ["Picture/tr_21.png", ""],
-          ["High Security", ""],
+          ["High Security", "Высокая безопасность"],
           ["Picture/tr_22.png", ""],
-          ["Call of the Reaper", ""],
+          ["Call of the Reaper", "Зов жнеца"],
           ["Picture/tr_23.png", ""],
-          ["Test-Tube Spirit", ""],
+          ["Test-Tube Spirit", "Дух подопытного"],
           ["Picture/tr_24.png", ""],
-          ["Mystery Drink", ""],
+          ["Mystery Drink", "Мистический напиток"],
           ["Picture/tr_25.png", ""],
-          ["Shelves' Shadow", ""],
+          ["Shelves' Shadow", "Тень полок"],
           ["Picture/tr_26.png", ""],
-          ["Long Way Down", ""],
+          ["Long Way Down", "Длинный путь вниз"],
           ["Picture/tr_27.png", ""],
-          ["Mimicry", ""],
+          ["Mimicry", "Мимикрия"],
           ["Picture/tr_28.png", ""],
-          ["Test Subject", ""],
+          ["Test Subject", "Тестовый субъект"],
           ["Picture/tr_29.png", ""],
-          ["Cardboard Box", ""],
+          ["Cardboard Box", "Картонная коробка"],
           ["Picture/tr_30.png", ""],
-          ["Left Exposed", ""],
+          ["Left Exposed", "Обнаруженный"],
           ["Picture/tr_31.png", ""],
-          ["Mandrake Bomb", ""],
+          ["Mandrake Bomb", "Мандрагорная бомба"],
           ["Picture/tr_32.png", ""],
-          ["Play It Again", ""],
+          ["Play It Again", "Сыграй ещё раз"],
           ["Picture/tr_33.png", ""],
-          ["Stop the Music", ""],
+          ["Stop the Music", "Остановите музыку"],
           ["Picture/tr_34.png", ""],
-          ["Awakened Doll", ""],
+          ["Awakened Doll", "Пробудившаяся кукла"],
           ["Picture/tr_35.png", ""],
-          ["Kudoh in Crisis", ""],
+          ["Kudoh in Crisis", "Кудо в кризисе"],
           ["Picture/tr_36.png", ""],
-          ["Deadly Canvas", ""],
+          ["Deadly Canvas", "Смертельный холст"],
           ["Picture/tr_37.png", ""],
-          ["Busted", ""],
+          ["Busted", "Пойманный"],
           ["Picture/tr_38.png", ""],
-          ["To the Bone", ""],
+          ["To the Bone", "До Костей"],
           ["Picture/tr_39.png", ""],
-          ["Preyed Upon", ""],
+          ["Preyed Upon", "Преследуемый"],
           ["Picture/tr_40.png", ""],
-          ["Slipped", ""],
+          ["Slipped", "Соскользнувший"],
           ["Picture/tr_41.png", ""],
-          ["Tombstone", ""],
+          ["Tombstone", "Могила"],
           ["Picture/tr_42.png", ""]
         ],
         "context": [
@@ -21993,33 +22194,33 @@
       },
       "Data/BasicData/DataBase.dat/db/9": {
         "data": [
-          ["Volume Settings", ""],
-          ["Reset Settings", ""],
-          ["Return to Title", ""],
-          ["BGM", ""],
-          ["BGS", ""],
-          ["SE", ""],
-          ["Confirm", ""],
-          ["Cancel", ""],
-          ["Special", ""],
-          ["Save", ""],
-          ["Return to Options", ""],
+          ["Volume Settings", "Настройки звука"],
+          ["Reset Settings", "Сброс настроек"],
+          ["Return to Title", "Вернуться на главную"],
+          ["BGM", "Музыка"],
+          ["BGS", "Звуки"],
+          ["SE", "Эффекты"],
+          ["Confirm", "Подтвердить"],
+          ["Cancel", "Отмена"],
+          ["Special", "Особые"],
+          ["Save", "Сохранить"],
+          ["Return to Options", "Вернуться в настройки"],
           ["CHARACTERS", ""],
           ["MUSIC", ""],
           ["ART", ""],
           ["TITLES", ""],
           ["BACK", ""],
-          ["Load", ""],
-          ["Continue", ""],
-          ["Begin", ""],
+          ["Load", "Загрузка"],
+          ["Continue", "Продолжить"],
+          ["Begin", "Начать"],
           ["\\cself[6]", ""],
           ["\\cself[7]", ""],
-          ["Options", ""],
-          ["Quit", ""],
-          ["Playtime", ""],
-          ["Continues Used", ""],
-          ["Quicksaves", ""],
-          ["Steps", ""]
+          ["Options", "Настройки"],
+          ["Quit", "Выход"],
+          ["Playtime", "Времени в игре"],
+          ["Continues Used", "Продолжений использовано"],
+          ["Quicksaves", "Быстроые сохранения"],
+          ["Steps", "Шаги"]
         ],
         "context": [
           ["DataBase.dat/db/9/fldSet/0/idx/1/val"],
@@ -22133,56 +22334,56 @@
       },
       "Data/BasicData/DataBase.dat/db/10": {
         "data": [
-          ["Aki (F)", ""],
+          ["Aki (F)", "Аки(Ж)"],
           ["face/chara_aki_f_1.png", ""],
           ["face/chara_aki_f_2.png", ""],
           ["face/chara_aki_f_3.png", ""],
           ["face/chara_aki_f_4.png", ""],
-          ["Aki (M)", ""],
+          ["Aki (M)", "Аки (М)"],
           ["face/chara_aki_m_1.png", ""],
           ["face/chara_aki_m_2.png", ""],
           ["face/chara_aki_m_3.png", ""],
-          ["Misao", ""],
+          ["Misao", "Мисао"],
           ["face/chara_misao_1.png", ""],
           ["face/chara_misao_2.png", ""],
           ["face/chara_misao_3.png", ""],
           ["face/chara_misao_4.png", ""],
           ["face/chara_misao_5.png", ""],
-          ["Tohma", ""],
+          ["Tohma", "Тома"],
           ["face/chara_touma_1.png", ""],
           ["face/chara_touma_2.png", ""],
           ["face/chara_touma_3.png", ""],
-          ["Yoshino", ""],
+          ["Yoshino", "Йошино"],
           ["face/chara_yoshino_1.png", ""],
           ["face/chara_yoshino_2.png", ""],
           ["face/chara_yoshino_3.png", ""],
-          ["Kudoh", ""],
+          ["Kudoh", "Кудо"],
           ["face/chara_kudou_1.png", ""],
           ["face/chara_kudou_2.png", ""],
           ["face/chara_kudou_3.png", ""],
           ["face/chara_kudou_4.png", ""],
           ["face/chara_kudou_5.png", ""],
-          ["Saotome", ""],
+          ["Saotome", "Саотоме"],
           ["face/chara_otome_1.png", ""],
           ["face/chara_otome_2.png", ""],
           ["face/chara_otome_3.png", ""],
           ["face/chara_otome_4.png", ""],
-          ["Ayaka", ""],
+          ["Ayaka", "Аяка"],
           ["face/chara_ayaka_1.png", ""],
           ["face/chara_ayaka_2.png", ""],
-          ["Kurata", ""],
+          ["Kurata", "Курата"],
           ["face/chara_kurata_1.png", ""],
           ["face/chara_kurata_2.png", ""],
           ["face/chara_kurata_3.png", ""],
           ["face/chara_kurata_4.png", ""],
-          ["Takano", ""],
+          ["Takano", "Такано"],
           ["face/chara_takano_1.png", ""],
-          ["Onigawara", ""],
+          ["Onigawara", "Онигавара"],
           ["face/chara_onigawara_1.png", ""],
-          ["Library", ""],
+          ["Library", "Библиотека"],
           ["face/chara_tosyoshitsu_1.png", ""],
           ["face/chara_tosyoshitsu_2.png", ""],
-          ["Hanako of the Toilet", ""],
+          ["Hanako of the Toilet", "Туалетная Ханако"],
           ["face/chara_hanako1.png", ""],
           ["face/chara_hanako2.png", ""],
           ["face/chara_hanako3.png", ""]
@@ -22368,37 +22569,37 @@
       },
       "Data/BasicData/DataBase.dat/db/11": {
         "data": [
-          ["Misao", ""],
+          ["Misao", "Мисао"],
           ["BGM/HMIX_misao.ogg", ""],
           ["\"Death of London\"\r\n      Free Music H/MIX GALLERY", ""],
-          ["Normal Days", ""],
+          ["Normal Days", "Обычные дни"],
           ["BGM/HMIX_nichijyou.ogg", ""],
           ["\"Sundial Hill\"\r\n      Free Music H/MIX GALLERY", ""],
-          ["Unrest", ""],
+          ["Unrest", "Нестабильность"],
           ["BGM/HMIX_fuon.ogg", ""],
           ["\"Inviting Child\"\r\n      Free Music H/MIX GALLERY", ""],
-          ["Despair", ""],
+          ["Despair", "Отчаяние"],
           ["BGM/HMIX_zetsubou.ogg", ""],
           ["\"Invitation\"\r\n      Free Music H/MIX GALLERY", ""],
-          ["Trap", ""],
+          ["Trap", "Ловушка"],
           ["BGM/HMIX_kudamonoya.ogg", ""],
           ["\"Fruit Store\"\r\n      Free Music H/MIX GALLERY", ""],
-          ["Mystery Man", ""],
+          ["Mystery Man", "Таинственный человек"],
           ["BGM/HMIX_nozonootoko.ogg", ""],
           ["\"Tricky Space\"\r\n      Free Music H/MIX GALLERY", ""],
-          ["Library", ""],
+          ["Library", "Библиотека"],
           ["BGM/HMIX_tosyoshitsu.ogg", ""],
           ["\"Tin Coffee Maker\"\r\n      Free Music H/MIX GALLERY", ""],
-          ["Suspense", ""],
+          ["Suspense", "Напряжение"],
           ["BGM/onjin_suspense.ogg", ""],
           ["\"BGM Loop Suspense R02\"\r\n      Free Sound Effects On-Jin", ""],
-          ["Kagome", ""],
+          ["Kagome", "Кагоме"],
           ["BGM/bitachi_kagome.ogg", ""],
           ["\"Kagome Kagome\"\r\n      Vita-chi House", ""],
-          ["Classmate", ""],
+          ["Classmate", "Одноклассник"],
           ["BGM/rengoku_saigo.ogg", ""],
           ["\"Dying Madness\"\r\n      Music Resources -Purgatory Garden-", ""],
-          ["Kurata", ""],
+          ["Kurata", "Курата"],
           ["BGM/rengoku_boku2.ogg", ""],
           [
             "\"I'm Not Me, I Am Me, I'm Not Me\r\n-2nd Edition-\"\r\n      Music Resources -Purgatory Garden-",
@@ -22526,37 +22727,43 @@
       },
       "Data/BasicData/DataBase.dat/db/12": {
         "data": [
-          ["Bonus Drawing", ""],
+          ["Bonus Drawing", "Бонусные рисунки"],
           ["Picture/pic01.png", ""],
-          ["Aki", ""],
+          ["Aki", "Аки"],
           ["Picture/pic02.png", ""],
-          ["The Whole Cast", ""],
+          ["The Whole Cast", "Весь актёрский состав"],
           ["Picture/pic03.png", ""],
-          ["Cruel Angel", ""],
+          ["Cruel Angel", "Жестокий ангел"],
           ["Picture/pic04.png", ""],
-          ["Unrequited Love", ""],
+          ["Unrequited Love", "Неразделенная любовь"],
           ["Picture/pic05.png", ""],
-          ["Darkness", ""],
+          ["Darkness", "Тьма"],
           ["Picture/pic06.png", ""],
-          ["Lost Future", ""],
+          ["Lost Future", "Потерянное будущее"],
           ["Picture/pic07.png", ""],
-          ["Two of a Kind", ""],
+          ["Two of a Kind", "Два сапога пара"],
           ["Picture/pic08.png", ""],
-          ["President's Life", ""],
+          ["President's Life", "Жизнь президента"],
           ["Picture/pic09.png", ""],
-          ["Old Title Screen", ""],
+          ["Old Title Screen", "Старое главное меню"],
           ["Picture/pic10.png", ""],
-          ["Curse Girl", ""],
+          ["Curse Girl", "Проклятие девушки"],
           ["Picture/pic11.png", ""],
-          ["Devil Eyes", ""],
+          ["Devil Eyes", "Глаза дьявола"],
           ["Picture/pic12.png", ""],
-          ["Found You", ""],
+          ["Found You", "Нашел тебя"],
           ["Picture/still_mitsuketa.png", ""],
-          ["Special Friend", ""],
-          ["Unlocked by clearing Truth\r\nwith the male protagonist.", ""],
+          ["Special Friend", "Особенный друг"],
+          [
+            "Unlocked by clearing Truth\r\nwith the male protagonist.",
+            "Открывается за прохождение Правды\nза мужского главного героя."
+          ],
           ["Picture/pic13.png", ""],
-          ["Greatest Friend", ""],
-          ["Unlocked by clearing Truth\r\nwith the female protagonist.", ""],
+          ["Greatest Friend", "Лучший Друг"],
+          [
+            "Unlocked by clearing Truth\r\nwith the female protagonist.",
+            "Открывается за прохождение Правды\nза женского главного героя."
+          ],
           ["Picture/pic14.png", ""]
         ],
         "context": [
@@ -22775,36 +22982,36 @@
           ["Picture/tips_sousa.png", ""],
           [
             "Press \\cself[5] while exploring to activate the \\c[2]Crimson Eyes\\c[0].\r\nThe \\c[2]Crimson Eyes\\c[0] will highlight places you've checked.\r\nTry using them if you're stuck.\r\n",
-            ""
+            "Нажмите \\cself[5] во время исследования мира, чтобы активировать \\c[2]Багровые глаза\\c[0].\r\n\\c[2]Багровые глаза\\c[0] выделят проверенные места.\r\nПопробуйте использовать их, если застряли.\r\n"
           ],
           ["Picture/tips_hiiro.png", ""],
           ["\\i[603]", ""],
           ["\\i[517]", ""],
           [
             "Press \\cself[5] while moving to start \\c[2]dashing\\c[0].\r\nYou'll stop dashing if you come to a stop.",
-            ""
+            "Нажмите \\cself[5] во время движения, чтобы начать \\c[2]бег\\c[0].\r\nВы прекратите бег, если остановитесь."
           ],
           ["\\i[600]", ""],
           ["\\i[510]", ""],
           [
             "Press \\cself[5] while exploring to \\c[2]quicksave\\c[0].\r\nBe careful, though, as some places won't allow you to save.",
-            ""
+            "Нажмите \\cself[5] во время исследования мира, чтобы сделать \\c[2]быстрое сохранение\\c[0].\r\nНо будьте осторожны: в некоторых местах сохранение будет недоступно."
           ],
           ["\\i[604]", ""],
           ["\\i[514]", ""],
           [
             "You can hold \\cself[5] during some scenes to \\c[2]skip\\c[0] them.\r\n\r\n【Main Skippable Scenes】\r\nPrologue, flashbacks, epilogue",
-            ""
+            "Вы можете удерживать \\cself[5] в некоторых сценах, чтобы \\c[2]пропустить\\c[0] их.\r\n\r\n【Основные пропускаемые сцены】\r\nПролог, флешбеки, эпилог"
           ],
           ["\\i[602] or \\i[603] ", ""],
           ["\\i[512]", ""],
           [
             "Explore the school consumed by the other world,\r\nand find \\c[2]Misao's belongings\\c[0].",
-            ""
+            "Исследуйте школу, поглощённую иным миром,\r\nи найдите \\c[2]вещи Мисао\\c[0]."
           ],
           [
             "\\c[2]Li'l Miscreant\\c[0] is a small demon in the otherworldly school.\r\nYou can't see him with the naked eye;\r\nuse the \\c[2]Crimson Eyes\\c[0] to find him.\r\n\r\nSearch your surroundings, referring to the hints on the report card's\r\nAvatar Select screen and using the \\c[2]Crimson Eyes\\c[0].",
-            ""
+            "\\c[2]Маленький Проказник\\c[0] — это небольшой демон в школе из иного мира.\r\nВы не увидите его невооружённым глазом;\r\nиспользуйте \\c[2]Багровые глаза\\c[0], чтобы найти его.\r\n\r\nИсследуйте окружение, опираясь на подсказки на экране выбора аватара\r\nи используя \\c[2]Багровые глаза\\c[0]."
           ]
         ],
         "context": [
@@ -22879,104 +23086,110 @@
         "data": [
           [
             "X/X/XX - Cloudy\r\n\r\nThe \\c[2]emergency exit key\\c[0] fell into the vase.\r\nSomebody pick it up!",
-            ""
+            "X/X/XX - Клауди\r\n\r\nКлюч от \\c[2]запасного выхода\\c[0] упал в вазу.\r\nКто-нибудь, достаньте его!"
           ],
           [
             "Security system operational...\r\nDeactivation requires a Protection Disc (CD-ROM).",
-            ""
+            "Система безопасности включена...\r\nДля деактивации требуется защитный диск (CD-ROM)."
           ],
-          ["Caution: Fire shutters out of order.", ""],
+          [
+            "Caution: Fire shutters out of order.",
+            "Осторожно: Пожарные заслонки вышли из строя."
+          ],
           [
             "About Salt Mandrakes\r\n\r\nSalt Mandrakes are made of salt,\r\nwhich can be harvested by rubbing them.\r\nBeing extremely timid creatures, they may die if startled.",
-            ""
+            "О Соляных Мандрагорах\r\n\r\nСоляные Мандрагоры состоят из соли,\r\nкоторую можно собрать, если потереть их.\r\nБудучи крайне пугливыми существами, они могут умереть от испуга."
           ],
           [
             "About Mandrake Bombs\r\n\r\nMandrake Bombs are packed with gunpowder.\r\nIf struck, they will explode after a few seconds.\r\nThis blast is strong enough to destroy rock.\r\n(Given the danger, please refrain from\r\nusing one inside the school.)",
-            ""
+            "О Мандрагорных Бомбах\r\n\r\nМандрагорные бомбы набиты порохом.\r\nПолучив удар, они взрываются через несколько секунд.\r\nЭтот взрыв достаточно силён, чтобы разрушить камень.\r\n(Помните об опасности, пожалуйста, воздержитесь от\r\nиспользования их внутри школы.)"
           ],
           [
             "A test-tube sample has escaped.\r\nIt only just woke from a long sleep,\r\nso I imagine it's weakened, but it's a powerful one.\r\nI must find it before any damages occur.\r\n\r\nI'll wear a warding charm just in case.\r\nI don't trust it much, but it may be\r\nenough to deal with that frail sample.",
-            ""
+            "Образец из пробирки сбежал.\r\nОн только что проснулся от долгого сна,\r\nтак что, я думаю, он ослаблен, но всё ещё силён.\r\nЯ должен найти его до того, как что-то будет разрушено.\r\n\r\nНа всякий случай надену защитный амулет.\r\nНе особо доверяю ему, но он его может\r\n быть достаточно, чтобы справиться с этим хрупким образцом."
           ],
           [
             "Worryingly, I can't find the box I put the charm in.\r\nDid someone steal it?\r\nOh, what a hassle.",
-            ""
+            "Меня беспокоит, что я не могу найти коробку, в которую положил амулет.\r\nЕё кто-то украл?\r\nОх, какая неприятность."
           ],
-          ["No running in the halls!", ""],
-          ["Don't look back.", ""],
+          ["No running in the halls!", "Не бегать по коридорам!"],
+          ["Don't look back.", "Не оглядывайся."],
           [
             "Ghosts filled with hate become evil spirits,\r\nand then transform into hideous monsters.\r\nBe afraaaid!",
-            ""
+            "Призраки, наполненные ненавистью, становятся злыми духами,\r\nа затем превращаются в ужасных монстров.\r\nБооойтесь!"
           ],
           [
             "\"The Puppeteer's Lullaby\"\r\n\r\nIn 19XX, a woman opened a clinic.\r\n\"I want to save this world from the nightmare of suffering.\"\r\nThat was her desire.\r\n\r\nYet this desire slowly became warped.\r\nChildhood memories ate at her heart,\r\nawakening desires that had slumbered within.",
-            ""
+            "\"Колыбельная Кукловода\"\r\n\r\nВ 19XX году женщина открыла клинику.\r\n\"Я хочу спасти этот мир от кошмара страданий.\"\r\nЭто было её желание.\r\n\r\nНо со временем это желание исказилось.\r\nДетские воспоминания терзали её сердце,\r\nпробуждая дремавшие внутри желания."
           ],
           [
             "Notes on the Girl\r\n\r\nHow long has it been since that girl awoke?\r\nShe seems to have inherited memories up to age 9\r\nfrom the original cells, and looking so healthy and cheerful,\r\nI feel as if she truly is my daughter. Her rare outbursts\r\nmay be from a bit of demonic blood being mixed in...\r\n\r\nEither way, her fondness for books is the same as ever.\r\nYet lately, she seems absentminded and sullen.\r\n\r\nMight she be lonely without her mother?\r\nOr is something else on her mind?\r\nI'll try to bring it up with her later.",
-            ""
+            "Записки о девочке\r\n\r\nСколько времени прошло с тех пор, как она пробудилась?\r\nКажется, она унаследовала воспоминания до 9 лет\r\nот исходных клеток, и, выглядя такой здоровой и весёлой.\r\nМне кажется, что она действительно моя дочь. Её редкие вспышки гнева\r\nмогут быть связаны с примесью демонической крови...\r\n\r\nКак бы то ни было, её любовь к книгам осталась прежней.\r\nОднако в последнее время она выглядит рассеянной и угрюмой.\r\n\r\nМожет быть, ей одиноко без матери?\r\nИли что-то другое беспокоит её?\r\nПопробую поговорить с ней об этом позже."
           ],
           [
             "Notes on Twin Dolls\r\n\r\nI created twin dolls from my friend's cells.\r\nMy daughter wanted friends, you see.\r\n\r\nIt appears my friend seeks to experiment with the twins.\r\nHe seems interested in demons and humans coexisting...\r\nBut what do you call our friendship, then?\r\nDoes something dissatisfy you?\r\n\r\nNot that I care about such things.\r\nI'll just watch these cute twins grow.\r\n\r\n",
-            ""
+            "Записки о куклах-близнецах\r\n\r\nЯ создал кукол-близнецов из клеток моего друга.\r\nМоя дочь хотела друзей, понимаете.\r\n\r\nПохоже, мой друг хочет поэкспериментировать с близнецами.\r\nЕго интересует сосуществование демонов и людей...\r\nНо что тогда ты назыаешь нашей дружбой?\r\nЧто-то тебя не устраивает?\r\n\r\nХотя меня такие вещи не волнуют.\r\nЯ просто буду наблюдать, как эти милые близнецы растут.\r\n\r\n"
           ],
           [
             "Dear friend,\r\n\r\nHow I adore those red eyes of yours.\r\nWhat can I do to make them mine?",
-            ""
+            "Дорогой друг,\r\n\r\nКак же я обожаю твои красные глаза.\r\nЧто я могу сделать, чтобы они стали моими?"
           ],
           [
             "\"When you X someone, what do you use?\r\nMe, I did it with a bat. It was exhilarating!\"",
-            ""
+            "\"Когда ты X кого-то, чем ты пользуешься?\r\nЯ, например, использовал биту. Это было захватывающе!\""
           ],
           [
             "And the lazy-eyed ranger said...\r\n\"Thanks for the tasty sweets, Jack.\r\nI'll give you the power of curses.\"",
-            ""
+            "И ленивый рейнджер сказал...\r\n\"Спасибо за вкусные сладости, Джек.\r\nЯ дам тебе силу проклятий.\""
           ],
           [
             "\"My Memories\"\r\n\r\nI know father's secret.\r\n\r\nMy father is a scientist. He loves research\r\nand is always locked up in the lab in the basement.\r\n\r\nAnd I've always heard things from that lab...\r\nAnimal and human screams...\r\nEven at a young age, I knew what my father was doing.\r\n",
-            ""
+            "\"Мои воспоминания\"\r\n\r\nЯ знаю секрет отца.\r\n\r\nМой отец - ученый. Он любит исследовать,\r\nи поэтому всегда заперт в лаборатории, в подвале.\r\n\r\nЯ слышала странные вещи из этой лаборатории...\r\nКрики животных и людей...\r\nДаже в раннем возрасте я знала, что делал мой отец.\r\n"
           ],
           [
             "So I pretended I wasn't looking.\r\nThat I didn't know or hear anything.\r\nI feigned ignorance the whole time.\r\nBecause I loved father.\r\n\r\nThat's not the only secret I know.\r\n\r\nWhen mom and I aren't around, he and his helper...",
-            ""
+            "Так что я делала вид, что не смотрю.\r\nЧто ничего не знаю и не слышу..\r\nЯ всё время притворялась, что ничего не понимаю.\r\nПотому что я любила отца.\r\n\r\nЭто не единственный секрет, который я знаю.\r\n\r\nКогда меня с мамой нету, он и его помощница..."
           ],
           [
             "\"Confession\"\r\n\r\nBeing born in this other world, I was able to speak\r\ntruthfully to my father. The truth is, I hated him,\r\nalways so obsessed with research. But I was\r\nso afraid of being alone that I couldn't say so.\r\nAll I could do was cling to father.\r\n\r\nFather listened to me without saying a word.\r\nWith a gentle expression, he watched over me\r\nas I said selfish things. It was that kind face I loved.\r\n\r\nFor the first time, I felt like we really were\r\nfather and daughter.\r\n",
-            ""
+            "\"Признание\"\r\n\r\nРодившись в этом другом мире, я смогла сказать\r\nправду своему отцу. Правда в том, что я ненавидела его,\r\nвечно зацикленного на исследованиях.\r\nНо я так боялась остаться одна, что не могла\r\nсказать об этом. Всё, что я могла сделать, это цепляться за отца.\r\n\r\nОтец слушал меня не говоря ни слова.\r\nС мягким выражением лица, он смотрел на меня,\r\nпока я говорила эгоистичные вещи. Это было то доброе лицо, которое я любила.\r\n\r\nВпервые я почувствовала, что мы действительно\r\nотец и дочь.\r\n"
           ],
           [
             "\"Dream\"\r\n\r\nUncle calls that world brimming with life\r\n\"the world of the living.\" I like the Other World,\r\nsure, but I'd like to live there someday.\r\nTo leave father's side and live on my own.\r\n\r\nIt's okay; father will forgive me.\r\nAs distant as we may become, I'm still his daughter.",
-            ""
+            "\"Сон\"\r\n\r\nДядя называет тот полный жизни мир\r\n\"миром живых.\" Мне, конечно, нравится Другой мир,\r\nно я бы хотела однажды пожить там.\r\nПокинуть отца и жить самостоятельно.\r\n\r\nВсё в порядке, отец простит меня.\r\nКак бы далеко мы ни оказались, я всё равно его дочь."
           ],
-          ["No one listens when I play...", ""],
-          ["Thank you for listening...", ""],
+          [
+            "No one listens when I play...",
+            "Никто не слушает, когда я играю..."
+          ],
+          ["Thank you for listening...", "Спасибо за слушание..."],
           [
             "The nun has hidden the door key.\r\nI want your help to make her divulge its location.\r\nThe switch is on the wall behind the guillotine.",
-            ""
+            "Монахиня спрятала ключ от двери.\r\nМне нужна твоя помощь, чтобы заставить её сказать, где он.\r\nПереключатель находится на стене за гильотиной."
           ],
           [
             "From the two mushrooms, down 3 steps.\r\nThere's no marker; simply search recklessly.",
-            ""
+            "От двух грибов, вниз на 3 шага.\r\nТам нет указателей; просто ищи наугад."
           ],
           [
             "\\s[1], I am another you.\r\nWe'll surely never meet. But that is our fate.\r\nRegardless, I'll always watch over you.",
-            ""
+            "\\s[1], я - это другая ты.\r\nМы, конечно, никогда не встретимся. Но это наша судьба.\r\nТем не менее, я всегда буду смотреть за тобой."
           ],
           [
             "\\s[1], I'm another you.\r\nI don't think we'll ever meet. But that's our fate.\r\nEven so, I'll always watch over you.",
-            ""
+            "\\s[1], я - это другой ты.\r\nНе думаю, что мы когда-нибудь встретимся. Но это наша судьба.\r\nНо даже так я всегда буду смотреть за тобой."
           ],
           [
             "\"This is a cursed letter.\r\nIf you don't send this to five other people in a week,\r\nyou will be cursed.\"",
-            ""
+            "\"Это проклятое письмо.\r\nЕсли не отправишь его пятерым другим людям за неделю,\r\nты будешь проклят.\""
           ],
           [
             "I was satisfied at first...\r\nI enjoyed being loved by all.\r\n\r\nBut suddenly, it all felt hollow...\r\nIt wasn't me who everyone loved.\r\nIt was my mask.",
-            ""
+            "Сначала я была довольна...\r\nМне нравилось, что все меня любят.\r\n\r\nНо вдруг всё это стало казаться пустым...\r\nЛюбили не меня.\r\nЛюбили мою маску."
           ],
           [
             "X/X/XX – Cloudy\r\n\r\nTo the student who broke my 500,000-yen vase:\r\nshow yourself immediately.",
-            ""
+            "X/X/XX – Клауди\r\n\r\nСтуденту, который разбил мою вазу за 500,000 иен:\r\nнемедленно явись."
           ]
         ],
         "context": [
@@ -24682,78 +24895,93 @@
         "data": [
           ["<LIGHT>祭壇", ""],
           ["顔グラフィック", ""],
-          ["@1\nOffer up the six keys,\nor the curse shall not be lifted.", ""],
+          [
+            "@1\nOffer up the six keys,\nor the curse shall not be lifted.",
+            "@1\nПреподнесите шесть ключей,\nили проклятье не будет снято."
+          ],
           ["選択肢", ""],
-          ["Offer the keys?", ""],
-          ["Yes", ""],
-          ["No", ""],
+          ["Offer the keys?", "Поднести ключи"],
+          ["Yes", "Да"],
+          ["No", "Нет"],
           ["画面色調変更", ""],
           ["SE/lab_oku.ogg", ""],
           [
             "@1\nYou offered all the keys to the altar.\nBut nothing happened.",
-            ""
+            "@1\nВсе ключи поднесены к алтарю.\nНо ничего не произошло."
           ],
-          ["Why isn't anything happening?", ""],
-          ["Why's nothing happening?", ""],
-          ["You don't have all six yet.", ""],
+          ["Why isn't anything happening?", "Почему не произошло ничего?"],
+          ["Why's nothing happening?", "Почему ничего не происходит?"],
+          ["You don't have all six yet.", "У тебя всё еще нет всех шести."],
           ["イベント当たり判定", ""],
           ["徒歩移動", ""],
           ["キャラ方向変更", ""],
           ["キャラモーション", ""],
           ["anime_aki04", ""],
-          ["Misao! If you need a sacrifice, I'll be it!", ""],
+          [
+            "Misao! If you need a sacrifice, I'll be it!",
+            "Мисао! Если тебе нужна жертва, я буду ею!"
+          ],
           ["anime_aki05", ""],
           [
             "Misao, you can hear me, right?!\nIf you need a sacrifice, I'll be it!\nAnd let that put an end to this!",
-            ""
+            "Мисао, ты же слышишь меня, верно?!\nЕсли тебе нужна жертва, я буду ею!\nИ это положит всему конец!"
           ],
           ["x", ""],
           ["仕草", ""],
           [
             "I always wanted to be friends with you,\nyet I couldn't save you in the end.\nSo I don't really have the right...",
-            ""
+            "Я всегда хотел дружить с тобой,\nно в конце концов, я не смог спасти тебя.\nТак что я действительно не имею права..."
           ],
           [
             "I'm in the same boat as everyone else...\nWe were in the same class,\nyet I never noticed your suffering.",
-            ""
+            "Я в той же лодке, что и все остальные...\nМы были в одном классе,\nно я никогда не замечал твоих страданий."
           ],
           [
             "I thought it'd be nice to be friends,\nbut I never even paid attention to you.\nYou can't call that responsible...",
-            ""
+            "Я думал, что было бы хорошо быть твоим другом,\nно я даже никогда к тебе не обращался.\nТы не сможешь назвать это ответственным поступком..."
           ],
           ["SE/match_bell.ogg", ""],
           ["感情表現アイコン", ""],
-          ["(So she can hear me!)", ""],
-          ["Misao, please!\nLet me be the sacrifice!", ""],
+          ["(So she can hear me!)", "(Так она меня слышит!)"],
+          [
+            "Misao, please!\nLet me be the sacrifice!",
+            "Мисао, прошу!\nПозволь мне быть жертвой!"
+          ],
           [
             "Don't worry!\nI don't have a family or anything,\nso it's not like many will care if I die...",
-            ""
+            "Не переживай!\nУ меня нет семьи или кого-то ещё,\nтак что вряд ли многих будет волновать, если я умру..."
           ],
-          ["So...", ""],
-          ["I'll give this life to you!", ""],
+          ["So...", "Так что..."],
+          ["I'll give this life to you!", "Я дам эту жизнь тебе!"],
           [
             "I don't have a family or anything, anyway...\nI don't think I'll regret it if I die.",
-            ""
+            "Во всяком случае, у меня нет семьи или кого-то ещё...\nЯ не думаю что пожалею, если умру."
           ],
-          ["I give this life to you!", ""],
-          ["Maybe she won't take me...?", ""],
-          ["It can't be me...?", ""],
+          ["I give this life to you!", "Я даю эту жизнь тебе!"],
+          [
+            "Maybe she won't take me...?",
+            "Может, она не хочет забирать меня...?"
+          ],
+          ["It can't be me...?", "Это не могу быть я...?"],
           ["イベントスキップ", ""],
           ["CharaChip/chara_touma.png", ""],
           ["CharaChip/chara_kurata_b.png", ""],
           ["足音ループ", ""],
-          ["@1\nTohma!", ""],
+          ["@1\nTohma!", "@1\nТома!"],
           [
             "I heard from the glasses chick.\nYou done everything you need to do?\nWhat happened?",
-            ""
+            "Я узнал об этом от цыпочки в очках.\nТы доделал всё, что тебе нужно было сделать?\nчто случилось?"
           ],
           [
             "D-Don't get the wrong idea!\nI didn't come to see you\n'cause I was scared or nothin'!",
-            ""
+            "Н-не пойми меня неправильно!\nЯ шёл за тобой не потому что я напуган\nили что-то вроде того!"
           ],
-          ["@1\nMr. Kurata!", ""],
-          ["What happened with her?", ""],
-          ["I offered all the keys.\nNow, Misao should be saved.", ""],
+          ["@1\nMr. Kurata!", "@1\nМистер Курата!"],
+          ["What happened with her?", "Что с ней произошло?"],
+          [
+            "I offered all the keys.\nNow, Misao should be saved.",
+            "Я преподнёс все ключи.\nТеперь, Мисао должна быть спасена."
+          ],
           ["ショートカット", ""],
           ["SE/match_sonic.ogg", ""],
           ["ライティング", ""],
@@ -25089,7 +25317,7 @@
           ["ゲームオーバー", ""],
           ["<LIGHT>絵の具セット", ""],
           ["顔グラフィック", ""],
-          ["@1\nA set of paints.", ""],
+          ["@1\nA set of paints.", "@1\nНабор красок"],
           ["基本メニュー", ""],
           ["←廊下", ""],
           ["場所移動", ""],
@@ -25109,20 +25337,35 @@
           ["-5", ""],
           ["画面色調変更", ""],
           ["Bully", ""],
-          ["Misao, you're a model!\nYou've gotta pose!", ""],
-          ["Well, maybe she's a sculpture?", ""],
-          ["Whoa! I can totally see it!", ""],
-          ["But hmm...\nKind of a plain sculpture!", ""],
-          ["How about we make her more flashy?", ""],
-          ["Ooh, good idea!", ""],
+          [
+            "Misao, you're a model!\nYou've gotta pose!",
+            "Мисао, да ты модель!\nТы должна позировать!"
+          ],
+          ["Well, maybe she's a sculpture?", "Ну, может быть она скульптура?"],
+          ["Whoa! I can totally see it!", "Вау! Я отчётливо это вижу!"],
+          [
+            "But hmm...\nKind of a plain sculpture!",
+            "Но хм-м...\nВыглядит простовато!"
+          ],
+          [
+            "How about we make her more flashy?",
+            "Как насчет того, чтобы сделать её более красочной?"
+          ],
+          ["Ooh, good idea!", "О-о-о, хорошая идея!"],
           ["x", ""],
-          ["Gimme those paints!", ""],
-          ["Bahahaha!\nOh, so stylish!", ""],
-          ["Let's add some more over here!", ""],
-          ["I'll get the face nice and color-coordinated too!", ""],
-          ["Wahahahah!", ""],
+          ["Gimme those paints!", "Дай мне эти краски!"],
+          ["Bahahaha!\nOh, so stylish!", "Вахахаха!\nОх, как стильно!"],
+          ["Let's add some more over here!", "Давайте добавим ещё вот сюда!"],
+          [
+            "I'll get the face nice and color-coordinated too!",
+            "Я сделаю лицо аккуратным и цветным!"
+          ],
+          ["Wahahahah!", "Вахахаха!"],
           ["イベントスキップ", ""],
-          ["@2\n\\font[2]\\c[3]NEVER FORGIVE", ""],
+          [
+            "@2\n\\font[2]\\c[3]NEVER FORGIVE",
+            "@2\n\\font[2]\\c[3]НИКОГДА НЕ ПРОЩУ"
+          ],
           ["取り巻き1", ""],
           ["CharaChip/mob_003.png", ""],
           ["取り巻き2", ""],
@@ -25434,17 +25677,23 @@
           ["anime_aki05", ""],
           ["-15", ""],
           ["顔グラフィック", ""],
-          ["@1\nMisao, I fooound you!", ""],
-          ["@1\nI finally found you, Misao...", ""],
+          ["@1\nMisao, I fooound you!", "@1\nМисао, я нашлааа тебя!"],
+          [
+            "@1\nI finally found you, Misao...",
+            "@1\nЯ наконец-то нашел тебя, Мисао..."
+          ],
           ["SE/match_bell.ogg", ""],
-          ["Thank you for finding me...", ""],
-          ["Misao...", ""],
+          ["Thank you for finding me...", "Спасибо..."],
+          ["Misao...", "Мисао..."],
           ["anime_aki03", ""],
           ["x", ""],
           ["Effect/map_hizashi_2.png", ""],
           ["anime_aki01", ""],
-          ["The sky's getting brighter...", ""],
-          ["Misao...\nYou must be free from your suffering...", ""],
+          ["The sky's getting brighter...", "Небо становится ярче..."],
+          [
+            "Misao...\nYou must be free from your suffering...",
+            "Мисао...\nТеперь, ты должна быть свободна от своих страданий..."
+          ],
           ["操遺体", ""],
           ["anime_chara03", ""],
           ["-10", ""],
@@ -25666,45 +25915,60 @@
           ["SE/lab_zombie_eat.ogg", ""],
           ["<LIGHT>自動販売機", ""],
           ["顔グラフィック", ""],
-          ["@1\nA vending machine.", ""],
+          ["@1\nA vending machine.", "@1\nТорговый автомат."],
           [
             "I'm in the mood for some tea.\nBut it costs money, of course...",
-            ""
+            "Я в настроении для чая.\nНо он стоит денег, конечно..."
           ],
-          ["Hmm, I'd like some tea.\nBut it costs money, of course...", ""],
+          [
+            "Hmm, I'd like some tea.\nBut it costs money, of course...",
+            "Хмм, я бы хотела чаю.\nНо он стоит денег, конечно..."
+          ],
           ["基本メニュー", ""],
           ["<LIGHT><2>食事", ""],
           ["選択肢", ""],
-          ["Eat the food?", ""],
-          ["Yes", ""],
-          ["No", ""],
+          ["Eat the food?", "Съесть еду"],
+          ["Yes", "Да"],
+          ["No", "Нет"],
           ["実績：いただきます", ""],
           ["7", ""],
           ["画面色調変更", ""],
           ["anime_aki03", ""],
           ["16", ""],
-          ["@1\nDelicious! You can't stop!", ""],
-          ["I want to eat more and more!\nSeconds, please!", ""],
+          [
+            "@1\nDelicious! You can't stop!",
+            "@1\nВкуснятина! Ты не можешь остановиться!"
+          ],
+          [
+            "I want to eat more and more!\nSeconds, please!",
+            "Я хочу есть всё больше и больше!\nВторую порцию, пожалуйста!"
+          ],
           ["chara_tentou", ""],
-          ["Your stomach got too bloated to move!", ""],
-          ["You're getting sleepy...", ""],
+          [
+            "Your stomach got too bloated to move!",
+            "Твой желудок слишком раздут, чтобы двигаться!"
+          ],
+          ["You're getting sleepy...", "Тебе хочеться спать..."],
           ["ショートカット", ""],
           ["anime_ghost01", ""],
           ["anime_chara02", ""],
-          ["Ahh, I'm feeling peckish...\nA hamburger lunch, please!", ""],
+          [
+            "Ahh, I'm feeling peckish...\nA hamburger lunch, please!",
+            "Ахх, я так хочу есть...\nГамбургер, пожалуйста!"
+          ],
           [
             "Ehehe, I guess I do feel like\nhaving hamburgers again after all!",
-            ""
+            "Хехехе, думаю, после всего этого\nмне захочется ещё гамбургеров."
           ],
-          ["Whoaaa!\nLooks delicious!", ""],
-          ["Time to feast!", ""],
+          ["Whoaaa!\nLooks delicious!", "Воааа!\nВыглядит аппетитно!"],
+          ["Time to feast!", "Время пировать!"],
           ["退学リスト更新", ""],
           ["ゲームオーバー", ""],
           ["<LIGHT><2>すりおろし器", ""],
           ["イベント当たり判定", ""],
           [
             "@1\nAn electric grater.\nCould probably grate something as big as a radish.",
-            ""
+            "@1\nЭлектрическая тёрка.\nПохоже, эта тёрка предназначена чего-то большого, вроде редьки."
           ],
           ["空き缶", ""],
           ["SE/lab_akikan.ogg", ""],
@@ -26148,23 +26412,26 @@
           ["←上階層", ""],
           ["<LIGHT><2>岩", ""],
           ["顔グラフィック", ""],
-          ["@1\nMisao, are you up ahead?", ""],
-          ["@1\nMisao... Are you up ahead?", ""],
-          ["@1\nSmashed boulders block the path.", ""],
+          ["@1\nMisao, are you up ahead?", "@1\nMisao, ты впереди?"],
+          ["@1\nMisao... Are you up ahead?", "@1\nMisao... Ты впереди?"],
+          [
+            "@1\nSmashed boulders block the path.",
+            "@1\nРазбитые валуны преграждают путь."
+          ],
           [
             "Making things go kaboom\nis the way to go with things like this!",
-            ""
+            "Сделать кабум - это то, как\nнужно поступать с вещами вроде этого!"
           ],
           [
             "With something like this,\nit's best to blow it up with dynamite...",
-            ""
+            "Когда происходит что-то подобное,\nлучше взорвать это динамитом..."
           ],
           ["基本メニュー", ""],
           ["イベント当たり判定", ""],
           ["SE/match_voice_mandrake.ogg", ""],
           [
             "@1\nAn explosion might break the wall.\nHave to give it an impact, right...?",
-            ""
+            "@1\nВзрыв сожет сломать стену.\nНужно же как-то сделать удар, верно...?"
           ],
           ["マンドレイクボム", ""],
           ["CharaChip/monster_etc.png", ""],
@@ -26471,9 +26738,9 @@
           ["←", ""],
           ["<LIGHT>きのこ", ""],
           ["顔グラフィック", ""],
-          ["@1\nA mushroom grows here.", ""],
+          ["@1\nA mushroom grows here.", "@1\nЗдесь растёт гриб."],
           ["<LIGHT>きのこ2", ""],
-          ["@1\nTwo mushrooms grow here.", ""]
+          ["@1\nTwo mushrooms grow here.", "@1\nЗдесь растут два гриба."]
         ],
         "context": [
           ["cave4.mps/Event/0/name"],
@@ -26631,7 +26898,7 @@
         "data": [
           ["<LIGHT>看板", ""],
           ["顔グラフィック", ""],
-          ["@1\nThe solitary mushroom guides.", ""],
+          ["@1\nThe solitary mushroom guides.", "@1\nОдинокий гриб-проводник."],
           ["←看板の部屋", ""],
           ["SE/match_step_re.ogg", ""],
           ["場所移動", ""]
@@ -26741,11 +27008,14 @@
           ["仕草", ""],
           ["感情表現アイコン", ""],
           ["顔グラフィック", ""],
-          ["@2\nSomething's stuck into the ground.", ""],
+          [
+            "@2\nSomething's stuck into the ground.",
+            "@2\nЧто-то застряло в земле."
+          ],
           ["アイテム入手", ""],
           ["画面色調変更", ""],
           ["SE/lab_grass_re.ogg", ""],
-          ["The surrounding grass has dried up.", ""]
+          ["The surrounding grass has dried up.", "Трава вокруг высохла."]
         ],
         "context": [
           ["cave_before.mps/Event/0/name"],
@@ -26821,15 +27091,18 @@
           ["CharaChip/obj_etc02.png", ""],
           ["SE/lab_oku.ogg", ""],
           ["顔グラフィック", ""],
-          ["@1\nThere was a vase in the desk.", ""],
+          ["@1\nThere was a vase in the desk.", "@1\nНа парте стояла ваза."],
           ["基本メニュー", ""],
           ["選択肢", ""],
-          ["Take the lily?", ""],
-          ["Yes", ""],
-          ["No", ""],
+          ["Take the lily?", "Взять лилию?"],
+          ["Yes", "Да"],
+          ["No", "Нет"],
           ["仕草", ""],
           ["アイテム入手", ""],
-          ["@1\nNo use in going to the roof...", ""],
+          [
+            "@1\nNo use in going to the roof...",
+            "@1\nНет смысла идти на крышу..."
+          ],
           ["←廊下", ""],
           ["足跡", ""],
           ["場所移動", ""],
@@ -27030,15 +27303,18 @@
           ["CharaChip/obj_etc02.png", ""],
           ["SE/lab_oku.ogg", ""],
           ["顔グラフィック", ""],
-          ["@1\nThere was a vase in the desk.", ""],
+          ["@1\nThere was a vase in the desk.", "@1\nНа парте стояла ваза."],
           ["基本メニュー", ""],
           ["選択肢", ""],
-          ["Take the lily?", ""],
-          ["Yes", ""],
-          ["No", ""],
+          ["Take the lily?", "Взять лилию?"],
+          ["Yes", "Да"],
+          ["No", "Нет"],
           ["仕草", ""],
           ["アイテム入手", ""],
-          ["@1\nNo use in going to the roof...", ""],
+          [
+            "@1\nNo use in going to the roof...",
+            "@1\nНет смысла идти на крышу..."
+          ],
           ["←廊下", ""],
           ["足跡", ""],
           ["場所移動", ""],
@@ -27060,31 +27336,55 @@
           ["<LIGHT>閉じ込められた倉田", ""],
           ["CharaChip/obj_door.png", ""],
           ["イベント当たり判定", ""],
-          ["@1\nThere's something inside the locker...", ""],
-          ["Open the locker?", ""],
+          [
+            "@1\nThere's something inside the locker...",
+            "@1\nЧто-то находится внутри шкафчика..."
+          ],
+          ["Open the locker?", "Открыть шкафчик?"],
           ["徒歩移動", ""],
           ["キャラ方向変更", ""],
           ["SE/lab_locker_open2.ogg", ""],
           ["感情表現アイコン", ""],
           ["-20", ""],
           ["Teacher!!", ""],
-          ["*pant*... *pant*... Thank goodness...", ""],
+          [
+            "*pant*... *pant*... Thank goodness...",
+            "*пыхтение*... *пыхтение*... Слава Богу..."
+          ],
           [
             "Unbelievable... I passed out after that quake,\nand I came to locked in a locker!",
-            ""
+            "Невероятно... Я потерял сознание после землетрясения,\nи потом оказался в этом запертом шкафчике!"
           ],
-          ["It seems it's designed not to be opened from inside...", ""],
-          ["The school looks odd...\nI'm going to look around.", ""],
+          [
+            "It seems it's designed not to be opened from inside...",
+            "Похоже, он не предназначен для открытия изнутри..."
+          ],
+          [
+            "The school looks odd...\nI'm going to look around.",
+            "Школа выглядит странной...\nЯ собираюсь осмотреться вокруг."
+          ],
           ["anime_aki01", ""],
-          ["Teacher, it's dangerous here!", ""],
+          ["Teacher, it's dangerous here!", "Учитель, здесь опасно"],
           ["x", ""],
-          ["He went...\nIs he going to be okay...?", ""],
-          ["He left...\nIs he going to be okay...?", ""],
-          ["M-MONSTER!!!", ""],
+          [
+            "He went...\nIs he going to be okay...?",
+            "Он пошёл...\nС ним всё будет в порядке..?"
+          ],
+          [
+            "He left...\nIs he going to be okay...?",
+            "Он ушёл...\nС ним всё будет в порядке..?"
+          ],
+          ["M-MONSTER!!!", "М-МОНСТР!!!"],
           ["SE/onjin_sasinuku.ogg", ""],
           ["anime_aki02_b", ""],
-          ["Huh? No, teacher!\nIt's me! I'm all bloody, but it's...", ""],
-          ["Huh? No, sir! It's me!\nI'm covered in blood, but it's...", ""],
+          [
+            "Huh? No, teacher!\nIt's me! I'm all bloody, but it's...",
+            "А? Нет, учитель!\nЭто я! Я весь в крови, но это..."
+          ],
+          [
+            "Huh? No, sir! It's me!\nI'm covered in blood, but it's...",
+            "А? Нет, сэр! Это я!\nЯ покрыта кровью, но это..."
+          ],
           ["SE/match_busu_b.ogg", ""],
           ["画面色調変更", ""],
           ["anime_aki01_b", ""],
@@ -27101,10 +27401,19 @@
           ["CharaChip/chara_kurata.png", ""],
           ["ロッカーの鍵", ""],
           ["CharaChip/eff_point.png", ""],
-          ["@1\nSomething's inside the locker.", ""],
-          ["Pick it up?", ""],
-          ["This is a locker key...\nTeacher must have dropped it.", ""],
-          ["This is a locker key...\nMr. Kurata must have dropped it.", ""],
+          [
+            "@1\nSomething's inside the locker.",
+            "@1\nЧто-то лежит внутри шкафчика"
+          ],
+          ["Pick it up?", "Поднять?"],
+          [
+            "This is a locker key...\nTeacher must have dropped it.",
+            "Это ключ от шкафчика...\nУчитель, должно быть, выронил его."
+          ],
+          [
+            "This is a locker key...\nMr. Kurata must have dropped it.",
+            "Это ключ от шкафчика...\nМистер Курата, должно быть, выронил его."
+          ],
           ["anime_ghost01", ""],
           ["0", ""],
           ["倉田足跡", ""],
@@ -27518,15 +27827,18 @@
           ["CharaChip/obj_etc02.png", ""],
           ["SE/lab_oku.ogg", ""],
           ["顔グラフィック", ""],
-          ["@1\nThere was a vase in the desk.", ""],
+          ["@1\nThere was a vase in the desk.", "@1\nНа парте стояла ваза."],
           ["基本メニュー", ""],
           ["選択肢", ""],
-          ["Take the lily?", ""],
-          ["Yes", ""],
-          ["No", ""],
+          ["Take the lily?", "Взять лилию?"],
+          ["Yes", "Да"],
+          ["No", "Нет"],
           ["仕草", ""],
           ["アイテム入手", ""],
-          ["@1\nNo use in going to the roof...", ""],
+          [
+            "@1\nNo use in going to the roof...",
+            "@1\nНет смысла идти на крышу..."
+          ],
           ["←廊下", ""],
           ["足跡", ""],
           ["場所移動", ""],
@@ -27535,9 +27847,12 @@
           ["キャラモーション", ""],
           ["chara_isu", ""],
           ["-16", ""],
-          ["@2\nThere's writing in blood on the desk.", ""],
+          [
+            "@2\nThere's writing in blood on the desk.",
+            "@2\nНа парте написано кровью."
+          ],
           ["<SQUARE>", ""],
-          ["This seat is cursed", ""],
+          ["This seat is cursed", "Это место проклято"],
           ["@0\n ", ""],
           ["感情表現アイコン", ""],
           ["SE/lab_isu_hiku.ogg", ""],
@@ -27922,23 +28237,26 @@
           ["感情表現アイコン", ""],
           ["SE/lab_voice_zombie.ogg", ""],
           ["顔グラフィック", ""],
-          ["@1\nYAAAHHH!!\nS-Stay awaaay!", ""],
+          ["@1\nYAAAHHH!!\nS-Stay awaaay!", "@1\nААААА!!\nН-Не подходиии!"],
           ["O-Otome!!", ""],
-          ["Tohma!! HEEELP!!!", ""],
-          ["A-Ahh... gh...", ""],
+          ["Tohma!! HEEELP!!!", "Тома!! ПОМОГИИИ!!!"],
+          ["A-Ahh... gh...", "А-Ах-х... гх..."],
           ["キャラモーション", ""],
           ["chara_run", ""],
-          ["WAAAAAUUUUUGH!!!", ""],
+          ["WAAAAAUUUUUGH!!!", "ААААААААААААА!!!"],
           ["SE/lab_nigeru.ogg", ""],
           ["Tohma!!", ""],
-          ["No... Nooooo...!", ""],
+          ["No... Nooooo...!", "Нет... Нееееет..!"],
           ["CharaChip/chara_aki_f_run.png", ""],
           ["CharaChip/chara_aki_m_run.png", ""],
           ["ショートカット", ""],
-          ["I have to save her!\nNeed something to drive it away...!", ""],
+          [
+            "I have to save her!\nNeed something to drive it away...!",
+            "Мне нужно спасти её!\nНужно что-то, чтобы отогнать его..!"
+          ],
           [
             "The bat won't reach far enough!\nI need to find something else!",
-            ""
+            "Бита не достанет так далеко!\nМне нужно найти что-то другое!"
           ],
           ["乙女", ""],
           ["anime_chara01", ""],
@@ -27946,25 +28264,37 @@
           ["★悪霊", ""],
           ["CharaChip/ghost_etc.png", ""],
           ["乙女の亡骸", ""],
-          ["@1\nI'm sorry I couldn't save you...", ""],
-          ["@1\nI'm... sorry I couldn't save you...", ""],
+          [
+            "@1\nI'm sorry I couldn't save you...",
+            "@1\nрости, я не смог спасти тебя..."
+          ],
+          [
+            "@1\nI'm... sorry I couldn't save you...",
+            "@1\nЯ... Прости, я не смогла тебя спасти..."
+          ],
           ["乙女の亡骸コピペ", ""],
           ["<LIGHT><ITEM>PCセキュリティ", ""],
           ["文書コモン", ""],
           ["基本メニュー", ""],
           ["SE/lab_mecha_data.ogg", ""],
           ["選択肢", ""],
-          ["Security system operational...", ""],
-          ["Increase security", ""],
-          ["Disable security", ""],
-          ["Do nothing", ""],
+          [
+            "Security system operational...",
+            "Система безопасности включена..."
+          ],
+          ["Increase security", "Повысить защиту"],
+          ["Disable security", "Отключить защиту"],
+          ["Do nothing", "Не делать ничего"],
           ["仕草", ""],
           ["SE/onjin_pc_key.ogg", ""],
           ["SystemFile/lab_point.ogg", ""],
           ["Security level increased.", ""],
           ["SE/onjin_keihou.ogg", ""],
           ["[モーション]首を振る", ""],
-          ["Intruder detected. Exterminating at once.", ""],
+          [
+            "Intruder detected. Exterminating at once.",
+            "Обнаружен нарушитель. Немедленное уничтожение."
+          ],
           ["SE/match_mecha_shutter.ogg", ""],
           ["CharaChip/obj_anime4.png", ""],
           ["anime_aki03", ""],
@@ -27976,14 +28306,20 @@
           ["SE/lab_step_school.ogg", ""],
           ["退学リスト更新", ""],
           ["ゲームオーバー", ""],
-          ["Security system deactivated.", ""],
-          ["The security system is deactivated.", ""],
-          ["I have to help Saotome!", ""],
-          ["I gotta save Saotome!", ""],
+          [
+            "Security system deactivated.",
+            "Система безопасности была отключена."
+          ],
+          [
+            "The security system is deactivated.",
+            "Система безопасности отключена."
+          ],
+          ["I have to help Saotome!", "Я должна спасти Саотоме!"],
+          ["I gotta save Saotome!", "Я собираюсь спасти Саотоме!"],
           ["PC明かり(回想)", ""],
           [
             "@2\n\"I love you so much, I love you lots.\nMy heart melts like chocolate when you cross my thoughts...\"",
-            ""
+            "@2\n\"Я люблю тебя сильно, Я люблю тебя очень.\nМоё сердце тает словно шоколад, когда думаю о тебе...\""
           ],
           ["イベントスキップ", ""],
           ["SE/match_sonic.ogg", ""],
@@ -27998,16 +28334,25 @@
           ["墓_魂宿る", ""],
           ["【移動】廊下", ""],
           ["場所移動", ""],
-          ["@1\nIt feels like something's calling you...", ""],
+          [
+            "@1\nIt feels like something's calling you...",
+            "@1\nТакое чувство, будто кто-то тебя зовёт..."
+          ],
           ["イベントスキップ処理", ""],
           ["消火器", ""],
           ["★悪霊/エフェクト", ""],
           ["SE/bitachi_eat.ogg", ""],
           ["@1\nSaotome...!", ""],
           ["anime_aki02", ""],
-          ["How DARE you do this to Saotome!\nTake this, monster!!", ""],
+          [
+            "How DARE you do this to Saotome!\nTake this, monster!!",
+            "Как ты СМЕЕШЬ делать это с Саотоме!\nПолучай, монстр!!"
+          ],
           ["anime_aki01", ""],
-          ["How DARE you do this to Saotome!\nEat this, monster!!", ""],
+          [
+            "How DARE you do this to Saotome!\nEat this, monster!!",
+            "Как ты СМЕЕШЬ делать это с Саотоме!\nСъешь это, монстр!!"
+          ],
           ["<SQUARE>", ""],
           ["SE/onjin_mizu_sansui.ogg", ""],
           ["map_computerroom_2", ""],
@@ -28467,14 +28812,20 @@
           ["場所移動", ""],
           ["←上がり階段", ""],
           ["顔グラフィック", ""],
-          ["@1\nLet's escape out the entrance!", ""],
+          [
+            "@1\nLet's escape out the entrance!",
+            "@1\nНадо выйти через главный вход!"
+          ],
           ["キャラ方向変更", ""],
           ["<HIIRO>2F", ""],
           ["←男子トイレ", ""],
           ["紙", ""],
-          ["@1\nThere's a piece of paper.\nPick it up?", ""],
-          ["Yes", ""],
-          ["No", ""],
+          [
+            "@1\nThere's a piece of paper.\nPick it up?",
+            "@1\nЗдесь кусок бумаги.\nВзять его?"
+          ],
+          ["Yes", "Да"],
+          ["No", "Нет"],
           ["SE/☆paper.ogg", ""],
           ["Picture/[イベント]死の紙切れ.png", ""],
           ["Picture/[イベント]死の紙切れ2.png", ""],
@@ -28534,8 +28885,8 @@
           ["←1F廊下", ""],
           ["叶真イベント", ""],
           ["SE/onjin_glass_break.ogg", ""],
-          ["@1\nGYAAAAAAHHHHH!!", ""],
-          ["Tohma?!", ""],
+          ["@1\nGYAAAAAAHHHHH!!", "@1\nГИЯЯЯЯЯЯЯЯЯЯЯ!!"],
+          ["Tohma?!", "Тома?!"],
           ["ダッシュ", ""],
           ["仕草", ""],
           ["SE/lab_door_open.ogg", ""],
@@ -29318,8 +29669,8 @@
           ["SE/match_chainsaw_start.ogg", ""],
           ["感情表現アイコン", ""],
           ["顔グラフィック", ""],
-          ["@1\nSomething's coming!", ""],
-          ["@1\nI hear something!", ""],
+          ["@1\nSomething's coming!", "@1\nЧто-то приближается!"],
+          ["@1\nI hear something!", "@1\nЯ что-то слышу!"],
           ["キャラ方向変更", ""],
           ["徒歩移動", ""],
           ["ショートカット", ""],
@@ -29328,13 +29679,22 @@
           ["SE/lab_locker_close1.ogg", ""],
           ["SE/match_chainsaw_idle.ogg", ""],
           ["SE/lab_voice_zombie_breath.ogg", ""],
-          ["That guy was carrying around a chainsaw!", ""],
-          ["I'd be pretty much helpless\nif that guy came after me...", ""],
+          [
+            "That guy was carrying around a chainsaw!",
+            "Этот парень ходит вокруг с бензопилой!"
+          ],
+          [
+            "I'd be pretty much helpless\nif that guy came after me...",
+            "Я была бы совершенно беспомощна,\nесли бы этот парень напал на меня..."
+          ],
           [
             "W-Was that guy even human?\nCarrying a chainsaw around a school sure ain't normal...",
-            ""
+            "О-Он вообще человек?\nХодить с бензопилой вокруг школы это, конечно, ненормально..."
           ],
-          ["Don't want that guy to come after me, or I'd be done for...", ""],
+          [
+            "Don't want that guy to come after me, or I'd be done for...",
+            "Не хотелось бы, чтобы этот парень напал на меня, иначе мне конец..."
+          ],
           ["場所移動", ""],
           ["【移動】廊下", ""],
           ["<LIGHT><2>ロッカー真ん中", ""],
@@ -29568,9 +29928,15 @@
           ["anime_ghost01", ""],
           ["<LIGHT>幽霊", ""],
           ["顔グラフィック", ""],
-          ["@1\nYou sense the presence of an evil spirit.", ""],
+          [
+            "@1\nYou sense the presence of an evil spirit.",
+            "@1\nТы чувствуешь присутствие злого духа."
+          ],
           ["基本メニュー", ""],
-          ["@1\nIt feels like the evil spirit has left.", ""],
+          [
+            "@1\nIt feels like the evil spirit has left.",
+            "@1\nТакое чувство, что злой дух ушел."
+          ],
           ["ガラス割れる", ""],
           ["SE/lab_glass_break.ogg", ""],
           ["ショートカット", ""],
