@@ -123,9 +123,12 @@
           ["待機モーション", ""],
           ["1対象キャラ 2消すか表示 3ウェイト", ""],
           ["名前変更確認", ""],
-          ["the protagonist", ""],
-          ["Library", ""],
-          ["Change \\cself[5]'s name? (Requires keyboard input)", ""],
+          ["the protagonist", "главного героя"],
+          ["Library", "Библиотека"],
+          [
+            "Change \\cself[5]'s name? (Requires keyboard input)",
+            "Изменить имя \\cself[5]? (Требуется ввод с клавиатуры)"
+          ],
           ["内要", ""],
           ["メイン", ""],
           ["何かの数値", ""],
@@ -550,7 +553,10 @@
           ["\\cself[6]", ""],
           ["<SQUARE>", ""],
           ["顔グラフィック", ""],
-          ["Obtained \\my[-9]\\E\\c[2]\\cself[5]\\N\\c[0].", ""],
+          [
+            "Obtained \\my[-9]\\E\\c[2]\\cself[5]\\N\\c[0].",
+            "Получено \\my[-9]\\E\\c[2]\\cself[5]\\N\\c[0]."
+          ],
           ["所持品(アイテム)", ""],
           ["アイテム名", ""],
           ["個数", ""],
@@ -643,7 +649,10 @@
           ["キーアイテム入手", ""],
           ["<SQUARE>", ""],
           ["顔グラフィック", ""],
-          ["Obtained \\my[-9]\\E\\c[2]\\cself[5]\\N\\c[0].", ""],
+          [
+            "Obtained \\my[-9]\\E\\c[2]\\cself[5]\\N\\c[0].",
+            "Получено \\my[-9]\\E\\c[2]\\cself[5]\\N\\c[0]."
+          ],
           ["SE/match_bell.ogg", ""],
           ["You've collected all six keys.", "Вы собрали все шесть ключей."],
           ["アイテム名", ""],
@@ -756,7 +765,7 @@
           ["<GRADY-000-999>", ""],
           ["\\c[1]\\f[50]DROPPED OUT", ""],
           ["メニュー描写", ""],
-          ["Keep trying", ""],
+          ["Keep trying", "Продолжай пытаться"],
           ["Give up", ""],
           ["カーソルをロードに", ""],
           ["SystemFile/CursorBase.png", ""],
@@ -767,9 +776,9 @@
           ["Save/quicksave.sav", ""],
           ["諦める", ""],
           ["選択肢", ""],
-          ["Return to the title screen?", ""],
-          ["Yes", ""],
-          ["No", ""],
+          ["Return to the title screen?", "Вернуться на главный экран?"],
+          ["Yes", "Да"],
+          ["No", "Нет"],
           ["処理内容", ""],
           ["BGM", ""],
           ["即ゲームオーバオー", ""],
@@ -1083,11 +1092,11 @@
           ["決定", ""],
           [
             "\\E\\f[10]\\i[600]\\my[-4] Confirm Choice\n\\i[601]\\my[-4] Back to Selection",
-            ""
+            "\\E\\f[10]\\i[600]\\my[-4] Подтвердить\n\\i[601]\\my[-4] Назад к выбору"
           ],
           [
             "\\E\\f[10]\\i[510]\\my[-4] Confirm Choice\n\\i[511]\\my[-4] Back to Selection",
-            ""
+            "\\E\\f[10]\\i[510]\\my[-4] Подтвердить\n\\i[511]\\my[-4] Назад к выбору"
           ],
           ["c", ""],
           ["キャンセル　-1=不可", ""],
@@ -1579,7 +1588,7 @@
           ["アイテムがあるかどうか", ""],
           ["???", ""],
           ["\\c[\\cself[19]]\\cself[5]", ""],
-          ["Not usable in this scenario.", ""],
+          ["Not usable in this scenario.", "Недоступно в данном сценарии."],
           ["ｷｬﾝｾﾙ押しっぱなし防止", ""],
           ["カーソル表示", ""],
           ["左右方向キーでセーブとロードを出す", ""],
@@ -2124,9 +2133,9 @@
           ["SE/lab_door_key.ogg", ""],
           ["SE/match_key.ogg", ""],
           ["顔グラフィック", ""],
-          ["@1\nIt's locked.", ""],
-          ["@1\nUnlocked the door.", ""],
-          ["@1\nThe key doesn't fit.", ""],
+          ["@1\nIt's locked.", "@1\nЗаперто."],
+          ["@1\nUnlocked the door.", "@1\nДверь открыта."],
+          ["@1\nThe key doesn't fit.", "@1\nКлюч не подходит."],
           ["うつむく", ""],
           ["CharaChip/chara_aki_f_utsumuku", ""],
           ["CharaChip/chara_aki_m_utsumuku", ""],
@@ -2486,88 +2495,87 @@
           ["ヒント", ""],
           [
             "@1\nTo dispel the curse, you must find six \\c[2]belongings\\c[0]\nhidden around the school, and offer those \"keys\"\nat the altar. Please, for Misao's sake!",
-            ""
+            "@1\nЧтобы снять проклятие, тебе нужно найти шесть \\c[2]предметов\\c[0],\nспрятанных по школе, и принести эти \"ключи\"\nк алтарю. Пожалуйста, ради Мисао!"
           ],
           [
             "I saw a boy bolt from the third floor to the first.\nWas he running from an evil spirit?",
-            ""
+            "Я видела, как парень бежал с третьего этажа на первый.\nОн бежал от злого духа?"
           ],
           [
             "Tohma's all parched after that spirit got to him.\nHe should recover if he gets hydrated...",
-            ""
+            "Тома весь пересох после того, как этот дух добрался до него.\nОн должен прийти в себя, если его напоить..."
           ],
           [
             "Try checking lockers again after opening them.\nYou might just find something!",
-            ""
+            "Попробуй осматривать шкафчики после их открытия.\nТы обязательно там что-нибудь найдёшь!"
           ],
           [
             "The laboratory's security system\ncan be managed from the computer room.\nOops, I'm not supposed to say that...",
-            ""
+            "Системой безопасности лаборатории\nможно управлять из компьютерной комнаты.\nОй, я не должна была говорить этого..."
           ],
           [
             "Did you see that notice on the 1F hall bulletin board?\nWhat is that code supposed to represent?\nI suspect it's a place in the school... or places?",
-            ""
+            "Ты видел заметку на доске объявлений первого этажа?\nЧто из себя представляет этот код?\nЯ думаю, этот код показывает место в школе... или места?"
           ],
           [
             "Oh, those are seeds!\nYou should try and plant them somewhere safe.\nHey, wasn't there a flowerpot around here?",
-            ""
+            "О, это семена!\nТебе нужно посадить их куда-нибудь в безопасное место.\nЭй, разве здесь не было цветочного горшка где-то рядом?"
           ],
           [
             "So you planted the seeds in my flowerpot!\nThey'll need nutrients and time to grow big.\nOh, and I'll handle watering them for you!",
-            ""
+            "Значит, ты посадил семена в мой горшок!\nИм нужны питательные вещества и время, чтобы вырасти.\nОй, и я буду их поливать для тебя!"
           ],
           [
             "So the seeds grew into lilies!\nHmm, but purple, huh... I prefer white.\nMakes me wanna dye 'em!",
-            ""
+            "Семена выросли в лилии!\nХм, но они фиолетовые, ах... Я предпочитаю белые.\nМне хочется покрасить их!"
           ],
           [
             "There was some clamor on the first floor earlier.\nI heard a girl shrieking!\nDo you know what happened?",
-            ""
+            "На первом этаже был какой-то шум.\nЯ слышала крик девушки!\nТы знаешь, что случилось?"
           ],
           [
             "One famous urban legend at our school says\nthat if you knock three times on the stalls\nin the girls' bathroom, Hanako will answer.",
-            ""
+            "Одна известная легенда в нашей школе гласит:\nесли три раза постучать по двери\nв туалете для девочек, Ханако ответит."
           ],
           [
             "If you ever run into Hanako of the Toilet,\nkeep a safe distance and watch her carefully.\nYou'll definitely find an opening!",
-            ""
+            "Если ты когда-нибудь столкнёшься с Туалетной Ханако,\nдержись на расстоянии и внимательно следи за ней.\nТы обязательно найдёшь момент для действия!"
           ],
           [
             "You can't go up against evil spirits with a bat!\nPhysical blows will do nothing to them!\nBut it could be good for destroying objects.",
-            ""
+            "Ты не сможешь бороться с злыми духами с битой!\nФизические удары ничего им не делают!\nНо она может быть полезна для разрушения объектов."
           ],
           [
             "I saw some glowing thing in the 3F hall earlier!\nMaybe it's a ghost... *shudder...*",
-            ""
+            "Я видела кое-что светящееся на третьем этаже!\nМожет быть, это призрак... *дрожь...*"
           ],
           [
             "The effect of that warding charm seems weak...\nI don't think it'll be much use carrying it around.\nAlthough maybe if it's a weak spirit...",
-            ""
+            "Эффект этого оберега, кажется, слаб...\nЯ не думаю, что есть много смысла таскать его с собой.\nХотя, если его использовать против слабых духов...."
           ],
           [
             "Salt Mandrakes are timid creatures.\nEspecially with sound - make a sudden loud sound,\nand they'll literally faint from fright!",
-            ""
+            "Соляные Мандрагоры - робкие существа.\nОсобенно со звуком, если издать внезапный, громкий звук\nв тихом месте, они буквально упадут в обморок от страха!"
           ],
           [
             "What are you carrying around a Salt Mandrake for?\nIf it were me, I'd take it to the kitchen and clean it!",
-            ""
+            "Зачем ты ходишь с Соляной Мандрагорой?\nЕсли бы она была у меня, я бы взяла его с собой на кухню и почистила!"
           ],
           [
             "The salt from Salt Mandrakes is for cooking,\nso it has no warding effect. But who knows?\nA young ghost might be tricked and run away!",
-            ""
+            "Соль из Соляных Мандрагор предназначена для приготовления пищи,\nтак что она не имеет защитного эффекта. Но кто знает?\nМожет быть, слабые духи увидя эту соль испугаются и убегут!"
           ],
           [
             "There was a girl here who loved to play piano.\nBut no one ever listened, and she died of illness...\nPoor girl. I'd gladly hear her performance in full!",
-            ""
+            "Здесь давно училась девушка, которая любила играть на пианино.\nНо её никто не слушал, и она умерла от болезни.\nБедная девушка. Я бы с удовольствием послушала её выступление до конца!"
           ],
           [
             "Eek! Is that you, \\s[1]?!\nYou're covered in blood!\nYou should find somewhere to wash off!",
-            ""
+            "И-ик! Это ты, \\s[1]?!\nТы весь в крови!\nТебе нужно найти место, где можно помыться!"
           ],
-          ["顔グラフィック", ""],
           [
             "Huh? You offered everything already?\nThat's odd... Why didn't that dispel the curse?\nMaybe Mr. Onigawara knows something...",
-            ""
+            "А? Ты уже всё принёс?\nСтранно... Почему проклятие не развеялось?\nМожет быть, мистер Онигавара что-то знает..."
           ]
         ],
         "context": [
@@ -2663,7 +2671,7 @@
         "data": [
           ["操記憶", ""],
           ["顔グラフィック", ""],
-          ["@1\nWere those Misao's memories?", ""]
+          ["@1\nWere those Misao's memories?", "@1\nЭто были воспоминания Мисао?"]
         ],
         "context": [
           ["CommonEvent.dat/CommonEvent/17/name"],
@@ -2941,7 +2949,7 @@
           ["SE/onjin_seed.ogg", ""],
           ["仕草", ""],
           ["顔グラフィック", ""],
-          ["@1\nPlanted the seeds.", ""],
+          ["@1\nPlanted the seeds.", "@1\nСемена посажены."],
           ["アイテム入手", ""],
           ["アイテム使用不可", ""],
           ["使用アイテム", ""],
@@ -3072,7 +3080,10 @@
         "data": [
           ["アイテム「植物活力剤」", ""],
           ["顔グラフィック", ""],
-          ["@1\nThere's nothing planted yet.", ""],
+          [
+            "@1\nThere's nothing planted yet.",
+            "@1\nЗдесь ещё ничего не посажено."
+          ],
           ["仕草", ""],
           ["SE/match_busu.ogg", ""],
           ["SE/lab_pa.ogg", ""],
@@ -3080,11 +3091,11 @@
           ["叶真", ""],
           ["キャラモーション", ""],
           ["anime_chara06", ""],
-          ["@1\nSeems to have no effect.", ""],
+          ["@1\nSeems to have no effect.", "@1\nКажется, ничего не произошло."],
           ["x", ""],
           ["キャラ方向変更", ""],
           ["anime_aki05", ""],
-          ["@1\nThis is for plants...", ""],
+          ["@1\nThis is for plants...", "@1\nЭто для растений..."],
           ["洞窟(ボム)", ""],
           ["monster_etc", ""],
           ["3", ""],
@@ -3093,7 +3104,7 @@
           ["monster_mandrakebom", ""],
           ["SE/match_voice_mandrake2.ogg", ""],
           ["SE/onjin_glass_korkoro.ogg", ""],
-          ["@1\nDoesn't seem to be satisfactory.", ""],
+          ["@1\nDoesn't seem to be satisfactory.", "@1\nВыглядит неприемлемо."],
           ["画面色調変更", ""],
           ["アイテム使用不可", ""],
           ["使用アイテム", ""],
@@ -3313,8 +3324,8 @@
         "data": [
           ["アイテム「CD-ROM」", ""],
           ["顔グラフィック", ""],
-          ["I have to help Saotome!", ""],
-          ["I gotta save Saotome!", ""],
+          ["I have to help Saotome!", "Я должен помочь Саотомэ!"],
+          ["I gotta save Saotome!", "Я собираюсь спасти Саотомэ!"],
           ["仕草", ""],
           ["SE/lab_disk_insert.ogg", ""],
           ["SystemFile/lab_point.ogg", ""],
@@ -3571,11 +3582,11 @@
           ["顔グラフィック", ""],
           [
             "@1\nHey, what?! I picked tea,\nbut it gave me a sports drink instead!",
-            ""
+            "@1\nЭй, что?! Я выбрал чай,\nно мне дали спортивный напиток!"
           ],
           [
             "@1\nWhoa, what?! I picked tea,\nbut it gave me a sports drink instead!",
-            ""
+            "@1\nЭй, что?! Я выбрал чай,\nно мне дали спортивный напиток!"
           ],
           ["アイテム入手", ""],
           ["ショートカット", ""],
@@ -3755,31 +3766,46 @@
           ["キャラモーション", ""],
           ["anime_chara02", ""],
           ["顔グラフィック", ""],
-          ["@1\nYou givin' me that sports drink?", ""],
+          [
+            "@1\nYou givin' me that sports drink?",
+            "Ты даёшь мне этот спортивный напиток?"
+          ],
           [
             "T-Thanks.\nY'know, you're a good girl... An' pretty cute...\nYou could be my girlfriend!",
-            ""
+            "С-Спасибо.\nЗнаешь, ты хорошая девчонка... И довольно милая...\nТы могла бы быть моей девушкой!"
           ],
           [
             "T-Thanks, mate.\nYou're a good guy...\nYou could be like my little brother!",
-            ""
+            "С-Спасибо, приятель.\nТы классный парень...\nТы мог бы быть мне как младший брат!"
           ],
-          ["Glug, glug...\\!", ""],
+          ["Glug, glug...\\!", "Умг-умг...\\!"],
           ["感情表現アイコン", ""],
           ["anime_aki02", ""],
           [
             "Eck! Blech! Pah!\nHey, why's there this weird junk in my drink?!",
-            ""
+            "Фу! Буе! Тьфу!\nЭй, почему в моем напитке такая странная дрянь?!"
           ],
-          ["Did you do this, \\s[1]?!\nYou hate me THAT much!!", ""],
-          ["It wasn't me! Excuse you!", ""],
-          ["But what is this...?\nIt looks like a key...", ""],
-          ["Geez, you trust me that little?", ""],
-          ["Now, what is this...?\nLooks like a key...", ""],
+          [
+            "Did you do this, \\s[1]?!\nYou hate me THAT much!!",
+            "Это ты сделал, \\s[1]?!\nТы НАСТОЛЬКО сильно меня ненавидишь!!"
+          ],
+          ["It wasn't me! Excuse you!", "Это был не я! Вообще-то!"],
+          [
+            "But what is this...?\nIt looks like a key...",
+            "Но что это...?\nПохоже на ключ..."
+          ],
+          [
+            "Geez, you trust me that little?",
+            "Боже, ты так мало мне доверяешь?"
+          ],
+          [
+            "Now, what is this...?\nLooks like a key...",
+            "Так, что это...?\nПохоже на ключ..."
+          ],
           ["SE/lab_bofu.ogg", ""],
           [
             "Ah, damn it all! Disgustin'!\nI'm goin' to sleep! Don't wake me!",
-            ""
+            "Чёрт возьми! Отвратительно!\nЯ иду спать! Не будите меня!"
           ],
           ["アイテム入手", ""],
           ["x", ""],
@@ -4215,7 +4241,7 @@
           ["ショートカット", ""],
           ["CharaChip/obj_etc02.png", ""],
           ["顔グラフィック", ""],
-          ["@1\nDoesn't seem to be satisfactory.", ""],
+          ["@1\nDoesn't seem to be satisfactory.", "Выглядит неприемлемо."],
           ["画面色調変更", ""],
           [" ", ""],
           ["キャラモーション", ""],
@@ -4506,7 +4532,7 @@
           ["SE/match_busu.ogg", ""],
           ["アイテム入手", ""],
           ["顔グラフィック", ""],
-          ["@1\nI'm waiting on the roof...", ""],
+          ["@1\nI'm waiting on the roof...", "@1\nЯ смотрю на крышу..."],
           ["アイテム使用不可", ""],
           ["百合フラグ7で進行", ""],
           ["使用アイテム", ""],
@@ -4641,9 +4667,9 @@
           ["キャラ方向変更", ""],
           ["CharaChip/chara_aki_etc.png", ""],
           ["CharaChip/chara_aki_etc_b.png", ""],
-          ["@1\nIt seems too big for the small flowerpot.", ""],
+          ["@1\nIt seems too big for the small flowerpot.", "@1\nКажется, это слишком большое для маленького цветочного горшка."],
           ["ショートカット", ""],
-          ["@1\nIt seems too big for the small vase.", ""],
+          ["@1\nIt seems too big for the small vase.", "@1\nКажется, это слишком большое для маленькой вазы."],
           ["食堂", ""],
           ["SE/onjin_tsukamu.ogg", ""],
           ["キャラモーション", ""],
@@ -4657,7 +4683,7 @@
           ["monster_mandrakebom", ""],
           ["48", ""],
           ["SE/match_voice_mandrake.ogg", ""],
-          ["@1\nIt seems to like it.", ""],
+          ["@1\nIt seems to like it.", "@1\nКажется, ему это нравится."],
           [" ", ""],
           ["アイテム使用不可", ""],
           ["使用アイテム", ""],
@@ -4913,9 +4939,9 @@
           ["キャラ方向変更", ""],
           ["CharaChip/chara_aki_etc.png", ""],
           ["CharaChip/chara_aki_etc_b.png", ""],
-          ["@1\nIt seems too big for the small flowerpot.", ""],
+          ["@1\nIt seems too big for the small flowerpot.", "@1\nКажется, это слишком большое для маленького цветочного горшка."],
           ["ショートカット", ""],
-          ["@1\nIt seems too big for the small vase.", ""],
+          ["@1\nIt seems too big for the small vase.", "@1\nКажется, это слишком большое для маленькой вазы."],
           ["食堂", ""],
           ["キャラモーション", ""],
           ["anime_aki04", ""],
@@ -5226,7 +5252,7 @@
           ["x", ""],
           ["ショートカット", ""],
           ["顔グラフィック", ""],
-          ["@1\nSomething came out of the vase.", ""],
+          ["@1\nSomething came out of the vase.", "@1\nЧто-то выпало из вазы."],
           ["仕草", ""],
           ["アイテム入手", ""],
           ["洞窟", ""],
@@ -5236,29 +5262,29 @@
           ["\\i[501]", ""],
           ["SE/lab_swing.ogg", ""],
           ["SE/match_hit2.ogg", ""],
-          ["@1\nThe wall doesn't budge.", ""],
+          ["@1\nThe wall doesn't budge.", "@1\nСтена не двигается с места."],
           ["洞窟ボム", ""],
           ["SE/match_voice_mandrake2.ogg", ""],
-          ["@1\nEven if it's a plant, I feel bad…", ""],
-          ["Is it really going to explode\njust from giving it an impact?", ""],
+          ["@1\nEven if it's a plant, I feel bad…", "@1\nДаже если это растение, мне всё равно жаль..."],
+          ["Is it really going to explode\njust from giving it an impact?", "Неужели оно действительно взорвётся,\nесли просто ударить?"],
           ["anime_aki04", ""],
           ["SE/onjin_kon.ogg", ""],
           ["SE/match_voice_mandrake.ogg", ""],
           ["anime_aki02", ""],
           ["感情表現アイコン", ""],
-          ["T-This seems kind of bad...!\nI should probably get away…", ""],
+          ["T-This seems kind of bad...!\nI should probably get away…", "В-выглядит как что-то полохое...!\nВозможно, мне стоит уйти..."],
           ["anime_aki_f_bat2", ""],
           ["anime_aki_m_bat2", ""],
           [
             "@1\nI wonder if one good whack\nmight make Tohma change his ways?",
-            ""
+            "@1\nИнтересно, если хорошенько ударить,\nТома сможет исправиться?"
           ],
           ["chara_aki_capsule", ""],
-          ["@1\nTeehee, just kidding! ☆", ""],
+          ["@1\nTeehee, just kidding! ☆", "@1\nХе-хе, просто шучу! ☆"],
           ["anime_aki01", ""],
           [
             "@1\nWhat are these absurd ideas I'm having...?\nMaybe it's the air in this other world...",
-            ""
+            "@1\nЧто за нелепые мысли мне приходят в голову...?\nМожет, это из-за воздуха в этом мире..."
           ],
           ["ひとでなしくん", ""],
           ["アイテム使用不可", ""],
@@ -5681,42 +5707,42 @@
           ["anime_aki_f_bat2", ""],
           ["顔グラフィック", ""],
           ["Apologize in the afterlife!!", ""],
-          ["Sir... It's all right.\nYou'll have relief soon.", ""],
+          ["Sir... It's all right.\nYou'll have relief soon.", "Сэр... Всё в порядке.\nСкоро вам станет легче."],
           ["\\i[600]", ""],
           ["\\i[501]", ""],
           ["隠しルート", ""],
-          ["@2\nNo!\nI won't let you do that!", ""],
+          ["@2\nNo!\nI won't let you do that!", "@2\nНет!\nЯ не позволю тебе это сделать!"],
           ["感情表現アイコン", ""],
           ["x", ""],
-          ["@1\nWho...?", ""],
-          ["Is there another way?", ""],
-          ["W-What are you doing?", ""],
+          ["@1\nWho...?", "@1\nКто...?"],
+          ["Is there another way?", "Здесь есть другой выход?"],
+          ["W-What are you doing?", "Ч-Что ты делаешь?"],
           ["仕草", ""],
-          ["@1\nI see... I get it.\nI'll try going to the altar again!", ""],
+          ["@1\nI see... I get it.\nI'll try going to the altar again!", "@1\nПонятно... Я понял.\nПопробую снова пойти к алтарю!"],
           ["画面色調変更", ""],
           ["SE/lab_swing.ogg", ""],
           ["SE/match_hit.ogg", ""],
           ["墓_魂宿る", ""],
           ["男主人公ルート", ""],
           ["anime_aki_m_bat2", ""],
-          ["Apologize in the afterlife!", ""],
-          ["No... I can't do it...\nI can't kill Tohma...", ""],
-          ["No... I can't do it...\nI can't kill my teacher...", ""],
-          ["@2\nYes, you can.\nBecause you are me.", ""],
+          ["Apologize in the afterlife!", "Извиняйся в загробной жизни!"],
+          ["No... I can't do it...\nI can't kill Tohma...", "Нет... Я не могу...\nЯ не могу убить Тому..."],
+          ["No... I can't do it...\nI can't kill my teacher...", "Нет... Я не могу...\nЯ не могу убить своего учителя..."],
+          ["@2\nYes, you can.\nBecause you are me.", "@2\nДа, ты сможешь.\nВедь ты - это я."],
           ["anime_aki04", ""],
-          ["@1\nW-Who's that?!", ""],
-          ["@2\nRaise that bat high...\nAnd swing it down on him!", ""],
-          ["@1\nMy body's moving on its...!", ""],
-          ["W-WAAAAAAAAAAUGH!!", ""],
+          ["@1\nW-Who's that?!", "@1\nК-Кто это?!"],
+          ["@2\nRaise that bat high...\nAnd swing it down on him!", "@2\nПодними биту выше...\nИ ударь его со всей силы!"],
+          ["@1\nMy body's moving on its...!", "@1\nМоё тело само движется...!"],
+          ["W-WAAAAAAAAAAUGH!!", "А-АААААААААААААА!!"],
           ["SE/match_swing.ogg", ""],
-          ["(No... I can't do it...)", ""],
+          ["(No... I can't do it...)", "(Нет... Я не могу это сделать...)"],
           [
             "(I can't just sacrifice a human life,\n not even to save Misao!)",
-            ""
+            "(Я не могу просто так пожертвовать человеческой жизнью,\n даже ради спасения Мисао!)"
           ],
-          ["I'm sorry, Misao...\nI can't do anything...", ""],
+          ["I'm sorry, Misao...\nI can't do anything...", "Прости, Мисао...\nЯ ничего не могу сделать..."],
           ["ショートカット", ""],
-          ["(I'll head to the altar again...)", ""],
+          ["(I'll head to the altar again...)", "(Я снова пойду к алтарю...)"],
           ["生贄", ""],
           ["叶真", ""],
           ["倉田", ""],
