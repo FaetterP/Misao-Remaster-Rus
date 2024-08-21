@@ -765,8 +765,8 @@
           ["<GRADY-000-999>", ""],
           ["\\c[1]\\f[50]DROPPED OUT", ""],
           ["メニュー描写", ""],
-          ["Keep trying", "Продолжай пытаться"],
-          ["Give up", ""],
+          ["Keep trying", "Продолжить"],
+          ["Give up", "Сдаться"],
           ["カーソルをロードに", ""],
           ["SystemFile/CursorBase.png", ""],
           ["SystemFile/cursor_menu.png", ""],
@@ -3104,7 +3104,7 @@
           ["monster_mandrakebom", ""],
           ["SE/match_voice_mandrake2.ogg", ""],
           ["SE/onjin_glass_korkoro.ogg", ""],
-          ["@1\nDoesn't seem to be satisfactory.", "@1\nВыглядит неприемлемо."],
+          ["@1\nDoesn't seem to be satisfactory.", "@1\nВыглядит неудоволетворенным."],
           ["画面色調変更", ""],
           ["アイテム使用不可", ""],
           ["使用アイテム", ""],
@@ -3324,8 +3324,8 @@
         "data": [
           ["アイテム「CD-ROM」", ""],
           ["顔グラフィック", ""],
-          ["I have to help Saotome!", "Я должен помочь Саотомэ!"],
-          ["I gotta save Saotome!", "Я собираюсь спасти Саотомэ!"],
+          ["I have to help Saotome!", "Мне нужно спасти Саотоме!"],
+          ["I gotta save Saotome!", "Мне нужно спасти Саотоме!"],
           ["仕草", ""],
           ["SE/lab_disk_insert.ogg", ""],
           ["SystemFile/lab_point.ogg", ""],
@@ -3582,11 +3582,11 @@
           ["顔グラフィック", ""],
           [
             "@1\nHey, what?! I picked tea,\nbut it gave me a sports drink instead!",
-            "@1\nЭй, что?! Я выбрал чай,\nно мне дали спортивный напиток!"
+            "@1\nХэй, что?! Я выбрала чай,\nно вместо этого мне дали спортивный напиток!"
           ],
           [
             "@1\nWhoa, what?! I picked tea,\nbut it gave me a sports drink instead!",
-            "@1\nЭй, что?! Я выбрал чай,\nно мне дали спортивный напиток!"
+            "@1\nВоу, что?! Я выбрал чай,\nно вместо этого мне дали спортивный напиток!"
           ],
           ["アイテム入手", ""],
           ["ショートカット", ""],
@@ -3768,35 +3768,35 @@
           ["顔グラフィック", ""],
           [
             "@1\nYou givin' me that sports drink?",
-            "Ты даёшь мне этот спортивный напиток?"
+            "@1\nТы даёшь мне этот спортивный напиток?"
           ],
           [
             "T-Thanks.\nY'know, you're a good girl... An' pretty cute...\nYou could be my girlfriend!",
-            "С-Спасибо.\nЗнаешь, ты хорошая девчонка... И довольно милая...\nТы могла бы быть моей девушкой!"
+            "С-Спасибо.\nЗнаешь, ты хорошая девушка... и довольно милая...\nТы можешь быть моей подругой!"
           ],
           [
             "T-Thanks, mate.\nYou're a good guy...\nYou could be like my little brother!",
-            "С-Спасибо, приятель.\nТы классный парень...\nТы мог бы быть мне как младший брат!"
+            "С-Спасибо, приятель.\nТы хороший парень...\nПрямо как мой младший брат!"
           ],
           ["Glug, glug...\\!", "Умг-умг...\\!"],
           ["感情表現アイコン", ""],
           ["anime_aki02", ""],
           [
             "Eck! Blech! Pah!\nHey, why's there this weird junk in my drink?!",
-            "Фу! Буе! Тьфу!\nЭй, почему в моем напитке такая странная дрянь?!"
+            "Фу! Буе! Тьфу!\nЭй, почему этот хлам находится в моём напитке?!"
           ],
           [
             "Did you do this, \\s[1]?!\nYou hate me THAT much!!",
-            "Это ты сделал, \\s[1]?!\nТы НАСТОЛЬКО сильно меня ненавидишь!!"
+            "Это твоих рук дело, \\s[1]?!\nТы НАСТОЛЬКО сильно меня ненавидишь!!"
           ],
-          ["It wasn't me! Excuse you!", "Это был не я! Вообще-то!"],
+          ["It wasn't me! Excuse you!", "Это не моя вина! Прости!"],
           [
             "But what is this...?\nIt looks like a key...",
             "Но что это...?\nПохоже на ключ..."
           ],
           [
             "Geez, you trust me that little?",
-            "Боже, ты так мало мне доверяешь?"
+            "Боже, ты что, настолько мне не доверяешь?"
           ],
           [
             "Now, what is this...?\nLooks like a key...",
@@ -3805,7 +3805,7 @@
           ["SE/lab_bofu.ogg", ""],
           [
             "Ah, damn it all! Disgustin'!\nI'm goin' to sleep! Don't wake me!",
-            "Чёрт возьми! Отвратительно!\nЯ иду спать! Не будите меня!"
+            "Ах, черт побери! Отвратительно!\nЯ собираюсь спать! Не буди меня!"
           ],
           ["アイテム入手", ""],
           ["x", ""],
@@ -4241,7 +4241,7 @@
           ["ショートカット", ""],
           ["CharaChip/obj_etc02.png", ""],
           ["顔グラフィック", ""],
-          ["@1\nDoesn't seem to be satisfactory.", "Выглядит неприемлемо."],
+          ["@1\nDoesn't seem to be satisfactory.", "@1\nВыглядит неудоволетворенным."],
           ["画面色調変更", ""],
           [" ", ""],
           ["キャラモーション", ""],
@@ -4532,7 +4532,7 @@
           ["SE/match_busu.ogg", ""],
           ["アイテム入手", ""],
           ["顔グラフィック", ""],
-          ["@1\nI'm waiting on the roof...", "@1\nЯ смотрю на крышу..."],
+          ["@1\nI'm waiting on the roof...", "@2\nМы ждём на крыше..."],
           ["アイテム使用不可", ""],
           ["百合フラグ7で進行", ""],
           ["使用アイテム", ""],
@@ -5265,26 +5265,26 @@
           ["@1\nThe wall doesn't budge.", "@1\nСтена не двигается с места."],
           ["洞窟ボム", ""],
           ["SE/match_voice_mandrake2.ogg", ""],
-          ["@1\nEven if it's a plant, I feel bad…", "@1\nДаже если это растение, мне всё равно жаль..."],
-          ["Is it really going to explode\njust from giving it an impact?", "Неужели оно действительно взорвётся,\nесли просто ударить?"],
+          ["@1\nEven if it's a plant, I feel bad…", "@1\nДаже если это и растение, мне кажется что из-за него\nможет произойти что-то нехорошее..."],
+          ["Is it really going to explode\njust from giving it an impact?", "Он действительно собирается взорваться\nиз-за моего удара?"],
           ["anime_aki04", ""],
           ["SE/onjin_kon.ogg", ""],
           ["SE/match_voice_mandrake.ogg", ""],
           ["anime_aki02", ""],
           ["感情表現アイコン", ""],
-          ["T-This seems kind of bad...!\nI should probably get away…", "В-выглядит как что-то полохое...!\nВозможно, мне стоит уйти..."],
+          ["T-This seems kind of bad...!\nI should probably get away…", "Э-Это всё выглядит нехорошим..!\nМне, наверное, нужно уходить отсюда..."],
           ["anime_aki_f_bat2", ""],
           ["anime_aki_m_bat2", ""],
           [
             "@1\nI wonder if one good whack\nmight make Tohma change his ways?",
-            "@1\nИнтересно, если хорошенько ударить,\nТома сможет исправиться?"
+            "@1\nИнтересно, сможет ли один хороший удар\nзставить Тому исправиться?"
           ],
           ["chara_aki_capsule", ""],
-          ["@1\nTeehee, just kidding! ☆", "@1\nХе-хе, просто шучу! ☆"],
+          ["@1\nTeehee, just kidding! ☆", "@1\nХи-хи, просто шучу! ☆"],
           ["anime_aki01", ""],
           [
             "@1\nWhat are these absurd ideas I'm having...?\nMaybe it's the air in this other world...",
-            "@1\nЧто за нелепые мысли мне приходят в голову...?\nМожет, это из-за воздуха в этом мире..."
+            "@1\nЧто за абсурдные идем мне приходят в голову...?\nМожет, это из-за воздуха в этом мире..."
           ],
           ["ひとでなしくん", ""],
           ["アイテム使用不可", ""],
@@ -5718,29 +5718,29 @@
           ["Is there another way?", "Здесь есть другой выход?"],
           ["W-What are you doing?", "Ч-Что ты делаешь?"],
           ["仕草", ""],
-          ["@1\nI see... I get it.\nI'll try going to the altar again!", "@1\nПонятно... Я понял.\nПопробую снова пойти к алтарю!"],
+          ["@1\nI see... I get it.\nI'll try going to the altar again!", "@1\nПонятно... Мне стало понятно.\nПопробую снова пойти к алтарю!"],
           ["画面色調変更", ""],
           ["SE/lab_swing.ogg", ""],
           ["SE/match_hit.ogg", ""],
           ["墓_魂宿る", ""],
           ["男主人公ルート", ""],
           ["anime_aki_m_bat2", ""],
-          ["Apologize in the afterlife!", "Извиняйся в загробной жизни!"],
-          ["No... I can't do it...\nI can't kill Tohma...", "Нет... Я не могу...\nЯ не могу убить Тому..."],
-          ["No... I can't do it...\nI can't kill my teacher...", "Нет... Я не могу...\nЯ не могу убить своего учителя..."],
-          ["@2\nYes, you can.\nBecause you are me.", "@2\nДа, ты сможешь.\nВедь ты - это я."],
+          ["Apologize in the afterlife!", "Извинишься в загробной жизни!"],
+          ["No... I can't do it...\nI can't kill Tohma...", "Нет... я не могу этого сделать...\nЯ не могу убить Тому..."],
+          ["No... I can't do it...\nI can't kill my teacher...", "Нет... я не могу этого сделать...\nЯ не могу убить своего учителя..."],
+          ["@2\nYes, you can.\nBecause you are me.", "@2\nДа, ты можешь.\nПотому что ты - это я."],
           ["anime_aki04", ""],
           ["@1\nW-Who's that?!", "@1\nК-Кто это?!"],
-          ["@2\nRaise that bat high...\nAnd swing it down on him!", "@2\nПодними биту выше...\nИ ударь его со всей силы!"],
-          ["@1\nMy body's moving on its...!", "@1\nМоё тело само движется...!"],
+          ["@2\nRaise that bat high...\nAnd swing it down on him!", "@2\nПодними эту биту высоко...\nИ опусти её прямо на него!"],
+          ["@1\nMy body's moving on its...!", "@1\nМоё тело движется само..!"],
           ["W-WAAAAAAAAAAUGH!!", "А-АААААААААААААА!!"],
           ["SE/match_swing.ogg", ""],
-          ["(No... I can't do it...)", "(Нет... Я не могу это сделать...)"],
+          ["(No... I can't do it...)", "(Нет... я не могу этого сделать...)"],
           [
             "(I can't just sacrifice a human life,\n not even to save Misao!)",
-            "(Я не могу просто так пожертвовать человеческой жизнью,\n даже ради спасения Мисао!)"
+            "(Я просто не могу пожертвовать человеческой жизнью,\nдаже если и ради спасения Мисао!)"
           ],
-          ["I'm sorry, Misao...\nI can't do anything...", "Прости, Мисао...\nЯ ничего не могу сделать..."],
+          ["I'm sorry, Misao...\nI can't do anything...", "Прости, Мисао...\nЯ не могу ничего сделать...."],
           ["ショートカット", ""],
           ["(I'll head to the altar again...)", "(Я снова пойду к алтарю...)"],
           ["生贄", ""],
@@ -6000,7 +6000,7 @@
           ["Picture/still_harigami2.png", ""],
           ["Come to the roof...", ""],
           ["Picture/still_harigami.png", ""],
-          ["Adorn white lilies...", ""],
+          ["Adorn white lilies...", "Укрась белыми лилиями..."],
           ["アイテム使用不可", ""],
           ["使用アイテム", ""],
           ["スノーボール", ""],
@@ -6130,9 +6130,9 @@
           ["0", ""],
           ["<GRADX-999-000>", ""],
           ["<GRADX-000-999>", ""],
-          ["Game saved.", ""],
+          ["Game saved.", "Игра сохранена."],
           ["Save/quicksave.sav", ""],
-          ["Can't save.", ""],
+          ["Can't save.", "Нельза сохраниться."],
           ["ピクチャ変数", ""],
           ["ﾋﾟｸﾁｬX", ""],
           ["ﾋﾟｸﾁｬY", ""],
@@ -6210,7 +6210,7 @@
           ["仕草", ""],
           ["アイテム「箱と鍵」", ""],
           ["顔グラフィック", ""],
-          ["@1\nI'll try this if I find a small lock.", ""],
+          ["@1\nI'll try this if I find a small lock.", "@1\nЯ попробую его, если найду маленький замок."],
           ["アイテム使用不可", ""],
           ["使用アイテム", ""],
           ["スノーボール", ""],
@@ -6338,7 +6338,7 @@
           ["アイテム「鍵の掛かった小箱」", ""],
           ["アイテム「箱と鍵」", ""],
           ["顔グラフィック", ""],
-          ["@1\nNeed a key to open the box.", ""],
+          ["@1\nNeed a key to open the box.", "@1\nНужен ключ, чтобы открыть шкатулку."],
           ["アイテム使用不可", ""],
           ["使用アイテム", ""],
           ["スノーボール", ""],
@@ -6465,7 +6465,7 @@
           ["顔グラフィック", ""],
           [
             "@1\n\\s[1] spread the salt.\nIt feels like the evil spirit has left...",
-            ""
+            "@1\n\\s[1] рассыпал соль.\nПохоже, злой дух ушёл..."
           ],
           ["アイテム入手", ""],
           ["アイテム使用不可", ""],
@@ -6600,7 +6600,7 @@
         "data": [
           ["アイテム使用不可", ""],
           ["顔グラフィック", ""],
-          ["@1\nThis item won't help here.", ""]
+          ["@1\nThis item won't help here.", "@1\nЭтот предмет здеь не поможет."]
         ],
         "context": [
           ["CommonEvent.dat/CommonEvent/42/name"],
@@ -6634,36 +6634,36 @@
           ["イベントスキップ", ""],
           ["BGM/HMIX_misao.ogg", ""],
           ["BGM/HMIX_zetsubou.ogg", ""],
-          ["<C>\\c[3]Creation Tool\n\\c[0]WOLF RPG Editor", ""],
+          ["<C>\\c[3]Creation Tool\n\\c[0]WOLF RPG Editor", "<C>\\c[3]Движок\n\\c[0]WOLF RPG Editor"],
           [
             "<C>\\c[3]Map Graphics/Character Graphics\n\\c[0]Nekura Fantasy Map Chips\nDot E Sekai",
-            ""
+            "<C>\\c[3]Графика карт/Графика персонажей\n\\c[0]Nekura Fantasy Map Chips\nDot E Sekai"
           ],
           [
             "<C>\\c[3]Character Graphics/Icons\n\\c[0]Nekura pochi Character Chips\nPipoya\nICOOON MONO",
-            ""
+            "<C>\\c[3]Графика персонажей/Иконки\n\\c[0]Nekura pochi Character Chips\nPipoya\nICOOON MONO"
           ],
           [
             "<C>\\c[3]Music\n\\c[0]Free Music H/MIX GALLERY\nRengoku Teien\nVita-chi Sozaikan",
-            ""
+            "<C>\\c[3]Музыка\n\\c[0]Free Music H/MIX GALLERY\nRengoku Teien\nVita-chi Sozaikan"
           ],
           [
             "<C>\\c[3]Sound Effects\n\\c[0]Vita-chi Sozaikan\nThe Matchmakers\nMaou Damashii\nFree Sound Effects On-Jin\nSound Effect Lab",
-            ""
+            "<C>\\c[3]Звуковые эффекты\n\\c[0]Vita-chi Sozaikan\nThe Matchmakers\nMaou Damashii\nFree Sound Effects On-Jin\nSound Effect Lab"
           ],
-          ["<C>\\c[3]Backgrounds/Effects\n\\c[0]Pipoya", ""],
-          ["<C>\\c[3]Common Events\n\\c[0]Foolish Kingdom", ""],
-          ["<C>\\c[3]Fonts\n\\c[0]Source Han Serif\nfub Koubou (Minamoji)", ""],
+          ["<C>\\c[3]Backgrounds/Effects\n\\c[0]Pipoya", "<C>\\c[3]Фоны/Эффекты\n\\c[0]Pipoya"],
+          ["<C>\\c[3]Common Events\n\\c[0]Foolish Kingdom", "<C>\\c[3]События\n\\c[0]Foolish Kingdom"],
+          ["<C>\\c[3]Fonts\n\\c[0]Source Han Serif\nfub Koubou (Minamoji)", "<C>\\c[3]Шрифты\n\\c[0]Source Han Serif\nfub Koubou (Minamoji)"],
           [" 追加", ""],
           [
             "<C>\\c[3]English Localization\n\\c[0]vgperson\n\n\\c[3]Chinese Localization\n\\c[0]Zheng Zhang（PLAYISM）",
-            ""
+            "<C>\\c[3]Английская локализация\n\\c[0]vgperson\n\n\\c[3]Китайская локализация\n\\c[0]Zheng Zhang（PLAYISM）"
           ],
-          ["<C>\\c[3]Distribution\n\\c[0]PLAYISM", ""],
+          ["<C>\\c[3]Distribution\n\\c[0]PLAYISM", "<C>\\c[3]Распространение\n\\c[0]PLAYISM"],
           [" ", ""],
-          ["<C>\\c[3]Presented by\n\\c[0]Hitodenashi no kuukan", ""],
-          ["<C>\\c[3]NORMAL END", ""],
-          ["<C>\\c[3]BAD END", ""],
+          ["<C>\\c[3]Presented by\n\\c[0]Hitodenashi no kuukan", "<C>\\c[3]Представил игру\n\\c[0]Hitodenashi no kuukan"],
+          ["<C>\\c[3]NORMAL END", "<C>\\c[3]КОНЕЦ"],
+          ["<C>\\c[3]BAD END", "<C>\\c[3]ПЛОХАЯ КОНЦОВКА"],
           ["Save/System.sav", ""],
           ["16", ""],
           ["ノーマルエンド", ""],
@@ -6672,7 +6672,7 @@
           ["成績表", ""],
           ["SystemFile/maou_itemget2.ogg", ""],
           ["顔グラフィック", ""],
-          ["@0\n\"Truth\" has been unlocked.", ""],
+          ["@0\n\"Truth\" has been unlocked.", "@0\n\"Правда\" была разблокирована."],
           ["バッドエンド", ""],
           ["14", ""],
           ["スタイル", ""],
@@ -6858,7 +6858,7 @@
           ["ショートカット", ""],
           ["イベントスキップ", ""],
           [
-            "\\E\\c[3]Creation Tool\n\\c[0]WOLF RPG EDITOR\n\n\\c[3]\\c[3]Map Graphics\n\\c[0]Nekura Fantasy Map Chips\nDot E Sekai\n\n\\c[3]\\c[3]Character Graphics/Icons\n\\c[0]\\c[0]Nekura pochi Character Chips\nPipoya\nICOOON MONO\n\n\\c[3]Music\n\\c[0]H/MIX GALLERY\nRengoku Teien\nVita-chi Sozaikan\n\n\\c[3]Sound Effects\n\\c[0]Vita-chi Sozaikan\nThe Matchmakers\nMaou Damashii\nFree Sound Effects On-Jin\nSound Effect Lab\n\n\\c[3]Backgrounds/Effects\n\\c[0]Pipoya\n\n\\c[3]Common Events\n\\c[0]Foolish Kingdom\n\n\\c[3]Font\n\\c[0]source-han-serif\nfub Koubou(Minamoji)\n\n\\c[3]Distribution\n\\c[0]PLAYISM\n\n\\f[10]Executive Producer\n\\f[15]Shunji Mizutani\n\n\\f[10]Producer\n\\f[15]Yasuyuki Ohara\n\n\\f[10]Assistant Producer\n\\f[15]Syunichi Sakai\n\n\\f[10]International Operations & Marketing\n\\f[15]Elaine Wong\n\n\\f[10]English Localization\n\\f[15]vgperson（Partner）\n\n\\f[10]Chinese Localization\n\\f[15]Zheng Zhang\n\n\\f[10]Publishing Design\n\\f[15]Takahiro Nogita\nAsuka Bailey\n\n\\f[10]Publishing Support\n\\f[15]Sayuri Murabayashi\nChiaki Shida\nHideyuki Nagakura\nWesley Tsen \nMichael Kobayashi\nTiffany Zhang\nHanwen Yin\nShuma\nNana Iba\nHana Kawamoto\nChiaki Hirota\nManami Maebayashi\nSaki Yamada\nYoshio Tsujimoto\nMario Maqueo\nChristopher William Horton\n\n\\f[10]Executive Officer\n\\f[15]JJ Shinji Futami\n\n\\f[10]President/CEO\n\\f[15]Ibai Vinas Ameztoy\n\n\\c[3]Presented by\n\\c[0]Hitodenashi no kuukan",
+            "\\E\\c[3]Движок\n\\c[0]WOLF RPG EDITOR\n\n\\c[3]\\c[3]Графика карт\n\\c[0]Nekura Fantasy Map Chips\nDot E Sekai\n\n\\c[3]\\c[3]Графика персонажей/Иконки\n\\c[0]\\c[0]Nekura pochi Character Chips\nPipoya\nICOOON MONO\n\n\\c[3]Музыка\n\\c[0]H/MIX GALLERY\nRengoku Teien\nVita-chi Sozaikan\n\n\\c[3]Звуковые эффекты\n\\c[0]Vita-chi Sozaikan\nThe Matchmakers\nMaou Damashii\nFree Sound Effects On-Jin\nSound Effect Lab\n\n\\c[3]Фоны/Эффекты\n\\c[0]Pipoya\n\n\\c[3]События\n\\c[0]Foolish Kingdom\n\n\\c[3]Шрифты\n\\c[0]source-han-serif\nfub Koubou(Minamoji)\n\n\\c[3]Распространение\n\\c[0]PLAYISM\n\n\\f[10]Исполнительный продюсер\n\\f[15]Shunji Mizutani\n\n\\f[10]Продюссер\n\\f[15]Yasuyuki Ohara\n\n\\f[10]Помощник продюссера\n\\f[15]Syunichi Sakai\n\n\\f[10]Международные операции и маркетинг\n\\f[15]Elaine Wong\n\n\\f[10]Английская локализация\n\\f[15]vgperson（Partner）\n\n\\f[10]Китайская локализация\n\\f[15]Zheng Zhang\n\n\\f[10]Издательский дизайн\n\\f[15]Takahiro Nogita\nAsuka Bailey\n\n\\f[10]Поддержка издания\n\\f[15]Sayuri Murabayashi\nChiaki Shida\nHideyuki Nagakura\nWesley Tsen \nMichael Kobayashi\nTiffany Zhang\nHanwen Yin\nShuma\nNana Iba\nHana Kawamoto\nChiaki Hirota\nManami Maebayashi\nSaki Yamada\nYoshio Tsujimoto\nMario Maqueo\nChristopher William Horton\n\n\\f[10]Исполнительный директор\n\\f[15]JJ Shinji Futami\n\n\\f[10]Директор/CEO\n\\f[15]Ibai Vinas Ameztoy\n\n\\c[3]Представил игру\n\\c[0]Hitodenashi no kuukan",
             ""
           ],
           ["\\cself[9]", ""],
@@ -6880,7 +6880,7 @@
           ["特別な友達", ""],
           ["SystemFile/maou_itemget2.ogg", ""],
           ["顔グラフィック", ""],
-          ["@0\nGallery has been unlocked.", ""],
+          ["@0\nGallery has been unlocked.", "@0\nГалерея была разблокирована."],
           ["スタイル", ""],
           ["通常", ""],
           ["スキップ", ""],
@@ -7111,10 +7111,10 @@
           ["SE/match_hit.ogg", ""],
           ["画面色調変更", ""],
           ["x", ""],
-          ["@1\nMisao, stop it already!", ""],
+          ["@1\nMisao, stop it already!", "@1\nМисао, прекрати это уже!"],
           [
             "Ugh, I'm getting some awful ideas...\nBut there must be a better way!",
-            ""
+            "Гх, у меня в голове ужасные мысли...\nДолжен же быть лучший путь!"
           ],
           [" ", ""],
           ["SE/match_bom.ogg", ""],
@@ -7341,15 +7341,15 @@
           ["キャラモーション", ""],
           ["anime_aki05", ""],
           ["顔グラフィック", ""],
-          ["@1\nLook, Misao! Money!", ""],
+          ["@1\nLook, Misao! Money!", "@1\nСмотри, Мисао! Деньги!"],
           ["x", ""],
           [
             "Nope, she didn't even look. What a shame.\nI guess I'll have to keep this coin for myself.",
-            ""
+            "Не-а, она даже не посмотрела. Какой позор.\nДумаю, мне придется оставить эти монеты для себя."
           ],
-          ["@1\nMisao! Need some cash?", ""],
-          ["Didn't even look at me.\nChump change not enough...?", ""],
-          ["Or, yeah, I guess that's not the issue...", ""],
+          ["@1\nMisao! Need some cash?", "@1\nМисао! Нужны деньги?"],
+          ["Didn't even look at me.\nChump change not enough...?", "Даже не посмотрела на меня.\nНеужели ей этих денег мало?"],
+          ["Or, yeah, I guess that's not the issue...", "Или, да, полагаю, проблема не в этом..."],
           ["17", ""],
           ["アイテム使用不可", ""],
           ["使用アイテム", ""],
@@ -7524,13 +7524,13 @@
           ["顔グラフィック", ""],
           ["キャラモーション", ""],
           ["anime_aki05", ""],
-          ["@1\nGet a load of this!", ""],
+          ["@1\nGet a load of this!", "@1\nПолучай!"],
           ["x", ""],
           [
             "...Nope. I can't do something so awful\nas sprinkle her with salt!\nBetter think of something else!",
-            ""
+            "...Нет. Я не могу сделать что-то настолько ужасное,\n как посыпать её солью!\nНадо придумать что-то другое!"
           ],
-          ["@1\nI know!\nI'll scatter this around Yoshino!", ""],
+          ["@1\nI know!\nI'll scatter this around Yoshino!", "@1\nЗнаю!\nЯ рассыпаю это вокруг Йошино!"],
           ["SE/onjin_step_kusa.ogg", ""],
           ["画面色調変更", ""],
           ["アイテム使用不可", ""],
@@ -7812,33 +7812,33 @@
         "data": [
           ["新ED吉野イベント", ""],
           ["CharaChip/aki_バット.png", ""],
-          ["@52\n\\s[1]\n Misao, stop it!", ""],
+          ["@52\n\\s[1]\n Misao, stop it!", "@52\n\\s[1]\n Мисао, прерати!"],
           ["CharaChip/aki.png", ""],
-          ["@50\n\\s[1]\n Look, Misao! Money!", ""],
+          ["@50\n\\s[1]\n Look, Misao! Money!", "@50\n\\s[1]\nСмотри, Мисао! Деньги!"],
           [
             "@3\n\\s[1]\n Nope, she didn't even look. What a shame.\n I guess I'll have to keep these coins for myself.",
-            ""
+            "@3\n\\s[1]\n Не-а, она даже не посмотрела. Какой позор.\n Думаю, мне придется оставить эти монеты для себя."
           ],
-          ["@52\n\\s[1]\n Get a load of this!", ""],
+          ["@52\n\\s[1]\n Get a load of this!", "@52\n\\s[1]\n Получай!"],
           [
             "@54\n\\s[1]\n ...Nope.\n I can't do something so awful as sprinkle her with salt!\n Better think of something else!",
-            ""
+            "@54\n\\s[1]\n...Нет.\n Я не могу сделать что-то настолько ужасное, как посыпать её солью!\n Надо придумать идею получше!"
           ],
-          ["@1\nMisao can't be stopped.", ""],
+          ["@1\nMisao can't be stopped.", "@1\nМисао не остановить."],
           ["CharaChip/aki2_バット.png", ""],
-          ["@53\n\\s[1]\n Misao, stop it already!", ""],
+          ["@53\n\\s[1]\n Misao, stop it already!", "@53\n\\s[1]\n Мисао, хватит!"],
           ["CharaChip/aki2.png", ""],
           [
             "\\s[1]\n Ugh, I'm getting some awful ideas...\n But there must be a better way!",
-            ""
+            "\\s[1]\n Гх, у меня в голове ужасные мысли...\n Должен же быть лучший путь!"
           ],
-          ["@51\n\\s[1]\n Misao! Need some cash?", ""],
+          ["@51\n\\s[1]\n Misao! Need some cash?", "@51\n\\s[1]\n Мисао! Нужны деньги?"],
           [
             "@16\n\\s[1]\n Didn't even look at me.\n Chump change not enough...?",
-            ""
+            "@16\n\\s[1]\n Даже не посмотрела на меня.\n Неужели, ей этих денег мало?"
           ],
-          ["\\s[1]\n Or, yeah, I guess that's not the issue...", ""],
-          ["@16\n\\s[1]\n I know!\n I'll scatter this around Yoshino!", ""],
+          ["\\s[1]\n Or, yeah, I guess that's not the issue...", "\\s[1]\n Или, да, полагаю, проблема не в этом..."],
+          ["@16\n\\s[1]\n I know!\n I'll scatter this around Yoshino!", "@16\n\\s[1]\n Знаю!\n Я рассыпаю это вокруг Йошино!"],
           ["SE/☆足音(草).ogg", ""]
         ],
         "context": [
@@ -7926,10 +7926,10 @@
           ["CharaChip/chara_aki_etc.png", ""],
           ["CharaChip/chara_aki_etc_b.png", ""],
           ["顔グラフィック", ""],
-          ["@1\nThe small key seems to fit the small lock perfectly.", ""],
+          ["@1\nThe small key seems to fit the small lock perfectly.", "@1\nМаленький ключ, кажется, идеально подходит к маленькому замку.."],
           ["SE/lab_door_key.ogg", ""],
           ["画面色調変更", ""],
-          ["The box opened.\nThere's a pendant with a bell on it inside.", ""],
+          ["The box opened.\nThere's a pendant with a bell on it inside.", "Шкатулка открылась.\nВнутри оказался кулон с колокольчиком."],
           ["アイテム入手", ""],
           ["ショートカット", ""],
           ["項目", ""]
@@ -8760,10 +8760,10 @@
         "data": [
           ["セーブ確認", ""],
           ["<SQUARE>", ""],
-          ["Save your game?", ""],
-          ["You will lose your quicksave data.\nDo you wish to continue?", ""],
-          ["Yes", ""],
-          ["No", ""],
+          ["Save your game?", "Сохранить вашу игру?"],
+          ["You will lose your quicksave data.\nDo you wish to continue?", "Вы потеряете быстрое сохранение.\nВы хотите продолжить?"],
+          ["Yes", "Да"],
+          ["No", "Нет"],
           ["カーソル表示", ""],
           ["カーソル移動開始", ""],
           ["cancel", ""],
@@ -8898,16 +8898,16 @@
         "data": [
           ["セーブ", ""],
           ["<SQUARE>", ""],
-          ["Save", ""],
-          ["Load", ""],
+          ["Save", "Сохранить"],
+          ["Load", "Загрузить"],
           ["\\cself[5]", ""],
           ["SystemFile/menu_line.png", ""],
           ["データ描写", ""],
           ["DATA\\cself[30]", ""],
           ["DATA0\\cself[30]", ""],
           ["\\cself[8]\\mx[\\cself[13]]NO DATA", ""],
-          ["Main", ""],
-          ["Truth", ""],
+          ["Main", "Главная история"],
+          ["Truth", "Правда"],
           ["0\\cself[41] : ", ""],
           ["\\cself[41] : ", ""],
           ["0\\cself[42] : ", ""],
@@ -9602,14 +9602,14 @@
             ""
           ],
           ["<GRADY-000-100>", ""],
-          ["\\c[1]Save your game?", ""],
+          ["\\c[1]Save your game?", "\\c[1]Сохранить вашу игру?"],
           ["\\cself[5]", ""],
           ["キー入力", ""],
           ["SystemFile/cursor_menu.png", ""],
           ["決定", ""],
           ["セーブ", ""],
           ["選択肢", ""],
-          ["Return to the title screen?", ""],
+          ["Return to the title screen?", "Вернуться на главный экран?"],
           ["Yes", ""],
           ["No", ""],
           ["<SQUARE>", ""],
@@ -9809,8 +9809,8 @@
           ["\\f[10]ver 2.00", ""],
           [" ", ""],
           ["\\c[4]？？？", ""],
-          ["Truth", ""],
-          ["Gallery", ""],
+          ["Truth", "Правда"],
+          ["Gallery", "Галерея"],
           ["クイックセーブデータがあるか確認", ""],
           ["ピクチャ番号と座標設定", ""],
           ["項目表示", ""],
@@ -9827,9 +9827,9 @@
           ["名前", ""],
           ["顔グラフィック", ""],
           ["選択肢", ""],
-          ["Skip the prologue?", ""],
-          ["Yes", ""],
-          ["No", ""],
+          ["Skip the prologue?", "Пропустить пролог?"],
+          ["Yes", "Да"],
+          ["No", "Нет"],
           ["ゲームの注意", ""],
           ["pro", ""],
           ["ロード", ""],
@@ -10103,7 +10103,7 @@
           ["ギャラリー", ""],
           ["画面色調変更", ""],
           ["ピクチャ番号と座標設定", ""],
-          ["Gallery", ""],
+          ["Gallery", "Галерея"],
           [" ", ""],
           ["項目表示", ""],
           ["\\cself[5]", ""],
@@ -10116,7 +10116,7 @@
           ["顔グラフィック", ""],
           [
             "@1\nChange the title screen image.\n(Unlocked by finding 40 Dropout List entries)",
-            ""
+            "@1\nПозволяет изменять главное меню.\n(Откроется, после нахождения 40 смертельных ловушек.)"
           ],
           ["消去", ""],
           ["呼び出しする事", ""],
@@ -10801,11 +10801,11 @@
           ["立ち絵変更", ""],
           ["戻るキー押す", ""],
           ["選択肢", ""],
-          ["Change the title screen to this image?", ""],
-          ["Yes", ""],
-          ["No", ""],
+          ["Change the title screen to this image?", "Изменить главное меню на это изображение?"],
+          ["Yes", "Да"],
+          ["No", "Нет"],
           ["Save/System.sav", ""],
-          ["Return to the title screen?", ""],
+          ["Return to the title screen?", "Вернуться в главное меню?"],
           ["消去", ""],
           ["呼び出しする事", ""],
           ["アイテム選択", ""],
@@ -10954,12 +10954,12 @@
         "data": [
           ["トイレのにおい", ""],
           ["顔グラフィック", ""],
-          ["@1\nG-r-o-s-sss!", ""],
-          ["@1\nBoy, that stinks...", ""],
+          ["@1\nG-r-o-s-sss!", "@1\nОт-вра-ти-тель-нооо!"],
+          ["@1\nBoy, that stinks...", "@1\nЧерт, как же воняет..."],
           ["12", ""],
           ["実績：くっさ～い！", ""],
-          ["@1\nSmells like floral mint.", ""],
-          ["@1\nThis is the girls' bathroom...\nI should get out quick.", ""],
+          ["@1\nSmells like floral mint.", "@1\nПахнет цветочной мятой."],
+          ["@1\nThis is the girls' bathroom...\nI should get out quick.", "@1\nЭто туалет для девушек...\nЯ должен уйти, быстро."],
           ["種類", ""],
           ["通常", ""],
           ["特殊", ""]
@@ -11931,12 +11931,12 @@
           ["キーコンフィグ", ""],
           ["初期化", ""],
           ["選択肢", ""],
-          ["Reset all settings to defaults?", ""],
-          ["Yes", ""],
-          ["No", ""],
+          ["Reset all settings to defaults?", "Сбросить все настройки?"],
+          ["Yes", "Да"],
+          ["No", "Нет"],
           ["Settings reset.", ""],
           ["タイトルに戻る", ""],
-          ["Return to the title screen?", ""],
+          ["Return to the title screen?", "Вернуться на главный экран?"],
           ["画面色調変更", ""],
           ["対象", ""],
           ["メニュー", ""],
@@ -12548,12 +12548,12 @@
       "Data/BasicData/CommonEvent.dat/CommonEvent/92": {
         "data": [
           ["成績表", ""],
-          ["Report Card", ""],
-          ["NORMAL END", ""],
-          ["BAD END", ""],
+          ["Report Card", "Карточка отчёта"],
+          ["NORMAL END", "КОНЕЦ"],
+          ["BAD END", "ПЛОХАЯ КОНЦОВКА"],
           ["\\f[10]\\cself[6]", ""],
           ["SystemFile/menu_line.png", ""],
-          ["This function requires save data from ver. 1.06 or later.", ""],
+          ["This function requires save data from ver. 1.06 or later.", "Эта функция требует сохранение из версии 1.06 или позже."],
           ["項目表示", ""],
           ["プレイ時間", ""],
           [" ", ""],
@@ -12571,7 +12571,7 @@
           ["ボタン説明", ""],
           ["\\E\\f[10]\\i[600]\\my[-4] Change Avatar", ""],
           ["\\E\\f[10]\\i[510]\\my[-4] Change Avatar", ""],
-          ["Not usable in this scenario.", ""],
+          ["Not usable in this scenario.", "Нельзя использовать в текущем сценарии."],
           ["項目選択", ""],
           ["ｷｬﾝｾﾙ押しっぱなし防止", ""],
           ["アバター選択", ""],
@@ -17063,7 +17063,7 @@
           ["<GRADY-999-000>", ""],
           [
             "Please select your protagonist.\n(The story will be the same with either choice.)",
-            ""
+            "Пожалуйста, выберите главного героя.\n(История будет одинаковой при любом выборе.)"
           ],
           ["lv", ""],
           ["@1\nアキ♀のクリアデータが存在しないため選択出来ません。", ""],
@@ -17178,20 +17178,20 @@
           ["名前", ""],
           ["ショートカット", ""],
           ["選択肢", ""],
-          ["Yes", ""],
-          ["No", ""],
+          ["Yes", "Да"],
+          ["No", "Нет"],
           ["face/face_aki_emi.png", ""],
           ["face/face_aki2_emi.png", ""],
           [
             "Use the keyboard to type\na name for the protagonist.\n \\f(15](Press Enter to confirm.)",
-            ""
+            "Используйте клавиатуру, чтобы\nнаписать имя главного героя.\n \\f(15](Нажмите Enter для подтверждения.)"
           ],
           ["<LINE>", ""],
           ["ネーム", ""],
-          ["Misao", ""],
-          ["Onigawara", ""],
-          ["@1\nPlease enter a name.", ""],
-          ["@1\nThat name cannot be used.", ""],
+          ["Misao", "Мисао"],
+          ["Onigawara", "Онигавара"],
+          ["@1\nPlease enter a name.", "@1\nПожалуйста, введите имя."],
+          ["@1\nThat name cannot be used.", "@1\nЭто имя нельзя использовать."],
           ["face/face_aki2.png", ""],
           ["face/face_aki.png", ""],
           ["\\c[0]Go with \\c[1]\\s[1]\\c[0]?", ""],
@@ -19190,9 +19190,9 @@
         "data": [
           ["保健室のベッド", ""],
           ["選択肢", ""],
-          ["Take a nap?", ""],
-          ["Yes", ""],
-          ["No", ""],
+          ["Take a nap?", "Вздремнуть?"],
+          ["Yes", "Да"],
+          ["No", "Нет"],
           ["画面色調変更", ""],
           ["SE/lab_bofu.ogg", ""],
           ["退学リスト", ""],
@@ -19205,7 +19205,7 @@
           ["下のベッド", ""],
           ["x", ""],
           ["顔グラフィック", ""],
-          ["Don't want to get it dirty with blood.", ""],
+          ["Don't want to get it dirty with blood.", "Не хочу пачкать кровью."],
           ["場所", ""],
           ["上", ""],
           ["下", ""],
@@ -19459,47 +19459,47 @@
           ["キャラ方向変更", ""],
           ["画面色調変更", ""],
           ["顔グラフィック", ""],
-          ["@1\nI see...\nSo you offered the keys at the altar.", ""],
+          ["@1\nI see...\nSo you offered the keys at the altar.", "@1\nПонятно...\nВы принесли все ключи к алтарю."],
           [
             "However, it appears the curse has yet to lift.\nIt seems we will need a sacrifice.",
-            ""
+            "Тем не менее, кажется, проклятие всё ещё не снято.\nПохоже, нам понадобится жертва."
           ],
-          ["Sacrifice?", ""],
-          ["Did you see the red tombstones outside?", ""],
+          ["Sacrifice?", "Жертва?"],
+          ["Did you see the red tombstones outside?", "Вы видели красные надгробия снаружи?"],
           [
             "The spirits of the ones who, in death,\netch their names into the graves,\nmust be sacrificed to free her spirit.",
-            ""
+            "Души тех, кто после смерти запечатал свои имена\nна могиле, должны были быть принесены в жертву, чтобы освободить её дух."
           ],
-          ["There are four tombstones.\nSo there must be four names.", ""],
+          ["There are four tombstones.\nSo there must be four names.", "Есть четыре надгробия.\nТак что должно быть четыре имени."],
           [
             "Three of them already\nhave names engraved in them.\n...There's just one left.",
-            ""
+            "На трёх из них уже выгравированы имена.\n...Там осталось только одно имя."
           ],
-          ["Someone must be the last sacrifice...", ""],
+          ["Someone must be the last sacrifice...", "Кто-то должен быть последней жертвой..."],
           ["キャラモーション", ""],
           ["anime_aki02", ""],
           ["anime_aki05", ""],
-          ["Then I'll... I'll be the sacrifice...!", ""],
-          ["Then I... I'll be the sacrifice...!", ""],
+          ["Then I'll... I'll be the sacrifice...!", "Тогда я буду... Я буду жертвой...!"],
+          ["Then I... I'll be the sacrifice...!", "Тогда я... я буду жертвой...!"],
           [
             "That is impossible. Those tombstones\nare tools born of her hatred...",
-            ""
+            "Это невозможно.\nЭти надгробия - инструменты, рожденные от её ненависти..."
           ],
           [
             "Surely one who has not earned her resentment\ncould not carve their name there.",
-            ""
+            "Тот, кто не заработал её обиды\nне может вырезать там своё имя."
           ],
           ["x", ""],
-          ["You set out to save her.\nAs such, she could not hate you.", ""],
+          ["You set out to save her.\nAs such, she could not hate you.", "Ты хочешь спасти её.\nТаким образом, она не может ненавидеть тебя."],
           [
             "There are others still alive.\nThink well on who must be the sacrifice.",
-            ""
+            "Есть другие, кто ещё живой.\nХорошо подумай о том, кто должен стать жертвой."
           ],
           ["仕草", ""],
-          ["Someone who Misao hates...\nHmm...", ""],
+          ["Someone who Misao hates...\nHmm...", "Кто-то, кого Мисао ненавидит...\nХмм..."],
           [
             "But... I have to sacrifice someone to lift the curse...?\nI can't possibly...",
-            ""
+            "Но... я должен пожертвовать кем-то, чтобы снять проклятие..?\nЯ не могу..."
           ],
           ["場所", ""],
           ["生徒会室", ""],
@@ -19726,7 +19726,7 @@
           ["ひとでなしくんの声", ""],
           ["SE/match_voice_hitodenashi_re.ogg", ""],
           ["SE/match_voice_hitodenashi.ogg", ""],
-          ["@2\nFound \\c[2]Li'l Miscreant\\c[0]!", ""],
+          ["@2\nНайден \\c[2]Маленький негодник\\c[0]!", ""],
           ["SE/match_voice_hitodenashi2_re.ogg", ""],
           ["SE/match_voice_hitodenashi2.ogg", ""],
           ["アニメーション", ""],
@@ -19848,9 +19848,9 @@
           ["アバター入手", ""],
           ["<SCREENSHOT>", ""],
           ["ショートカット", ""],
-          ["Obtained avatar \\E\\c[2]\\cself[5]\\N\\c[0].", ""],
+          ["Получен аватар \\E\\c[2]\\cself[5]\\N\\c[0].", ""],
           [
-            "\\f[10]This function requires save data from ver. 1.06 or later.",
+            "\\f[10]Эта функция требует сохранение версии 1.06 или позже.",
             ""
           ],
           ["入手アバター", ""],
@@ -20315,11 +20315,11 @@
           ["HUD", ""],
           [
             "\\f[10]\\i[601]\\mx[10]Menu\n\\i[602]\\mx[10]Other World Manual\n\\i[603]\\mx[10]Crimson Eyes\n\\i[604]\\mx[10]Quicksave",
-            ""
+            "\\f[10]\\i[601]\\mx[10]Меню\n\\i[602]\\mx[10]Руководство по иному миру\n\\i[603]\\mx[10]Багровые глаза\n\\i[604]\\mx[10]Быстрое сохранение"
           ],
           [
             "\\f[10]\\i[513]\\mx[10]Menu\n\\i[518]\\mx[10]Other World Manual\n\\i[517]\\mx[10]Crimson Eyes\n\\i[514]\\mx[10]Quicksave",
-            ""
+            "\\f[10]\\i[513]\\mx[10]Меню\n\\i[518]\\mx[10]Руководство по иному миру\n\\i[517]\\mx[10]Багровые глаза\n\\i[514]\\mx[10]Быстрое сохранение"
           ],
           ["\\cself[5]", ""],
           ["スイッチ", ""],
@@ -20553,7 +20553,7 @@
           ["所持品(アイテム)", ""],
           [
             "@1\nThe game has been updated.\nSave data from old versions can still be used,\nbut some new features are restricted.",
-            ""
+            "@1\nИгра была обновлена.\nСохранения из старых версий всё ещё можно использовать,\nно некоторые новые функции ограничены."
           ],
           ["スイッチ", ""],
           ["一時変数", ""],
@@ -21273,93 +21273,93 @@
       },
       "Data/BasicData/DataBase.dat/db/5": {
         "data": [
-          ["\\i[000]\\my[-9] Metal Bat", ""],
+          ["\\i[000]\\my[-9] Metal Bat", "\\i[000]\\my[-9] Металлическая бита"],
           [
             "A bat used by the baseball team.\r\nPicked it up for self-defense.",
-            ""
+            "Бита, которой пользуется бейсбольная команда.\r\nПодобрана для самообороны."
           ],
           ["SE/lab_bat.ogg", ""],
-          ["\\i[001]\\my[-9] Locker Key", ""],
+          ["\\i[001]\\my[-9] Locker Key", "\\i[001]\\my[-9] Ключ от шкафчика"],
           [
             "Found in the locker Mr. Kurata was locked in.\r\nDid he drop it?",
-            ""
+            "Найдено в шкафчике, в котором был заперт Мр. Курата.\r\nОн его уронил?"
           ],
           ["SE/match_key.ogg", ""],
-          ["\\i[002]\\my[-9] Emergency Exit Key", ""],
+          ["\\i[002]\\my[-9] Emergency Exit Key", "\\i[002]\\my[-9] Ключ от аварийного выхода"],
           [
             "The key to the emergency exit, dropped into a vase.\r\nCould you leave the school with this?",
-            ""
+            "Ключ от аварийного выхода, брошенный в вазу.\r\nМожет, так получится выбрать из школы?"
           ],
-          ["\\i[003]\\my[-9] Seeds", ""],
-          ["Seeds of some kind.\r\nCould plant them in a pot.", ""],
+          ["\\i[003]\\my[-9] Seeds", "\\i[003]\\my[-9] Семена"],
+          ["Seeds of some kind.\r\nCould plant them in a pot.", "Какие-то семена.\r\nИх можно посадить в горшок."],
           ["SE/lab_seed.ogg", ""],
-          ["\\i[004]\\my[-9] Plant Enrichment", ""],
+          ["\\i[004]\\my[-9] Plant Enrichment", "\\i[004]\\my[-9] Удобрение для растений"],
           [
             "Chemicals that make plants thrive.\r\nThey seem to speed up growth.",
-            ""
+            "Химикаты, которые способствуют цветению.\r\nОни, видимо, ускоряют рост.."
           ],
           ["SE/match_kucha_re.ogg", ""],
-          ["\\i[005]\\my[-9] Purple Lilies", ""],
-          ["Lilies grown from the seeds planted in the library.", ""],
+          ["\\i[005]\\my[-9] Purple Lilies", "\\i[005]\\my[-9] Фиолетовые лилии"],
+          ["Lilies grown from the seeds planted in the library.", "Лилии, выращенные из семян, посаженных в библиотеке."],
           ["SE/lab_eff_kira.ogg", ""],
-          ["\\i[006]\\my[-9] White Lilies", ""],
-          ["Lilies painted white with paint.", ""],
-          ["\\i[007]\\my[-9] CD-ROM", ""],
-          ["An unknown compact disc.\r\nCould use it with a computer.", ""],
+          ["\\i[006]\\my[-9] White Lilies", "\\i[006]\\my[-9] Белые лилии"],
+          ["Lilies painted white with paint.", "Лилии, покрашенные белой краской."],
+          ["\\i[007]\\my[-9] CD-ROM", "\\i[007]\\my[-9] CD-ROM"],
+          ["An unknown compact disc.\r\nCould use it with a computer.", "Неизвестный компакт диск.\r\nМожно использовать на компьютере."],
           ["SE/lab_cdrom.ogg", ""],
-          ["\\i[008]\\my[-9] Coin", ""],
-          ["A 100-yen coin fished out of a toilet.\r\nIt stinks a little.", ""],
+          ["\\i[008]\\my[-9] Coin", "\\i[008]\\my[-9] Монета"],
+          ["A 100-yen coin fished out of a toilet.\r\nIt stinks a little.", "Монета в 100 иен, выловленная из унитаза.\r\nОна немного воняет."],
           ["SE/match_coin.ogg", ""],
-          ["\\i[009]\\my[-9] Sports Drink", ""],
+          ["\\i[009]\\my[-9] Sports Drink", "\\i[009]\\my[-9] Спортивный напиток"],
           [
             "A drink from a 100-yen vending machine.\r\nSomeone who's tired can have it.",
-            ""
+            "Напиток, купленный в торговом автомате за 100 иен.\r\nТот, кто устал, может взять его себе."
           ],
           ["SE/onjin_mizutamari.ogg", ""],
-          ["\\i[010]\\my[-9] Scalpel", ""],
+          ["\\i[010]\\my[-9] Scalpel", "\\i[010]\\my[-9] Скальпель"],
           [
             "A sharp tool used for surgery.\r\nMakes you feel a tiny bit like a doctor.",
-            ""
+            "Острый инструмент для хирургии.\r\nОн заставляет вас немного почувствовать себя врачом."
           ],
           ["SE/onjin_sasinuku.ogg", ""],
-          ["\\i[011]\\my[-9] Salt Mandrake", ""],
+          ["\\i[011]\\my[-9] Salt Mandrake", "\\i[011]\\my[-9] Соляная Мандрагора"],
           [
             "An exceedingly strange creature.\r\nWas startled by the phone and died.",
-            ""
+            "Чрезвычайно странное существо.\r\nИспугался телефонного звонка и умер."
           ],
           ["SE/match_voice_mandrake.ogg", ""],
-          ["\\i[012]\\my[-9] Salt", ""],
+          ["\\i[012]\\my[-9] Salt", "\\i[012]\\my[-9] Соль"],
           [
             "Fresh salt harvested from the Salt Mandrake.\r\nIs it true salt has a spirit-warding effect?",
-            ""
+            "Свежая соль, полученная из соленой мандрагоры.\r\nПравда ли, что соль может защитить от духов?"
           ],
           ["SE/lab_sio.ogg", ""],
-          ["\\i[013]\\my[-9] Small Key", ""],
+          ["\\i[013]\\my[-9] Small Key", "\\i[013]\\my[-9] Маленький ключ"],
           [
             "A small key from inside the Sports Drink.\r\nNearly ended up in Tohma's stomach.",
-            ""
+            "Маленький ключ, который был в спортивном напитке.\r\nЧуть не оказался у Томы в животе."
           ],
-          ["\\i[014]\\my[-9] Mandrake Bomb", ""],
+          ["\\i[014]\\my[-9] Mandrake Bomb", "\\i[014]\\my[-9] Мандрагорная бомба"],
           [
             "A weird creature smelling of gunpowder.\r\nMight explode if given a shock.",
-            ""
+            "Странное существо, пахнущее порохом.\r\nМожет взорваться, если испытает шок."
           ],
-          ["\\i[015]\\my[-9] Locked Box", ""],
-          ["A small box with a lock.\r\nIt needs a similarly small key.", ""],
+          ["\\i[015]\\my[-9] Locked Box", "\\i[015]\\my[-9] Шкатулка"],
+          ["A small box with a lock.\r\nIt needs a similarly small key.", "Маленький ящик на замке.\r\nНужен такой же маленький ключ."],
           ["SE/lab_box.ogg", ""],
-          ["\\i[016]\\my[-9] Warding Bell", ""],
-          ["A bell pendant.\r\nWearing it feels slightly reassuring.", ""],
+          ["\\i[016]\\my[-9] Warding Bell", "\\i[016]\\my[-9] Защитный колокольчик"],
+          ["A bell pendant.\r\nWearing it feels slightly reassuring.", "Кулон с колокольчиком.\r\nНадевая его, чувствуешь себя немного увереннее."],
           ["SE/match_bell.ogg", ""],
-          ["\\i[017]\\my[-9] Board Notice", ""],
+          ["\\i[017]\\my[-9] Board Notice", "\\i[017]\\my[-9] Записка с доски"],
           [
             "A piece of paper with a strange code on it.\r\nSeems to indicate a place in the school.",
-            ""
+            "Кусок бумаги со странным кодом на нём.\r\nПохоже, он означает место в школе."
           ],
           ["SE/onjin_book_page.ogg", ""],
-          ["\\i[018]\\my[-9] Doll Room Key", ""],
-          ["A key from the Doll Room.", ""],
+          ["\\i[018]\\my[-9] Doll Room Key", "\\i[018]\\my[-9] Ключ от кукольной комнаты"],
+          ["A key from the Doll Room.", "Ключ от кукольной комнаты."],
           ["------------------------------", ""],
-          ["A bat used by the baseball team.", ""]
+          ["A bat used by the baseball team.", "Бита, которой пользуется бейсбольная команда."]
         ],
         "context": [
           [
