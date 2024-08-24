@@ -23086,7 +23086,7 @@
         "data": [
           [
             "X/X/XX - Cloudy\r\n\r\nThe \\c[2]emergency exit key\\c[0] fell into the vase.\r\nSomebody pick it up!",
-            "X/X/XX - Клауди\r\n\r\nКлюч от \\c[2]запасного выхода\\c[0] упал в вазу.\r\nКто-нибудь, достаньте его!"
+            "X/X/XX - Облачно\r\n\r\nКлюч от \\c[2]запасного выхода\\c[0] упал в вазу.\r\nКто-нибудь, достаньте его!"
           ],
           [
             "Security system operational...\r\nDeactivation requires a Protection Disc (CD-ROM).",
@@ -23189,7 +23189,7 @@
           ],
           [
             "X/X/XX – Cloudy\r\n\r\nTo the student who broke my 500,000-yen vase:\r\nshow yourself immediately.",
-            "X/X/XX – Клауди\r\n\r\nСтуденту, который разбил мою вазу за 500,000 иен:\r\nнемедленно явись."
+            "X/X/XX – Облачно\r\n\r\nСтуденту, который разбил мою вазу за 500,000 иен:\r\nнемедленно явись."
           ]
         ],
         "context": [
@@ -38682,7 +38682,7 @@
           ["I had my heart broken...", "Моё сердце разбито..."],
           [
             "It's so stupid, isn't it...\nShutting myself in the bathroom\nand sobbing over that...",
-            "Это так глупо, не правда ли...\nЗакрываюсь в ванной\nи радаю из-за этого..."
+            "Это так глупо, не правда ли...\nЗакрываюсь в туалете\nи радаю из-за этого..."
           ],
           [
             "It's not silly at all.\nI would lament the very same way all night\nwhen I was rejected as a youth.",
@@ -41597,38 +41597,44 @@
           ["【移動】廊下", ""],
           ["場所移動", ""],
           ["<LIGHT><ITEM>花瓶", ""],
-          ["@2\nA vase. It's affixed to the table and can't be moved.", ""],
+          [
+            "@2\nA vase. It's affixed to the table and can't be moved.",
+            "@1\nВаза. Она прикреплена к столу и её нельзя сдвинуть."
+          ],
           ["選択肢", ""],
-          ["Will you inspect it?", ""],
-          ["Inspect", ""],
-          ["Destroy", ""],
-          ["Do nothing", ""],
+          ["Will you inspect it?", "Хотите осмотреть её?"],
+          ["Inspect", "Осмотреть"],
+          ["Destroy", "Разбить"],
+          ["Do nothing", "Ничего не делать"],
           ["キャラモーション", ""],
           ["anime_aki01", ""],
           ["SE/onjin_mizu_picha.ogg", ""],
           ["SE/match_busu.ogg", ""],
           ["顔グラフィック", ""],
-          ["Ow...!", ""],
-          ["@1\nGot pricked by a rose thorn!", ""],
+          ["Ow...!", "Ай...!"],
+          ["@1\nGot pricked by a rose thorn!", "@1\nРоза покрыта шипами!"],
           ["足音ループ", ""],
-          ["@1\nOogh...!", ""],
+          ["@1\nOogh...!", "@1\nОохх...!"],
           [
             "@2\nThe rose was poisoned!\nPoison courses through \\s[1]'s body...",
-            ""
+            "@2\nРоза была отравлена!\nЯд проходит через всё тело \\s[1]..."
           ],
           ["SE/onjin_tentou.ogg", ""],
-          ["HURK!!", ""],
+          ["HURK!!", "БАЦ!!"],
           ["anime_obj01", ""],
           ["30", ""],
           ["-25", ""],
           ["退学リスト更新", ""],
           ["ゲームオーバー", ""],
-          ["You'd need something to break it with.", ""],
+          [
+            "You'd need something to break it with.",
+            "Тебе нужно что-то, чтобы сломать это."
+          ],
           ["基本メニュー", ""],
           ["並列", ""],
           ["<LIGHT>日誌", ""],
           ["イベント当たり判定", ""],
-          ["@2\nThe principal's diary.", ""],
+          ["@2\nThe principal's diary.", "@1\nДневник директора."],
           ["文書コモン", ""],
           ["校長先生", ""],
           ["CharaChip/mob_004.png", ""],
@@ -41817,60 +41823,78 @@
           ["anime_aki01", ""],
           ["CharaChip/chara_aki_m_room.png", ""],
           ["SE/match_bell.ogg", ""],
-          ["HELP...", ""],
-          ["FIND ME...", ""],
+          ["HELP...", "ПОМОГИ..."],
+          ["FIND ME...", "НАЙДИ МЕНЯ..."],
           ["顔グラフィック", ""],
-          ["@1\nUhh... Misao?\nIs that you, Misao?", ""],
-          ["@1\nHuh... Misao?\nIs that Misao?", ""],
-          ["Misao!!", ""],
+          [
+            "@1\nUhh... Misao?\nIs that you, Misao?",
+            "@1\nУх-х... Мисао?\nЭто ты, Мисао?"
+          ],
+          ["@1\nHuh... Misao?\nIs that Misao?", "@1\nА... Мисао?\nЭто Мисао?"],
+          ["Misao!!", "Мисао!!"],
           ["画面色調変更", ""],
           ["SE/lab_kinusure.ogg", ""],
-          ["@1\nW... Was I dreaming...?", ""],
-          ["I thought I heard Misao...\nI... guess it was just a dream.", ""],
-          ["Has it been three months...?", ""],
+          ["@1\nW... Was I dreaming...?", "@1\nМ... Мне это приснилось..?"],
+          [
+            "I thought I heard Misao...\nI... guess it was just a dream.",
+            "Мне показалось, я слышал Мисао...\nЯ... думаю, это был всего лишь сон."
+          ],
+          ["Has it been three months...?", "Это было три месяца..?"],
           ["x", ""],
-          ["Oh, nooo! It's so late!\nI'm gonna be late for school!", ""],
-          ["Yikes! Look at the time!\nI'm gonna be late for school!", ""],
+          [
+            "Oh, nooo! It's so late!\nI'm gonna be late for school!",
+            "О нееет! Уже поздно!\nЯ же сейчас опоздаю в школу!"
+          ],
+          [
+            "Yikes! Look at the time!\nI'm gonna be late for school!",
+            "Ой! Посмотрите на часы!\nЯ же сейчас опоздаю в школу!"
+          ],
           ["SE/lab_locker_open1.ogg", ""],
           [
             "@2\nMisao never stood out too much in our class...\nShe was just a normal girl, really.",
-            ""
+            "@2\nМисао никогда не выделялась в нашем классе...\nОна действительно была самой обычной девушкой."
           ],
           [
             "I wasn't too close to her, but I was always curious\nabout Misao, there on her ownsome.",
-            ""
+            "Я не была близка с ней, но я волновалась за Мисао.\nТак как она всегда была одна."
           ],
           [
             "I wasn't very close with her, but I did have to wonder\nabout Misao, who was always alone.",
-            ""
+            "Мы не были с ней очень близки, но я не мог не думать\nо Мисао, которая всегда была одна."
           ],
           ["CharaChip/chara_aki_f_socks.png", ""],
           ["CharaChip/chara_aki_m_socks.png", ""],
           ["SE/lab_locker_close1.ogg", ""],
-          ["I hoped I could be her friend.\nBut... That didn't happen...", ""],
+          [
+            "I hoped I could be her friend.\nBut... That didn't happen...",
+            "Я надеялся стать её другом.\nНо... Этого не произошло..."
+          ],
           [
             "I thought it'd be nice to be her friend.\nBut... That didn't happen...",
-            ""
+            "Я думал, было бы хорошо стать её другом.\nНо... Этого не произошло..."
           ],
-          ["Three months ago, Misao went missing.", ""],
+          [
+            "Three months ago, Misao went missing.",
+            "Три месяца назад, когда Мисао пропала."
+          ],
           [
             "She wasn't coming to school.\nAnd she hadn't come home either.",
-            ""
+            "Она не приходила в школу.\nИ также не приходила домой."
           ],
           ["Three months back, Misao went missing.", ""],
           [
             "She stopped coming to school.\nAnd she hadn't come home either.",
-            ""
+            "Она прекратила ходить в школу.\nИ также прекратила ходить домой."
           ],
           [
             "She never seemed the type to flee home.\nOur parents were saying that she might have\ngotten involved in something.",
-            ""
+            "Она не казалась таким человеком, который может сбежать из дома.\nНаши родители говорили, что она могла\nбыть вовлечена во что-то."
           ],
           ["CharaChip/chara_aki_f_bag.png", ""],
           ["CharaChip/chara_aki_m_bag.png", ""],
           ["キャラ方向変更", ""],
-          ["@1\nWell, I'm off!", ""],
-          ["@1\nOkay... I'm off!", ""],
+          ["@1\nWell, I'm off!", "@1\nНу, я ушёл!"],
+          ["@1\nOkay... I'm off!", "@1\nОтлично... Я ушла!"],
           ["SE/lab_door_open.ogg", ""],
           ["SE/lab_door_genkan_close.ogg", ""],
           ["靴アニメ", ""],
@@ -42092,21 +42116,24 @@
           ["顔グラフィック", ""],
           [
             "@2\nThe rumor in our class\nwas that Misao was long dead by now.",
-            ""
+            "@2\nХодит слух в нашем классе,\nчто Мисао уже давно мертва."
           ],
           [
             "@2\nAll our classmates gossipped about\nhow she was probably already dead.",
-            ""
+            "@2\nВсе наши одноклассники обсуждали это,\nкак она, возможно, умерла."
           ],
           ["キャラモーション", ""],
           ["anime_aki01", ""],
           [
             "@1\nI really hope they're wrong...\nI wanted us to be friends...",
-            ""
+            "@1\nЯ надеюсь, что они ошибаются...\nЯ хочу, чтобы мы были друзьями..."
           ],
-          ["@1\nMisao...\nGosh, I hope you're okay...", ""],
+          [
+            "@1\nMisao...\nGosh, I hope you're okay...",
+            "@1\nМисао...\nЭх, надеюсь ты в порядке..."
+          ],
           ["SE/match_bell.ogg", ""],
-          ["FIND ME...", ""],
+          ["FIND ME...", "НАЙДИ МЕНЯ..."],
           ["アキ", ""],
           ["CharaChip/chara_aki_f_bag.png", ""],
           ["CharaChip/chara_aki_m_bag.png", ""],
@@ -42232,152 +42259,203 @@
           ["顔グラフィック", ""],
           [
             "@1\nMr. Kurata had a new suit today!\nLike, whoa! Super suave!",
-            ""
+            "@1\nУ Мистера Кураты новый костюм!\nТипо, вау! Супер красивый!"
           ],
           [
             "Ayaka, you've been talking him up all morning!\nDon't you ever get tired of blabbing?",
-            ""
+            "Аяка, ты говоришь о нём уже всё утро!\nТебе не надоело говорить?"
           ],
           [
             "Talking up Mr. Kurata again, Ayaka...?\nDon't you ever get tired of it?",
-            ""
+            "Говоришь о Мистере Курате... снова, Аяка..?\nТебе не надоело?"
           ],
           [
             "But he's suuuch a ladies man!\nHe's so nice, and smart, and the BEST!",
-            ""
+            "Но он такооой хороший!\nОн милый, умный и ЛУЧШИЙ!"
           ],
-          ["Oh yeah! Gotta put on some hand cream!\nDoo-doot-doo...", ""],
+          [
+            "Oh yeah! Gotta put on some hand cream!\nDoo-doot-doo...",
+            "О да! Нанесу немного крема для рук!\nТу-Ту-Ру..."
+          ],
           [
             "Did you hear? 'Cause I did!\nThere's a rumor Mr. Kurata has a thing for hands!",
-            ""
+            "Ты знаешь? Потому что я да!\nХодят слухи, что мистер Курата неравнодушен к рукам!"
           ],
           [
             "So maybe if I clean my hands constantly,\nevery day, all the time, he'll like me more!",
-            ""
+            "Возможно, если я буду чистить свои руки\nкаждый день, всё время, я понравлюсь ему ещё больше!"
           ],
-          ["I don't really... care, Ayaka.", ""],
+          [
+            "I don't really... care, Ayaka.",
+            "Меня это... не волнует, правда, Аяка."
+          ],
           [
             "Don't really care, she says! HA!\nYou've got no eye for men, \\s[1]!",
-            ""
+            "Не волнует, она сказала! ХА!\nУ тебя просто нет глаз на мужчин, \\s[1]!"
           ],
-          ["Seriously, what do you see in a seducer like Tohma?", ""],
+          [
+            "Seriously, what do you see in a seducer like Tohma?",
+            "Серьезно, что ты нашла в таком соблазнители как Тома?"
+          ],
           [
             "I-I never said I liked anybody!\nI just think he's kinda cool, that's all...",
-            ""
+            "Я-Я не говорила что мне нравиться кто-то!\nЯ просто думаю он, типо, крутой, вот и всё..."
           ],
           [
             "Ha, boys will be boys...\nYou WOULD rather go for Saotome than teacher, huh?",
-            ""
+            "Ха, мальчики есть мальчики...\nТы бы предпочёл Саотоме, чем учителя, да?"
           ],
-          ["Wh-What does Saotome have to do with this?!", ""],
+          [
+            "Wh-What does Saotome have to do with this?!",
+            "Ка-Какое отношение Саотоме имеет к этому?!"
+          ],
           [
             "I always see you eyeing her.\nReally, what do even see in such a kid?",
-            ""
+            "Я вижу как ты смотришь на неё.\nСерьезно, что ты нашёл в таком ребёнке?"
           ],
           [
             "H-Hey, I didn't say I liked anybody!\nI just think she's very pretty...",
-            ""
+            "Э-Эй, я не говорил что мне кто-то нравится!\nЯ просто думаю она очень милая..."
           ],
-          ["Reeeally? Nyeeheehee.", ""],
-          ["Yes, really!", ""],
-          ["Really really!", ""],
+          ["Reeeally? Nyeeheehee.", "Прааавда? Ньихихи."],
+          ["Yes, really!", "Да, правда!"],
+          ["Really really!", "Правда, правда!"],
           ["叶真たちのパート", ""],
           [
             "Hey, there's been some spoooooky\nparanormal business going on at this school...\nI'm getting a little freaked, myself...",
-            ""
+            "Эй, знаете, здесь происходят страаашные.\nпаранормальные дела в этой школе...\nМне становиться немного страшно от этого всего этого..."
           ],
-          ["Paranormal, my ass!", ""],
+          ["Paranormal, my ass!", "Паранормальное? Да ты чё!"],
           [
             "I'm for real! IT'S for real!\nThe other day, a kid in the other class\ngot dragged away in the bathroom!",
-            ""
+            "Правда! ЭТО реально!\nНа днях, ребенка из другого класса\nутащили в туалет!"
           ],
           [
             "There was also the incident where\nthe lights in the gym suddenly fell...",
-            ""
+            "Был также случай, когда\nлампы в спортзале внезапно упали..."
           ],
           [
             "Luckily, no one was injured,\nbut they're still not sure what happened.",
-            ""
+            "К счастью, никто не пострадал,\nно они всё ещё не уверены, почему это произошло."
           ],
-          ["Gotta be ghosts!", ""],
-          ["Eeee! How scaryyy!", ""],
-          ["Ghosts, huh?\nDumbass! Those ain't things that exist!", ""],
-          ["Wait... Whaddif...\nThis's Misao's curse...?", ""],
-          ["Look, this is no time for jokes...", ""],
+          ["Gotta be ghosts!", "Должно быть, виноваты призраки!"],
+          ["Eeee! How scaryyy!", "Ииик! Мне страшно!"],
+          [
+            "Ghosts, huh?\nDumbass! Those ain't things that exist!",
+            "Призраки, ха?\nТупица! Их не существует!"
+          ],
+          [
+            "Wait... Whaddif...\nThis's Misao's curse...?",
+            "Стойте... Чтоесль...\nЭто проклятье Мисао..?"
+          ],
+          [
+            "Look, this is no time for jokes...",
+            "Слушай, сейчас не время для шуток..."
+          ],
           [
             "But I mean, it's totally possible!\nIt's been three months since she vanished!\nThen this stuff just suddenly starts!",
-            ""
+            "Но ведь, это теоретически возможно!\nПрошло три месяца с тех пор как она исчезла!\nИ теперь всё это началось!"
           ],
           [
             "If those events're \"Misao's curse\"...\nThen Yoshino'll be cursed sooner or later.",
-            ""
+            "Если это действительно \"Проклятье Мисао\"...\nТогда Йошино будет проклята, рано или поздно."
           ],
-          ["H-Hmm?!\nWhatever did I do?!", ""],
-          ["Ugh, Yoshino...\nYou bullied Misao a lot, is what!", ""],
-          ["Bullying?! Well, I never!\nI was just making a little fun!", ""],
+          ["H-Hmm?!\nWhatever did I do?!", "Х-Хмм?!\nС чего это вдруг?!"],
+          [
+            "Ugh, Yoshino...\nYou bullied Misao a lot, is what!",
+            "Угх, Йошино...\nТы издевалась над Мисао, вот почему!"
+          ],
+          [
+            "Bullying?! Well, I never!\nI was just making a little fun!",
+            "Издевалась?! Нет, никогда!\nЯ просто немного веселилась с ней!"
+          ],
           [
             "And Tohma, you always screwed with Misao!\nYou're the one who's gonna get cursed!",
-            ""
+            "И Тома, ты тоже вечно досаждал Мисао!\nТы первый кто будет проклят!"
           ],
-          ["Me? Hah, I'm fine!\n'Cause Misao fell for me!", ""],
+          [
+            "Me? Hah, I'm fine!\n'Cause Misao fell for me!",
+            "Я? Не, я буду в порядке!\nПотому что у Мисао есть чувства ко мне!"
+          ],
           ["CharaChip/chara_touma.png", ""],
-          ["I wonder about that...", ""],
+          ["I wonder about that...", "Надеюсь на это..."],
           [
             "Tohmaaa, I'm scaaared...\nI mean, I'm your girlfriend, so...\nMisao might have a grudge...",
-            ""
+            "Томааа, я напуганааа...\nНу в смысле, я твоя девушка, так что...\nМисао может обидеться..."
           ],
           ["x", ""],
           ["chara_kudou", ""],
-          ["Don't sweat it, Otome.\nI'll protect you!", ""],
-          ["Awww! You're so sweet, Tohma!", ""],
-          ["Pah! Believe what you want, lovebirds!", ""],
+          [
+            "Don't sweat it, Otome.\nI'll protect you!",
+            "Не парься, Отоме.\nЯ защищу тебя!"
+          ],
+          ["Awww! You're so sweet, Tohma!", "Аххх! ты такой милый, Тома!"],
+          [
+            "Pah! Believe what you want, lovebirds!",
+            "Хах! Верьте во что хотите, любовные пташки!"
+          ],
           [
             "Misaaao, please don't curse usss!\nThe rest are fair gaaaame, though!",
-            ""
+            "Мисааао, пожалуйста, не проклинай нааас!\nОстальные же чисты, да!"
           ],
-          ["Oops, did I say that out loud?\nGahahahah!", ""],
+          [
+            "Oops, did I say that out loud?\nGahahahah!",
+            "У-у-упс, я сказал это вслух?\nПхахахахах!"
+          ],
           ["SE/match_noise.ogg", ""],
           ["Picture/still_noroi.png", ""],
           ["SE/match_goro.ogg", ""],
           ["anime_aki01", ""],
-          ["An earthquake...?!", ""],
+          ["An earthquake...?!", "Землетрясение?!"],
           ["Picture/still_noroi2.png", ""],
           ["<SQUARE>", ""],
-          ["Wh-Wha?! It got dark real quick!\nWhat the heck's goin' on?!", ""],
+          [
+            "Wh-Wha?! It got dark real quick!\nWhat the heck's goin' on?!",
+            "Ч-Что?! Темнеет нереально быстро!\nЧто, чёрт возьми, происходит?!"
+          ],
           ["CharaChip/chara_yoshino.png", ""],
-          ["Maybe, just maybe... it really is Misao's curse?", ""],
+          [
+            "Maybe, just maybe... it really is Misao's curse?",
+            "Может, просто может... это действительно проклятье Мисао?"
+          ],
           ["キャラ方向変更", ""],
-          ["Ooh, Misao's real mad at us!", ""],
+          ["Ooh, Misao's real mad at us!", "Оох, Мисао реально зла на нас!"],
           [
             "Sh-Shaddup! What the hell!\nI was just kidding about that curse crap!",
-            ""
+            "З-Заткнись! Черт возьми!\nЯ же просто шутил насчет этого проклятого дерьма!"
           ],
-          ["Ah...!", ""],
+          ["Ah...!", "Ах..!"],
           ["\\s[1]?", ""],
           ["SE/match_loop.ogg", ""],
-          ["\\E\\font[2]H E L P . . .", ""],
-          ["Mi... sao...?", ""],
+          ["\\E\\font[2]H E L P . . .", "\\E\\font[2]П О М О Г И . . ."],
+          ["Mi... sao...?", "Ми... сао...?"],
           ["SE/lab_deathword.ogg", ""],
           ["0", ""],
-          ["Misao!!", ""],
-          ["Is that Misao?!", ""],
-          ["I can hear her speaking to me...", ""],
-          ["Well hey, then it's gotta be her!", ""],
-          ["SH-SHUT IT!\nI don't hear her damn voice!", ""],
+          ["Misao!!", "Мисао!!"],
+          ["Is that Misao?!", "Это Мисао?!"],
+          ["I can hear her speaking to me...", "Я могу слышать её..."],
+          ["Well hey, then it's gotta be her!", "Эй, должно быть это она!"],
+          [
+            "SH-SHUT IT!\nI don't hear her damn voice!",
+            "З-ЗАТКНИСЬ!\nЯ не слышу её грёбаного голоса!"
+          ],
           ["足音ループ", ""],
-          ["\\s[1]!\nY-You're talkin' crazy talk!", ""],
+          [
+            "\\s[1]!\nY-You're talkin' crazy talk!",
+            "\\s[1]!\nТ-Ты несёшь сумасшедший бред!"
+          ],
           ["ショートカット", ""],
-          ["I'm not...! Ah...!!", ""],
-          ["\\E\\f[30]FIND ME...", ""],
-          ["M... Misa... o...", ""],
+          ["I'm not...! Ah...!!", "Я не..! Ах...!!"],
+          ["\\E\\f[30]FIND ME...", "\\E\\f[30]НАЙДИ МЕНЯ..."],
+          ["M... Misa... o...", "М... Миса... о..."],
           ["SE/lab_horror.ogg", ""],
           ["ホラー文字", ""],
-          ["FIND ME", ""],
+          ["FIND ME", "НАЙДИ МЕНЯ"],
           ["SE/maou_noise.ogg", ""],
           ["Picture/still_noroi3.png", ""],
           ["Picture/still_noroi4.png", ""],
           ["SE/match_voice_himei.ogg", ""],
-          ["WAAAAAAAAAAUUUUUGH!!!", ""],
+          ["WAAAAAAAAAAUUUUUGH!!!", "ВААААААААААААААААА!!"],
           ["彩加", ""],
           ["CharaChip/chara_isu.png", ""],
           ["叶真", ""],
@@ -42403,58 +42481,103 @@
           ["map_kyoushitsu", ""],
           ["★プロローグ", ""],
           ["CharaChip/chara_kurata.png", ""],
-          ["@1\nAs you see here... and so, as a result...", ""],
-          ["(Sigh... Mr. Kurata's always such a stud!)", ""],
-          ["(That voice I heard in my dream...\n Was that Misao?)", ""],
-          ["You've got guts to ignore my lecture.", ""],
-          ["Yeek!", ""],
-          ["Wahh!!", ""],
+          [
+            "@1\nAs you see here... and so, as a result...",
+            "@1\nКак вы видите здесь... и так, в результате..."
+          ],
+          [
+            "(Sigh... Mr. Kurata's always such a stud!)",
+            "(Вздох... Мистер Курата такой крутой!)"
+          ],
+          [
+            "(That voice I heard in my dream...\n Was that Misao?)",
+            "(Этот голос, который был во сне...\nЭто была Мисао?)"
+          ],
+          [
+            "You've got guts to ignore my lecture.",
+            "У тебя хватило смелости игнорировать мою лекцию."
+          ],
+          ["Yeek!", "Ииик!"],
+          ["Wahh!!", "Вааа!!"],
           [
             "This information will be essential for the test.\nSo you'd better listen!",
-            ""
+            "Эта информация будет важна для теста.\nТак что тебе лучше слушать!"
           ],
-          ["Y-Yes, sir!\nI'm sorry!", ""],
-          ["I-I'm sorry!", ""],
-          ["*giggle...*", ""],
+          ["Y-Yes, sir!\nI'm sorry!", "Д-Да, сэр!\nПростите!"],
+          ["I-I'm sorry!", "П-Прошу прощения!"],
+          ["*giggle...*", "*хихиканье...*"],
           ["SE/lab_chime.ogg", ""],
           ["★操回想", ""],
-          ["@1\nListen up, everybody!\nI got big news!", ""],
-          ["I think you'll agree this one's a riot!", ""],
-          ["What now, Yoshino?!\nCut the crap and tell us!", ""],
-          ["Weh-he-ell...!\nOne of the girls here loves Tohma!", ""],
-          ["Huh?!\nAre you confessin' to me?!", ""],
-          ["You WISH it was me!!", ""],
+          [
+            "@1\nListen up, everybody!\nI got big news!",
+            "@1\nСлушайте все!\nУ меня для вас большие новости!"
+          ],
+          [
+            "I think you'll agree this one's a riot!",
+            "Я думаю, вы согласитесь, что это вызывает восторг!"
+          ],
+          [
+            "What now, Yoshino?!\nCut the crap and tell us!",
+            "Что такое, Йошино?!\nРасскажи нам!"
+          ],
+          [
+            "Weh-he-ell...!\nOne of the girls here loves Tohma!",
+            "Итааааак..!\nОдна из девушек, прямо здесь, любит Тому!"
+          ],
+          ["Huh?!\nAre you confessin' to me?!", "А?!\nТы признаешься мне?!"],
+          ["You WISH it was me!!", "Тыы ХОЧЕШЬ, чтобы это была я!?"],
           [
             "It's none other than the simple girl\nwho never stands out... Misaooo!",
-            ""
+            "Это никто иная, как самая простая девушка,\nкоторая никогда не выделялась в нашем классе... Мисаооо!"
           ],
-          ["Classmate", ""],
-          ["@1\nHuh?! Really?!", ""],
-          ["Ah... I...", ""],
-          ["Look, Tohma's right over there!\nConfess your undying love!", ""],
+          ["Classmate", "Одноклассники"],
+          ["@1\nHuh?! Really?!", "@1\nА?! Реально?!"],
+          ["Ah... I...", "Ах... Я..."],
+          [
+            "Look, Tohma's right over there!\nConfess your undying love!",
+            "Смотри, Тома прямо там!\nПризнайся ему в своей вечной любви!"
+          ],
           ["-9", ""],
           ["8", ""],
-          ["Sure thing! I'll date you, Misao!", ""],
-          ["Huh...?", ""],
-          ["I've kinda had a crush on you myself...", ""],
-          ["Tohma...", ""],
-          ["Huh?! Tohma, are you for real?!\nMisao?! REALLY?!", ""],
+          [
+            "Sure thing! I'll date you, Misao!",
+            "Конечно! Я буду встречаться с тобой, Мисао!"
+          ],
+          ["Huh...?", "А...?"],
+          [
+            "I've kinda had a crush on you myself...",
+            "Я, вроде как, влюблен в тебя..."
+          ],
+          ["Tohma...", "Тома..."],
+          [
+            "Huh?! Tohma, are you for real?!\nMisao?! REALLY?!",
+            "А?! Тома, ты серьезно?!\nМисао?! РЕАЛЬНО?!"
+          ],
           [
             "You shut your trap!\nIt's none of your business who I'm datin', Yoshino!",
-            ""
+            "Закрой свою пасть!\nЭто не твое дело с кем я встречаюсь, Йошино!"
           ],
-          ["Let's trade numbers!", ""],
+          ["Let's trade numbers!", "Давай обменяемся номерами!"],
           ["...!", ""],
-          ["O-Okay...", ""],
-          ["Why did Yoshino spill the beans...?", ""],
+          ["O-Okay...", "Х-Хорошо..."],
+          [
+            "Why did Yoshino spill the beans...?",
+            "Зачем Йошино выдала секрет..?"
+          ],
           [
             "Well, not like it matters!\nBecause of that, now I'm Tohma's girlfriend.\nI should thank Yoshino.",
-            ""
+            "Ну, это уже не важно!\nИз-за этого случая, теперь я девушка Томы.\nЯ должна поблагодарить Йошину."
           ],
-          ["Oh, Tohma sent me a text!", ""],
-          ["\"I like you, Misao. Do you like me too?\"", ""],
-          ["T-Tohma...!\nWhat... That's so embarrassing...", ""],
-          ["H-How should I reply...?", ""],
+          ["Oh, Tohma sent me a text!", "О, Тома прислал мне сообщение!"],
+          [
+            "\"I like you, Misao. Do you like me too?\"",
+            "\"Ты мне нравишься, Мисао. Я тебе тоже нравлюсь?\""
+          ],
+          [
+            "T-Tohma...!\nWhat... That's so embarrassing...",
+            "T-Тома..!\nЧто... Это так неловко..."
+          ],
+          ["H-How should I reply...?", "К-Как я должна ответить..?"],
           ["CharaChip/chara_touma_pocket.png", ""]
         ],
         "context": [
@@ -43240,12 +43363,18 @@
           ["25", ""],
           ["画面色調変更", ""],
           ["顔グラフィック", ""],
-          ["@1\nUrgh...", ""],
-          ["H-Huh?\nThis is still the classroom, right?", ""],
-          ["This... is the same classroom, right?", ""],
+          ["@1\nUrgh...", "@1\nУгх..."],
+          [
+            "H-Huh?\nThis is still the classroom, right?",
+            "А-а?\nЭто всё та же классная комната, правда?"
+          ],
+          [
+            "This... is the same classroom, right?",
+            "Это... та же самая классная комната, правда?"
+          ],
           ["x", ""],
-          ["What the heck happened?", ""],
-          ["What in the world happened?", ""],
+          ["What the heck happened?", "Что, черт возьми, произошло?"],
+          ["What in the world happened?", "Что здесь произошло?"],
           ["異界マニュアル", ""],
           ["イベントスキップ", ""],
           ["ダッシュ", ""],
@@ -43254,17 +43383,17 @@
           ["徒歩移動", ""],
           ["キャラ方向変更", ""],
           ["仕草", ""],
-          ["@1\nMisao's... curse...", ""],
-          ["Gah!!\nThis! Is! Not! FUNNY!", ""],
+          ["@1\nMisao's... curse...", "@1\nПроклятье... Мисао..."],
+          ["Gah!!\nThis! Is! Not! FUNNY!", "Гх!!\nЭто! Не! СМЕШНО!"],
           ["足音ループ", ""],
           ["窓", ""],
           [
             "@1\nAm I dreaming or what?\nIt's so dark outside, I can't see a thing.",
-            ""
+            "@1\nЯ сплю или что?\nТак темно снаружи, я ничего не вижу."
           ],
           [
             "@1\nCould this be a dream...?\nCan't see a thing outside, it's pitch black.",
-            ""
+            "@1\nЭто что, сон...?\nНичего не могу разглядеть снаружи, полная чернота."
           ],
           ["窓コピペ", ""],
           ["セロハンテープ", ""],
@@ -43275,7 +43404,7 @@
           ["anime_ghost01", ""],
           ["イベントスキップ処理", ""],
           ["床", ""],
-          ["@1\nThe floor has crumbled away.", ""],
+          ["@1\nThe floor has crumbled away.", "@1\nПол провалился."],
           ["床CP", ""],
           ["感知調整", ""],
           ["吉野表示", ""],
@@ -43485,7 +43614,7 @@
           ["床", ""],
           ["仕草", ""],
           ["顔グラフィック", ""],
-          ["@1\nThe floor has crumbled away.", ""],
+          ["@1\nThe floor has crumbled away.", "@1\nПол провалился."],
           ["悲鳴", ""],
           ["SE/lab_voice_himei.ogg", ""],
           ["<LIGHT>斜め阻止", ""],
@@ -43500,7 +43629,7 @@
           ["感情表現アイコン", ""],
           ["キャラモーション", ""],
           ["anime_aki01", ""],
-          ["@1\nMy eyes feel... hot...", ""],
+          ["@1\nMy eyes feel... hot...", "@1\nМои глаза чувствуют... жар..."],
           ["\\i[603]", ""],
           ["\\i[517]", ""],
           ["画面色調変更", ""],
@@ -43656,24 +43785,30 @@
           ["CharaChip/chara_run.png", ""],
           ["キャラ方向変更", ""],
           ["顔グラフィック", ""],
-          ["@1\nOtome! This way!", ""],
+          ["@1\nOtome! This way!", "@1\nОтоме! Сюда!"],
           ["キャラモーション", ""],
           ["anime_chara01", ""],
-          ["GYAAAAAAAAAAH!", ""],
-          ["...Oh, \\s[1]!\nGeez, it's just you?!", ""],
-          ["You should run, okay?!\nThis is bad! For serious bad!", ""],
+          ["GYAAAAAAAAAAH!", "ГЬЯЯЯЯЯЯЯЯЯЯЯ!"],
+          [
+            "...Oh, \\s[1]!\nGeez, it's just you?!",
+            "...Ох, \\s[1]!\nБоже, это всего лишь ты?!"
+          ],
+          [
+            "You should run, okay?!\nThis is bad! For serious bad!",
+            "Тебе лучше тоже бежать, окей?!\nЭто всё плохо! Очень плохо!"
+          ],
           ["x", ""],
           ["操", ""],
           ["感情表現アイコン", ""],
           ["徒歩移動", ""],
-          ["@1\n...Huh?", ""],
-          ["Misao?", ""],
+          ["@1\n...Huh?", "@1\n...А?"],
+          ["Misao?", "Мисао?"],
           ["SE/onjin_hone.ogg", ""],
           ["SE/bitachi_ashioto.ogg", ""],
-          ["Something's coming...", ""],
+          ["Something's coming...", "Что-то приближается..."],
           ["Fog_BackGround/fog_dark.png", ""],
-          ["Something's weird here...!", ""],
-          ["Something's not right...!", ""],
+          ["Something's weird here...!", "Здесь что-то странное...!"],
+          ["Something's not right...!", "Что-то не так...!"],
           ["SE/lab_deathword.ogg", ""],
           ["CharaChip/chara_aki_f_run.png", ""],
           ["CharaChip/chara_aki_m_run.png", ""],
@@ -43681,8 +43816,11 @@
           ["声", ""],
           ["anime_ghost01", ""],
           ["SE/bitachi_voice_tasukete.ogg", ""],
-          ["I can't leave her alone...", ""],
-          ["Can't just leave her alone...", ""],
+          ["I can't leave her alone...", "Я не могу оставить её одну..."],
+          [
+            "Can't just leave her alone...",
+            "Я не могу просто так оставить её одну..."
+          ],
           ["頭", ""],
           ["CharaChip/ghost_etc.png", ""],
           ["フォグ", ""],
@@ -43692,8 +43830,14 @@
           ["\\i[604]", ""],
           ["\\i[514]", ""],
           ["←階段", ""],
-          ["@1\nI'm curious what's going on outside...", ""],
-          ["@1\nI want to know what's going on outside.", ""],
+          [
+            "@1\nI'm curious what's going on outside...",
+            "@1\nМне интересно, что происходит снаружи..."
+          ],
+          [
+            "@1\nI want to know what's going on outside.",
+            "@1\nЯ хочу знать, что происходит снаружи."
+          ],
           ["乙女", ""],
           ["足音1", ""],
           ["SE/lab_step_school.ogg", ""],
@@ -43919,19 +44063,31 @@
           ["ショートカット", ""],
           ["感情表現アイコン", ""],
           ["顔グラフィック", ""],
-          ["@1\nIt's my fault.\nI'm responsible for everything.", ""],
+          [
+            "@1\nIt's my fault.\nI'm responsible for everything.",
+            "@1\nЭто моя вина.\nЯ ответственен за всё это."
+          ],
           ["x", ""],
-          ["I need to do something...", ""],
+          ["I need to do something...", "Я должен сделать что нибудь..."],
           ["キャラ方向変更", ""],
-          ["Wait for me, Misao...\nI'll definitely find you.", ""],
+          [
+            "Wait for me, Misao...\nI'll definitely find you.",
+            "Жди меня, Мисао...\nЯ обязательно найду тебя."
+          ],
           ["足音ループ", ""],
           ["地震", ""],
           ["anime_aki01", ""],
           ["SE/match_goro.ogg", ""],
           ["←", ""],
           ["戻る", ""],
-          ["@1\nSomething weird's going on there!", ""],
-          ["@1\nSomething's messed up back there!", ""]
+          [
+            "@1\nSomething weird's going on there!",
+            "@1\nЗдесь происходит что-то странное!"
+          ],
+          [
+            "@1\nSomething's messed up back there!",
+            "@1\nТам происходит что-то странное!"
+          ]
         ],
         "context": [
           ["prologue7.mps/Event/0/name"],
@@ -44053,19 +44209,19 @@
           ["CharaChip/chara_misao_ghost.png", ""],
           ["感情表現アイコン", ""],
           ["顔グラフィック", ""],
-          ["@1\nMisao?", ""],
+          ["@1\nMisao?", "@1\nМисао?"],
           ["キャラモーション", ""],
           ["anime_aki01", ""],
-          ["Wait!", ""],
+          ["Wait!", "Постой!"],
           ["x", ""],
           ["CharaChip/chara_aki_f_run.png", ""],
-          ["Hey, hold on!", ""],
+          ["Hey, hold on!", "Эй, подожди!"],
           ["CharaChip/chara_aki_m_run.png", ""],
           ["SE/match_bell.ogg", ""],
           ["<SQUARE>", ""],
-          ["Was that an illusion?", ""],
-          ["Misao... Where are you?", ""],
-          ["Misao... just where are you?", ""],
+          ["Was that an illusion?", "Это была иллюзия?"],
+          ["Misao... Where are you?", "Мисао... Где ты?"],
+          ["Misao... just where are you?", "Мисао... Где же ты?"],
           ["足あと", ""],
           ["CharaChip/ghost_etc.png", ""],
           ["キャラ方向変更", ""],
@@ -44075,11 +44231,11 @@
           ["10", ""],
           ["SE/match_swing.ogg", ""],
           ["Huh?\\.\\.\\.\\^", ""],
-          ["Misa... o...!", ""],
+          ["Misa... o...!", "Миса... о..!"],
           ["SE/bitachi_aki_f_himei.ogg", ""],
           ["CharaChip/anime_aki01.png", ""],
           ["SE/bitachi_aki_m_himei.ogg", ""],
-          ["FIND ME...", ""]
+          ["FIND ME...", "НАЙДИ МЕНЯ..."]
         ],
         "context": [
           ["prologue8.mps/Event/0/name"],
@@ -44275,8 +44431,11 @@
           ["chara_aki_f", ""],
           ["chara_aki_m", ""],
           ["顔グラフィック", ""],
-          ["@2\nThank you for the flowers...", ""],
-          ["We found what you're looking for...", ""],
+          ["@2\nThank you for the flowers...", "@2\nСпасибо за цветы..."],
+          [
+            "We found what you're looking for...",
+            "Мы нашли то, что тебе надо..."
+          ],
           ["キーアイテム入手", ""]
         ],
         "context": [
@@ -44451,35 +44610,56 @@
           ["画面色調変更", ""],
           ["イベントスキップ", ""],
           ["顔グラフィック", ""],
-          ["@1\nThat...", ""],
-          ["Mr. Kurata... killed Misao...", ""],
+          ["@1\nThat...", "@1\nЭто..."],
+          ["Mr. Kurata... killed Misao...", "Мистер Курата... Убил Мисао..."],
           ["足音ループ", ""],
           ["キャラモーション", ""],
           ["anime_chara04", ""],
-          ["The school's back to normal?!", ""],
+          ["The school's back to normal?!", "Школа вернулась в норму?!"],
           ["感情表現アイコン", ""],
-          ["Misao is calling me...!", ""],
+          ["Misao is calling me...!", "Мисао зовёт меня...!"],
           ["CharaChip/chara_aki_f_run.png", ""],
           ["CharaChip/chara_aki_m_run.png", ""],
           ["x", ""],
-          ["H-Hey, where're you going?!", ""],
+          ["H-Hey, where're you going?!", "Э-Эй, куда ты идёшь?!"],
           ["anime_chara03", ""],
           [
             "Look! The sky is back to normal!\nAll thanks to you lifting the curse!",
-            ""
+            "Смотри! Небо возвращается к норме!\nБлагодаря тебе, мы сняли это проклятье!"
           ],
           ["キャラ方向変更", ""],
-          ["T-Teacher... You killed Misao...?", ""],
-          ["I see... So you saw it, too.", ""],
+          [
+            "T-Teacher... You killed Misao...?",
+            "У-Учитель... Вы убили Мисао..?"
+          ],
+          ["I see... So you saw it, too.", "Ясно... Так ты знаешь это, тоже."],
           ["anime_aki02", ""],
-          ["(Is he... gonna kill me, too?!)", ""],
-          ["T-Teacher... I-I...\nI won't tell anyone...", ""],
-          ["(I have to escape!!)", ""],
-          ["I-I swear! I... I'll...\nT-Tea... teach...", ""],
-          ["(Is he gonna... kill me, too...?!)", ""],
-          ["S-Sir... I-I...\nI won't tell anyone...", ""],
-          ["(I gotta run!!)", ""],
-          ["I-I swear! I... I'll...\nS-S... sir...", ""],
+          [
+            "(Is he... gonna kill me, too?!)",
+            "(Он... Собирается убить меня, тоже?!)"
+          ],
+          [
+            "T-Teacher... I-I...\nI won't tell anyone...",
+            "У-Учитель... Я-Я...\nЯ никому не расскажу..."
+          ],
+          ["(I have to escape!!)", "(Мне нужно выбираться!!)"],
+          [
+            "I-I swear! I... I'll...\nT-Tea... teach...",
+            "Я-Я обещаю! Я... Я...\nУ-Учи... тель..."
+          ],
+          [
+            "(Is he gonna... kill me, too...?!)",
+            "(Он собирается... убить меня, тоже...?!)"
+          ],
+          [
+            "S-Sir... I-I...\nI won't tell anyone...",
+            "С-Сэр... Я-Я..\nЯ никому не расскажу..."
+          ],
+          ["(I gotta run!!)", "(Мне нужно бежать!!)"],
+          [
+            "I-I swear! I... I'll...\nS-S... sir...",
+            "Я-Я обещаю! Я... Я...\nС-С... Сэр..."
+          ],
           ["CharaChip/chara_kurata_run.png", ""],
           ["SE/lab_punch.ogg", ""],
           ["ショートカット", ""]
@@ -44736,63 +44916,93 @@
           ["ショートカット", ""],
           ["場所移動", ""],
           ["顔グラフィック", ""],
-          ["@1\nGotta hide!", ""],
-          ["@1\nHave to hide somewhere!", ""],
+          ["@1\nGotta hide!", "@1\nНужно спрятаться!"],
+          ["@1\nHave to hide somewhere!", "@1\nНужно где-нибудь спрятаться!"],
           ["キャラ方向変更", ""],
-          ["@1\nIt feels like something's calling you...", ""],
+          [
+            "@1\nIt feels like something's calling you...",
+            "@1\nТакое чувство, как будто тебя кто-то зовёт..."
+          ],
           ["<LIGHT>吉野イベント", ""],
           ["CharaChip/chara_tentou.png", ""],
           ["感情表現アイコン", ""],
-          ["@1\n\\s[1]! Wh-What a relief!\nHelp me...!", ""],
+          [
+            "@1\n\\s[1]! Wh-What a relief!\nHelp me...!",
+            "@1\n\\s[1]! К-Какое облегчение!\nПомоги мне...!"
+          ],
           ["選択肢", ""],
-          ["Help her?", ""],
-          ["Yes", ""],
-          ["No", ""],
+          ["Help her?", "Помочь ей?"],
+          ["Yes", "Да"],
+          ["No", "Нет"],
           ["画面色調変更", ""],
           ["CharaChip/chara_aki_f_utsumuku.png", ""],
           ["CharaChip/chara_aki_m_utsumuku.png", ""],
-          ["I'd like to help you,\nbut you're always bullying people...", ""],
-          ["Huh? What?!\nWhat about it?!", ""],
+          [
+            "I'd like to help you,\nbut you're always bullying people...",
+            "Я бы помогла тебе,\nно ты всегда издевалась над людьми..."
+          ],
+          ["Huh? What?!\nWhat about it?!", "Ха? Что?!\nЧто ты несёшь?!"],
           [
             "If you promise not to bully the weak anymore,\nthen I'll be willing to help you.",
-            ""
+            "Если ты пообещаешь больше не запугивать слабых,\nтогда я помогу тебе."
           ],
           [
             "A-Alright, geez! Sure!\nI won't do it! Now help me out here!\nHe's gonna come back if you don't hurry!",
-            ""
+            "Х-Хорошо, боже! Конечно!\nЯ не буду больше этого делать! А теперь помоги мне выбраться!\nОн вернется если ты не поторопишься!"
           ],
-          ["Who?", ""],
-          ["Just wait... I'll untie you.", ""],
+          ["Who?", "Кто?"],
+          ["Just wait... I'll untie you.", "Подожди... Я отвяжу тебя."],
           ["キャラモーション", ""],
           ["anime_aki03", ""],
           [
             "Whew! Thank you!\nYou're a good guy after all!\nWay cooler than that Kudoh jerk!",
-            ""
+            "Фух! Спасибо тебе!\nТы хороший парень, в конце концов!\nТы куда круче чем этот придурок Кудо!"
           ],
-          ["...Yoshino, you're always\npicking on people weaker than you.", ""],
-          ["That's bullying, y'know.", ""],
-          ["Can you promise me something?", ""],
-          ["Promise me you won't bully the weak anymore.", ""],
+          [
+            "...Yoshino, you're always\npicking on people weaker than you.",
+            "...Йошино, ты всегда\nпридираешься к людям слабее тебя."
+          ],
+          [
+            "That's bullying, y'know.",
+            "Это называется издевательствами, понимаешь."
+          ],
+          ["Can you promise me something?", "Можешь мне кое-что пообещать?"],
+          [
+            "Promise me you won't bully the weak anymore.",
+            "Пообещай мне, что ты больше не будешь издеваться над слабыми."
+          ],
           ["SE/lab_voice_zombie_breath.ogg", ""],
-          ["EEEEEEEEEEK!!\nHE'S HEEEEEEEEEERE!!", ""],
+          [
+            "EEEEEEEEEEK!!\nHE'S HEEEEEEEEEERE!!",
+            "ИИИИИИИИИИК!!\nОН ЗДЕЕЕЕЕЕЕЕЕЕСЬ!!"
+          ],
           ["SE/match_chainsaw_start.ogg", ""],
-          ["NOOOOO!\nI don't wanna be a test subject!!", ""],
-          ["I-If I'm found, I'm done for!\nGotta hide somewhere!", ""],
+          [
+            "NOOOOO!\nI don't wanna be a test subject!!",
+            "НЕЕЕТ!\nЯ не хочу быть подопытной!!"
+          ],
+          [
+            "I-If I'm found, I'm done for!\nGotta hide somewhere!",
+            "Е-Если меня найдут, меня прикончат!\nМне нужно где-то спрятаться!"
+          ],
           ["x", ""],
-          ["Don't tell me that's...?!", ""],
+          ["Don't tell me that's...?!", "Только не говорите мне, что это...?!"],
           [
             "Dammit, I can't get these off!\nBoth of us are gonna get caught!\nWhat can I do?!",
-            ""
+            "Чёрт возьми, я не могу развязать это!\nНас обоих поймают!\nЧто мне делать?!"
           ],
           [
             "Gotta stay calm...\nI know I won't be able to help Yoshino if I get caught too.",
-            ""
+            "Нужно успокоиться...\nЯ не смогу помочь Йошине, если меня тоже поймают."
           ],
           ["[モーション]首を振る", ""],
-          ["For now, I gotta find somewhere to hide...!", ""],
+          [
+            "For now, I gotta find somewhere to hide...!",
+            "А сейчас, мне нужно где-нибудь спрятаться..!"
+          ],
           [
             "W-Why yooou! Don't play games with me!!\nWhen I get outta here, I'll...!",
-            ""
+            "П-Почему тыыы! Не играй со мной в игры!!\nКогда я выберусь отсюда, я..!"
           ],
           ["8", ""],
           ["実績：冷酷", ""],
@@ -44800,26 +45010,29 @@
           ["イベントスキップ", ""],
           [
             "@2\nMisao's at fault, too. Soon as she started dating Tohma,\nshe took to looking down on me.\nAll I did was punish her for it.",
-            ""
+            "@2\nМисао тоже виновата. Как только она начала встречаться с Томой,\nона принялась смотреть на меня свысока.\nВсё, что я сделала, это просто наказала её за это."
           ],
           ["SE/match_sonic.ogg", ""],
           ["ライティング", ""],
           [
             "@1\nI didn't know anything...\nI never noticed any of that\nwas happening to Misao...",
-            ""
+            "@1\nЯ и понятия не имела...\nЯ никогда не замечал, что что-то\nподобное происходило с Мисао..."
           ],
           [
             "@1\nI had no idea...\nI never realized any of that\nwas happening to Misao...",
-            ""
+            "@1\nЯ и понятия не имела...\nЯ никогда не осознавала,\nчто происходило с Мисао..."
           ],
           ["墓_魂宿る", ""],
           ["カプセル", ""],
           ["CharaChip/obj_capsule.png", ""],
-          ["@1\nA capsule.\nBig enough for one.", ""],
+          [
+            "@1\nA capsule.\nBig enough for one.",
+            "@1\nКапсула.\nДостаточно большая для одного человека."
+          ],
           ["<LIGHT>隠れ場所1/熊チップ変更", ""],
-          ["You could hide here...", ""],
-          ["Hide", ""],
-          ["Look for somewhere else", ""],
+          ["You could hide here...", "Ты можешь спрятаться здесь..."],
+          ["Hide", "Спрятаться"],
+          ["Look for somewhere else", "Поискать другое место"],
           ["退学リスト更新", ""],
           ["<LIGHT>落とし穴(隠れ0)", ""],
           ["CharaChip/chara_aki_f_jump.png", ""],
@@ -44852,9 +45065,12 @@
           ["-12", ""],
           ["-25", ""],
           ["4", ""],
-          ["There's not enough space to hide...", ""],
-          ["Never give up!!", ""],
-          ["Give up", ""],
+          [
+            "There's not enough space to hide...",
+            "Здесь недостаточно места, чтобы спрятаться..."
+          ],
+          ["Never give up!!", "Никогда не сдаваться!!"],
+          ["Give up", "Сдаться"],
           ["アイテム入手", ""],
           ["マッドファーザー/並列", ""],
           ["CharaChip/ghost_madfather_TX.png", ""],
@@ -44867,8 +45083,8 @@
           ["obj_capsule", ""],
           ["SE/match_mecha_on.ogg", ""],
           ["SE/match_mecha_up.ogg", ""],
-          ["@1\nH-Huh?!", ""],
-          ["@1\nW-What?!", ""],
+          ["@1\nH-Huh?!", "@1\nА-А?!"],
+          ["@1\nW-What?!", "@1\nЧ-Что?!"],
           ["CharaChip/monster_etc.png", ""],
           ["隠れ場所3", ""],
           ["隠れ場所4", ""],
@@ -44882,29 +45098,59 @@
           ["<LIGHT>モニター", ""],
           ["カプセル稲妻", ""],
           ["<LIGHT>きぐるみ", ""],
-          ["@1\nA large bear costume.\nWonder what it's stuffed with?", ""],
-          ["This might be the perfect hiding spot!\nBut how...?", ""],
+          [
+            "@1\nA large bear costume.\nWonder what it's stuffed with?",
+            "@1\nБольшой костюм медведя.\nИнтересно, чем он внутри набит?"
+          ],
+          [
+            "This might be the perfect hiding spot!\nBut how...?",
+            "Это может быть идеальным укрытием!\nНо как..?"
+          ],
           ["基本メニュー", ""],
           ["SE/lab_blood.ogg", ""],
           ["SE/lab_bofu.ogg", ""],
-          ["(Please don't notice me!)", ""],
-          ["(What the... It's all slimy, and smells like blood...)", ""],
-          ["(Urk... I-I'm gonna barf...)", ""],
-          ["Nooooo! Stop it, you!!", ""],
+          ["(Please don't notice me!)", "(Пожалуйста, не заметь меня!)"],
+          [
+            "(What the... It's all slimy, and smells like blood...)",
+            "(Что за... Всё слизкое и пахнет кровью...)"
+          ],
+          ["(Urk... I-I'm gonna barf...)", "(Угх... М-Меня сейчас стошнит...)"],
+          ["Nooooo! Stop it, you!!", "Нееееет! Стой, ты!"],
           ["SE/match_chainsaw.ogg", ""],
-          ["NOOOOOOOOOO!!", ""],
-          ["Looks like the monster left...\nWhew...", ""],
-          ["At least the monster left...\nWhew...", ""],
+          ["NOOOOOOOOOO!!", "НЕЕЕЕЕЕЕЕЕЕТ!!"],
+          [
+            "Looks like the monster left...\nWhew...",
+            "Кажется, монстр ушел...\nФух..."
+          ],
+          [
+            "At least the monster left...\nWhew...",
+            "По крайней мере, монстр ушёл...\nФух..."
+          ],
           ["anime_aki01", ""],
-          ["Yuuuck! I'm covered in blood!\nGosh, why's that?!", ""],
-          ["This... IS a costume, right?", ""],
-          ["Yoshino!!", ""],
+          [
+            "Yuuuck! I'm covered in blood!\nGosh, why's that?!",
+            "Фууууу! Я вся в крови!\nЧерт возьми, почему?!"
+          ],
+          ["This... IS a costume, right?", "Это... ЭТО костюм, правда?"],
+          ["Yoshino!!", "Йошино!!"],
           ["chara_aki_capsule", ""],
-          ["...Ooops!\nTotally forgot about saving Yoshino!\nTeehee!", ""],
-          ["Oh, no...\nHow could this happen...?", ""],
-          ["...I'm sorry I couldn't save you...", ""],
-          ["Augh!\nWhy am I covered in blood?!", ""],
-          ["This... IS a costume, isn't it?", ""],
+          [
+            "...Ooops!\nTotally forgot about saving Yoshino!\nTeehee!",
+            "...Ууупс!\nЯ совершенно забыла о спасении Йошино!\nХихи!"
+          ],
+          [
+            "Oh, no...\nHow could this happen...?",
+            "О нет...\nКак это могло произойти..?"
+          ],
+          [
+            "...I'm sorry I couldn't save you...",
+            "...Прости, я не смог тебя спасти..."
+          ],
+          [
+            "Augh!\nWhy am I covered in blood?!",
+            "Ай!\nПочему я весь в крови?!"
+          ],
+          ["This... IS a costume, isn't it?", "Это... ЭТО костюм, не так ли?"],
           ["イベントスキップ処理", ""],
           ["並列", ""],
           ["anime_capsule", ""],
@@ -45726,40 +45972,55 @@
           ["顔グラフィック", ""],
           [
             "@1\nHey, did you know?\nThere's a beauty contest here\nevery year at the culture festival!",
-            ""
+            "@1\nЭй, ты знала?\nЗдесь каждый год проводиться\nконкурс красоты на культурном фестивале!"
           ],
-          ["Hmm, I wonder if I should enter?", ""],
+          [
+            "Hmm, I wonder if I should enter?",
+            "Хм-м-м, интересно, должна ли я пойти на него?"
+          ],
           ["キャラモーション", ""],
           ["anime_chara05", ""],
-          ["No way, no how!", ""],
+          ["No way, no how!", "Ни за что!"],
           ["CharaChip/mob_002.png", ""],
           ["Boy", ""],
-          ["Wouldn't you sweep the competition easy, Saotome?", ""],
-          ["Huh? Me?", ""],
-          ["Yeah, it would be cake for Otome!", ""],
+          [
+            "Wouldn't you sweep the competition easy, Saotome?",
+            "Разве ты не смогла бы с лёгкостью обойти конкурентов, Саотоме?"
+          ],
+          ["Huh? Me?", "А? Я?"],
+          [
+            "Yeah, it would be cake for Otome!",
+            "Да, это было бы здорово для Отоме!"
+          ],
           ["anime_chara04", ""],
-          ["Not at all!\nI've got no confidence...", ""],
+          [
+            "Not at all!\nI've got no confidence...",
+            "Ни за что!\nЯ не уверенна..."
+          ],
           [
             "Oh, don't be shy!\nYou've got to know you're cute, Otome, really now!",
-            ""
+            "Ох, не стесняйся!\nТы должна знать, что ты очень милая, Отоме, правда!"
           ],
           ["x", ""],
-          ["I'm not, really...", ""],
-          ["I think Misao's probably cuter...", ""],
-          ["...Huh?", ""],
-          ["M-Misao?! THAT Misao?!", ""],
+          ["I'm not, really...", "Я так не думаю..."],
+          ["I think Misao's probably cuter...", "Я думаю, Мисао куда милее..."],
+          ["...Huh?", "...А?"],
+          ["M-Misao?! THAT Misao?!", "М-Мисао?! ЭТА Мисао?!"],
           ["CharaChip/mob_003.png", ""],
-          ["Whoa, out of left field!", ""],
+          ["Whoa, out of left field!", "Воа, с левого фланга!"],
           [
             "And I'm sure Misao could be waaay cuter\nthan she is now if she used makeup!",
-            ""
+            "И я уверена, Мисао будет кудааа милее,\nесли она будет использовать косметику!"
           ],
-          ["Don't you think so too?", ""],
-          ["Hmm, makeup, huh?", ""],
-          ["But you're way cuter now, Saotome!", ""],
-          ["I said that's not truuue!", ""],
-          ["Who thinks Saotome would win!\nRaise your hands high!", ""],
-          ["Huh?!\nYou've gotta be kidding!", ""],
+          ["Don't you think so too?", "А вы так не думаете?"],
+          ["Hmm, makeup, huh?", "Хммм, косметика, да?"],
+          ["But you're way cuter now, Saotome!", "Но ты куда милее, Саотоме!"],
+          ["I said that's not truuue!", "Я сказала, это не прааавда!"],
+          [
+            "Who thinks Saotome would win!\nRaise your hands high!",
+            "Кто думает что Саотоме победит!\nПоднимите ваши руки вверх!"
+          ],
+          ["Huh?!\nYou've gotta be kidding!", "Ха?!\nВы должно быть шутите!"],
           ["右の女子", ""],
           ["生徒", ""],
           ["CharaChip/chara_isu.png", ""],
@@ -46349,57 +46610,84 @@
           ["キャラモーション", ""],
           ["anime_aki03", ""],
           ["anime_aki05", ""],
-          ["Saotome! Stay with me!", ""],
-          ["Saotome! Stay calm!", ""],
+          ["Saotome! Stay with me!", "Саотоме! Держись!"],
+          ["Saotome! Stay calm!", "Саотоме! Держи себя в руках!"],
           ["anime_chara05", ""],
-          ["Nooooo!\nOpen your eyes, Tohmaaa!", ""],
-          ["You need to get a grip, Saotome!", ""],
-          ["What do you see in Tohma?\nHe's all appearance!", ""],
+          [
+            "Nooooo!\nOpen your eyes, Tohmaaa!",
+            "Нееееет!\nОткрой свои глаза, Томааа!"
+          ],
+          [
+            "You need to get a grip, Saotome!",
+            "Тебе нужно взять себя в руки, Саотоме!"
+          ],
+          [
+            "What do you see in Tohma?\nHe's all appearance!",
+            "И что ты только нашла в Томе?\nЭто только его образ!"
+          ],
           [
             "It's you who needs to get a grip, Saotome!\nThis is an illusion!",
-            ""
+            "Ты должна взять себя в руки, Саотоме!\nЭто иллюзия!"
           ],
-          ["Illusion...?", ""],
-          ["Then why isn't it going away?!\nWhy am I hallucinating this?!", ""],
-          ["Misao, I love you...", ""],
-          ["I love you too, Tohma!", ""],
-          ["NoooooOOOOO!!", ""],
-          ["Saotome...", ""],
-          ["Saotome, don't let Tohma lead you astray any more.", ""],
-          ["Tohma abandoned you, remember!", ""],
+          ["Illusion...?", "Иллюзия...?"],
+          [
+            "Then why isn't it going away?!\nWhy am I hallucinating this?!",
+            "Тогда почему она не исчезает?!\nПочему я вижу это?!"
+          ],
+          ["Misao, I love you...", "Мисао, я люблю тебя..."],
+          ["I love you too, Tohma!", "Я люблю тебя тоже, Тома!"],
+          ["NoooooOOOOO!!", "НеееееЕЕЕЕЕТ!!"],
+          ["Saotome...", "Саотоме..."],
+          [
+            "Saotome, don't let Tohma lead you astray any more.",
+            "Саотоме, не дай Томе сбить тебя с пути."
+          ],
+          ["Tohma abandoned you, remember!", "Вспомни, Тома бросил тебя!"],
           [
             "You're wrong!\nTohma's cool and kind and he always protects me!",
-            ""
+            "Ты ошибаешься!\nТома классный и добрый, он всегда защитит меня!"
           ],
           [
             "Think back to when you were attacked\nin the computer room! Tohma deserted you!",
-            ""
+            "Вспомни, когда на вас напали в компьютерной комнате!\nТома бросил тебя!"
           ],
           [
             "Just remember when you were attacked in the computer room!\nTohma ditched you!",
-            ""
+            "Просто вспомни, когда на вас напали в компьютерной комнате!\nТома бросил тебя!"
           ],
-          ["Tohma wouldn't just desert me!!", ""],
-          ["Tohma... He...", ""],
+          [
+            "Tohma wouldn't just desert me!!",
+            "Тома не мог просто оставить меня!!"
+          ],
+          ["Tohma... He...", "Тома... Он..."],
           ["<SQUARE>", ""],
-          ["@2\nYAAAHHH!!\nS-Stay awaaay!", ""],
-          ["O-Otome!!", ""],
-          ["Tohma!! HEEELP!!!", ""],
-          ["A-Ahh... gh...", ""],
-          ["WAAAAAUUUUUGH!!!", ""],
-          ["Tohma!!", ""],
-          ["@1\nA-Aaaaahhh...", ""],
-          ["Tohma... left me to die...", ""],
+          ["@2\nYAAAHHH!!\nS-Stay awaaay!", "@2\nААААААА!!\nН-Не подходиии!"],
+          ["O-Otome!!", "О-Отоме!!"],
+          ["Tohma!! HEEELP!!!", "Тома!! ПОМОГИИИ!!!"],
+          ["A-Ahh... gh...", "А-Ахх... гх..."],
+          ["WAAAAAUUUUUGH!!!", "АААААААААААГХ!!!"],
+          ["Tohma!!", "Тома!"],
+          ["@1\nA-Aaaaahhh...", "@1\nА-Аааааххх..."],
+          ["Tohma... left me to die...", "Тома... оставил меня умирать..."],
           ["CharaChip/chara_etc3.png", ""],
-          ["...\\s[1]...\n...Can I have that bat?", ""],
-          ["...Hey, \\s[1]...\n...Can I have that bat?", ""],
+          [
+            "...\\s[1]...\n...Can I have that bat?",
+            "...\\s[1]...\n...Я возьму биту?"
+          ],
+          [
+            "...Hey, \\s[1]...\n...Can I have that bat?",
+            "...Эй, \\s[1]...\n...Я возьму биту?"
+          ],
           ["感情表現アイコン", ""],
           ["アイテム入手", ""],
           ["x", ""],
-          ["I don't need you, Tohma!", ""],
-          ["I HATE you!", ""],
-          ["Tohma... Tohma, you can just...", ""],
-          ["GET OUT OF MY LIFE!!!", ""],
+          ["I don't need you, Tohma!", "Ты мне больше не нужен, Тома!"],
+          ["I HATE you!", "Я НЕНАВИЖУ тебя!"],
+          [
+            "Tohma... Tohma, you can just...",
+            "Тома... Тома, ты можешь просто.."
+          ],
+          ["GET OUT OF MY LIFE!!!", "ИСЧЕЗНУТЬ ИЗ МОЕЙ ЖИЗНИ!!!"],
           ["SE/match_hit.ogg", ""],
           ["ショートカット", ""],
           ["SE/match_sonic.ogg", ""],
@@ -46408,53 +46696,68 @@
           ["CharaChip/chara_misao.png", ""],
           ["anime_chara04", ""],
           ["3", ""],
-          ["@1\nOpen wide, Tohma! Aaah!", ""],
-          ["Aaah... Mmm!\nTasty!", ""],
+          ["@1\nOpen wide, Tohma! Aaah!", "@1\nОткрой шире, Тома! Ааа!"],
+          ["Aaah... Mmm!\nTasty!", "Ааах... Ммм!\nВкусно!"],
           [
             "You make the best lunches, Otome!\nYou'd make a great wife.\nMine, obviously!",
-            ""
+            "Ты делаешь лучшие обеды, Отоме!\nТы бы стала отличной женой.\nМоей, конечно!"
           ],
-          ["Awww, Tohma!", ""],
-          ["I won't give you Tohma, Saotome.\nTohma is all mine.", ""],
+          ["Awww, Tohma!", "Аххх, Тома!"],
+          [
+            "I won't give you Tohma, Saotome.\nTohma is all mine.",
+            "Я не отдам тебе Тому, Саотоме.\nТома только мой."
+          ],
           ["足音ループ", ""],
-          ["Tohma...", ""],
-          ["Misao!", ""],
-          ["W-What...?", ""],
-          ["My Tohma...", ""],
+          ["Tohma...", "Тома..."],
+          ["Misao!", "Мисао!"],
+          ["W-What...?", "Ч-Что...?"],
+          ["My Tohma...", "Мой Тома..."],
           ["SE/onjin_step_kusa.ogg", ""],
-          ["...Uh, Tohma let's go now.", ""],
+          ["...Uh, Tohma let's go now.", "...Ух, Тома, пошли."],
           ["...", ""],
-          ["Tohma?", ""],
+          ["Tohma?", "Тома?"],
           ["CharaChip/chara_run3.png", ""],
           ["CharaChip/chara_etc2.png", ""],
-          ["Misao's the only one for me!", ""],
-          ["T-Tohma?\nYou're kidding, right?", ""],
-          ["You told me this Misao thing was just a game!", ""],
-          ["My bad, Otome... I lied.\nI love Misao.", ""],
-          ["I'm so glad, Tohma...", ""],
-          ["That can't be right!\nTohmaaa!", ""],
+          ["Misao's the only one for me!", "Мисао, ты единственная для меня!"],
+          ["T-Tohma?\nYou're kidding, right?", "Т-Тома?\nТы же шутишь, да?"],
+          [
+            "You told me this Misao thing was just a game!",
+            "Ты же сказал мне, что эта Мисао была просто игрой!"
+          ],
+          [
+            "My bad, Otome... I lied.\nI love Misao.",
+            "Моя ошибка, Отоме... Я солгал.\nЯ люблю Мисао."
+          ],
+          ["I'm so glad, Tohma...", "Я так рада, Тома..."],
+          [
+            "That can't be right!\nTohmaaa!",
+            "Это не может быть правдой!\nТомааа!"
+          ],
           [
             "You don't get it, do you?\nTohma likes me.\nYou're the one who's just for fun.",
-            ""
+            "Ты не понимаешь, не так ли?\nТома любит меня.\nТы просто для повеселиться."
           ],
-          ["Misao... You're the one for me...", ""],
-          ["And you're my Tohma...", ""],
-          ["I love you...", ""],
-          ["NOOOOOOOOOO!", ""],
-          ["Stop! NOOO!", ""],
-          ["Get your hands off Tohma!", ""],
-          ["Saotome!", ""],
-          ["@1\nThey're having a passionate kiss.", ""],
+          ["Misao... You're the one for me...", "Мисао... Ты одна для меня..."],
+          ["And you're my Tohma...", "И ты для меня, Тома..."],
+          ["I love you...", "Я люблю тебя..."],
+          ["NOOOOOOOOOO!", "НЕЕЕЕЕЕЕЕЕЕТ!"],
+          ["Stop! NOOO!", "Стойте! НЕЕЕТ!"],
+          ["Get your hands off Tohma!", "Убери свои руки от Томы!"],
+          ["Saotome!", "Саотоме!"],
+          [
+            "@1\nThey're having a passionate kiss.",
+            "@1\nУ них страстный поцелуй."
+          ],
           ["足音", ""],
           ["図書室", ""],
           ["CharaChip/chara_tosyo.png", ""],
           [
             "@1\nTh-thump, th-thump...\nIt's like something out of a soap opera!",
-            ""
+            "@1\nТ-тук, т-тук...\nЭто как что-то из мыльной оперы!"
           ],
           [
             "Ack! \\s[1]!\nDon't mind me!\nI was just, erm, people-watching!",
-            ""
+            "Ай! \\s[1]!\nНе обращай внимания!\nЯ просто, эм, наблюдаю!"
           ],
           ["[並列]光影", ""],
           ["マップ光影", ""],
@@ -46909,104 +47212,164 @@
           ["chara_aki_f_taiki2", ""],
           ["chara_aki_m_taiki", ""],
           ["顔グラフィック", ""],
-          ["...Where is this?", ""],
+          ["...Where is this?", "...Где это?"],
           ["x", ""],
           ["CharaChip/chara_misao.png", ""],
           ["操", ""],
           ["<LIGHT>工藤", ""],
           ["CharaChip/chara_kudou_dc.png", ""],
           ["chara_kudou_dc", ""],
-          ["@1\nStop it already!!", ""],
-          ["DIE", ""],
-          ["THE LIKES OF YOU SHOULD DIE", ""],
-          ["SPINELESS", ""],
-          ["DIE DIE DIE", ""],
-          ["Forgive me... Misaooo...!", ""],
-          ["DIE IN A FIRE", ""],
-          ["BURN IN HELL", ""],
-          ["Stop... STOOOOOP!", ""],
-          ["Die.", ""],
-          ["I HATE YOU", ""],
-          ["DIE A VIRGIN", ""],
+          ["@1\nStop it already!!", "@1\nПрекрати!!"],
+          ["DIE", "УМРИ"],
+          ["THE LIKES OF YOU SHOULD DIE", "ТАКИЕ КАК ТЫ ДОЛЖНЫ УМЕРЕТЬ"],
+          ["SPINELESS", "БЕСХРЕБЕТНЫЙ"],
+          ["DIE DIE DIE", "УМРИ УМРИ УМРИ"],
+          ["Forgive me... Misaooo...!", "Прости меня... Мисаооо..!"],
+          ["DIE IN A FIRE", "УМРИ В ОГНЕ"],
+          ["BURN IN HELL", "СГОРИ В АДУ"],
+          ["Stop... STOOOOOP!", "Хватит... ХВАТИИИИИТ!"],
+          ["Die.", "Умри."],
+          ["I HATE YOU", "НЕНАВИЖУ ТЕБЯ!"],
+          ["DIE A VIRGIN", "УМРИ ДЕВСТВЕННИКОМ"],
           ["22", ""],
           ["徒歩移動", ""],
           ["anime_aki03", ""],
           ["anime_aki05", ""],
-          ["@1\nKudoh, wake up!", ""],
-          ["@1\nKudoh! Stay with me!", ""],
-          ["KUDOH IS USELESS", ""],
-          ["Misao! Please, stop!", ""],
-          ["Misao! Stop it!", ""],
-          ["I'm sorry... So sorry...", ""],
-          ["Kudoh, please!\nCome back with me!", ""],
-          ["Kudoh, come on!\nCome back with me!", ""],
-          ["Forgive... meee... augh...", ""],
-          ["There's no point moping about it forever!", ""],
-          ["There's no point grieving forever!", ""],
-          ["If only I had saved Misao sooner...", ""],
-          ["It's my fault! All my faaaaault!", ""],
-          ["No!\nIt's not your fault!", ""],
-          ["But it is!!", ""],
+          ["@1\nKudoh, wake up!", "@1\nКудо, вставай!"],
+          ["@1\nKudoh! Stay with me!", "@1\nКудо! Держись!"],
+          ["KUDOH IS USELESS", "КУДО БЕСПОЛЕЗЕН"],
+          ["Misao! Please, stop!", "Мисао! Пожалуйста, остановись!"],
+          ["Misao! Stop it!", "Мисао! Прекрати это!"],
+          ["I'm sorry... So sorry...", "Мне жаль... Мне так жаль..."],
+          [
+            "Kudoh, please!\nCome back with me!",
+            "Кудо, пожалуйста!\nВернись назад со мной!"
+          ],
+          [
+            "Kudoh, come on!\nCome back with me!",
+            "Кудо, ну же!\nВернись назад со мной!"
+          ],
+          ["Forgive... meee... augh...", "Прости... меняяя... угх..."],
+          [
+            "There's no point moping about it forever!",
+            "Нет смысла хандрить об этом вечно!"
+          ],
+          [
+            "There's no point grieving forever!",
+            "Нет смысла скорбить об этом вечно!"
+          ],
+          [
+            "If only I had saved Misao sooner...",
+            "Если бы я только спас Мисао раньше..."
+          ],
+          [
+            "It's my fault! All my faaaaault!",
+            "Это моя вина! Вся моя винааааа!"
+          ],
+          ["No!\nIt's not your fault!", "Нет!\nЭто не твоя вина!"],
+          ["But it is!!", "Но ведь!!"],
           [
             "Misao loathed me...\nThis is utmost proof of that...\nIt's all me to blame...",
-            ""
+            "Мисао ненавидела меня...\nЭто лучшее доказательство этого...\nЭто всё я виноват..."
           ],
-          ["Kudoh...", ""],
-          ["...No.\nThese girls aren't Misao.", ""],
-          ["They're just illusions\nborn from the darkness of your heart!", ""],
+          ["Kudoh...", "Кудо..."],
+          [
+            "...No.\nThese girls aren't Misao.",
+            "...Нет.\nЭти девушки не Мисао."
+          ],
+          [
+            "They're just illusions\nborn from the darkness of your heart!",
+            "Они просто иллюзии,\nрождённые из тьмы твоего сердца!"
+          ],
           [
             "No.\nThese Misaos are just illusions\nborn from the darkness of your heart.",
-            ""
+            "Нет.\nЭти Мисао - иллюзии,\nрождённые из тьмы твоего сердца."
           ],
-          ["Ha... haha... What nonsense...\nWhat do you base that on...?", ""],
+          [
+            "Ha... haha... What nonsense...\nWhat do you base that on...?",
+            "Ха... хаха... Что за чуть...\nС чего такое мнение...?"
+          ],
           [
             "Because Misao's so nice!\nShe wouldn't say these things!\nDon't you know that yourself?",
-            ""
+            "Потому что Мисао такая хорошая!\nОна бы не сказала такие вещи!\nРазве ты сам этого не знаешь?"
           ],
-          ["Because I know it too.\nThat Misao is a kind girl.", ""],
+          [
+            "Because I know it too.\nThat Misao is a kind girl.",
+            "Потому что я это знаю.\nТа Мисао - добрая девушка."
+          ],
           [
             "Don't you know full well that\nshe would never say such cruel things?",
-            ""
+            "Разве ты не знаешь, что\nона никогда не скажет такие жестокие вещи?"
           ],
-          ["In fact, you should know better than anyone.", ""],
+          [
+            "In fact, you should know better than anyone.",
+            "На самом деле, ты должен знать это лучше, чем кто-либо."
+          ],
           ["感情表現アイコン", ""],
-          ["Yes... The Misao I know would...", ""],
-          ["Misao...", ""],
-          ["Misao!!", ""],
-          ["Ku... doh...", ""],
-          ["Mi... sao...?", ""],
+          [
+            "Yes... The Misao I know would...",
+            "Да... Мисао, котору я знаю была бы..."
+          ],
+          ["Misao...", "Мисао..."],
+          ["Misao!!", "Мисао!!"],
+          ["Ku... doh...", "Ку... до..."],
+          ["Mi... sao...?", "Ми... сао...?"],
           ["SE/match_bell.ogg", ""],
           ["CharaChip/chara_kudou.png", ""],
-          ["Is that you... Misao?", ""],
+          ["Is that you... Misao?", "Это ты... Мисао?"],
           ["anime_chara04", ""],
           [
             "I'm a little too embarrassed\nto call you by your first name...\nI just haven't done it in so long.",
-            ""
+            "Я немного смущена,\nчтобы использовать твоё имя...\nПросто, я не делала этого так давно."
           ],
-          ["I'm sorry, Kudoh...", ""],
-          ["N-No!\nI should be apologizing!\nIt's my fault you...", ""],
-          ["It's fine.\nI don't hate you.", ""],
-          ["Why...?\nI mean, didn't I abandon you...?", ""],
+          ["I'm sorry, Kudoh...", "Прости, Кудо..."],
+          [
+            "N-No!\nI should be apologizing!\nIt's my fault you...",
+            "Н-нет!\nЭто я должен извиняться!\nЭто моя вина, что ты..."
+          ],
+          [
+            "It's fine.\nI don't hate you.",
+            "Всё в порядке.\nЯ не ненавижу тебя."
+          ],
+          [
+            "Why...?\nI mean, didn't I abandon you...?",
+            "Почему...?\nЯ имею в виду, я бросил тебя..?"
+          ],
           [
             "...Yes, it was very lonely.\nI suffered like I was going to die...",
-            ""
+            "...Да, было очень одиноко.\nЯ страдала так, как будто прямо сейчас умру..."
           ],
-          ["But I knew how you felt, Kudoh.", ""],
+          [
+            "But I knew how you felt, Kudoh.",
+            "Но я знала, что ты чувствуешь, Кудо."
+          ],
           [
             "You just lacked courage.\nI knew that really, you were always thinking of me.",
-            ""
+            "Тебе просто не хватило смелости.\nЯ знала, что ты всегда думал обо мне."
           ],
-          ["And that made me happy regardless.", ""],
-          ["Thank you for thinking of me.\nI love you too, Kudoh.", ""],
+          [
+            "And that made me happy regardless.",
+            "И это делало меня счастливой."
+          ],
+          [
+            "Thank you for thinking of me.\nI love you too, Kudoh.",
+            "Спасибо, что думал обо мне.\nЯ тоже тебя люблю, Кудо."
+          ],
           ["CharaChip/chara_run.png", ""],
-          ["MISAOOOOOOOOOO!!", ""],
+          ["MISAOOOOOOOOOO!!", "МИСАОООООООООО!!"],
           ["<SQUARE>", ""],
           [
             "Was that Misao who appeared\nin front of Kudoh the real one...?",
-            ""
+            "Это была та Мисао, которая появилась\nперед реальным Кудо..?"
           ],
-          ["I wonder if she was just an illusion of Kudoh's too...", ""],
-          ["That last Misao wasn't just an illusion too, was she...?", ""],
+          [
+            "I wonder if she was just an illusion of Kudoh's too...",
+            "Интересно, была ли она тоже иллюзией Кудо..."
+          ],
+          [
+            "That last Misao wasn't just an illusion too, was she...?",
+            "Эта Мисао не была иллюзией, не так ли..?"
+          ],
           ["SE/match_sonic.ogg", ""],
           ["ショートカット", ""],
           ["並列 首振る", ""],
@@ -47473,22 +47836,28 @@
           ["Fog_BackGround/fog_dark4.png", ""],
           ["倉田と高野の思い出1", ""],
           ["CharaChip/chara_kurata_kako_etc.png", ""],
-          ["@1\nNo one ever accepts me...\nThat's what I thought...", ""],
-          ["But she was different...", ""],
+          [
+            "@1\nNo one ever accepts me...\nThat's what I thought...",
+            "@1\nНикто не принимает меня...\nТак я и думал всё это время..."
+          ],
+          ["But she was different...", "Но она была другой..."],
           ["倉田と高野の思い出2", ""],
           ["CharaChip/chara_kurata_kako.png", ""],
           ["徒歩移動", ""],
           ["キャラ方向変更", ""],
           [
             "@1\nWe met there every day afterward.\nWe didn't talk to each other...\nWe just spent the time together.",
-            ""
+            "@1\nМы встречались там каждый день после занятий.\nМы не разговаривали друг с другом...\nМы просто проводили время вместе."
           ],
           [
             "Conversation wasn't necessary.\nMy heart was at ease with her there...",
-            ""
+            "Разговор не был необходим.\nМоё сердце было спокойно рядом с ней..."
           ],
-          ["We were happy...", ""],
-          ["@1\nYou think I'm disgusting too, don't you?", ""],
+          ["We were happy...", "Мы были счастливы..."],
+          [
+            "@1\nYou think I'm disgusting too, don't you?",
+            "@1\nТы думаешь, я противный, не так ли?"
+          ],
           ["SE/lab_door_open.ogg", ""]
         ],
         "context": [
