@@ -23011,7 +23011,7 @@
           ],
           [
             "\\c[2]Li'l Miscreant\\c[0] is a small demon in the otherworldly school.\r\nYou can't see him with the naked eye;\r\nuse the \\c[2]Crimson Eyes\\c[0] to find him.\r\n\r\nSearch your surroundings, referring to the hints on the report card's\r\nAvatar Select screen and using the \\c[2]Crimson Eyes\\c[0].",
-            "\\c[2]Маленький Проказник\\c[0] — это небольшой демон в школе из иного мира.\r\nВы не увидите его невооружённым глазом;\r\nиспользуйте \\c[2]Багровые глаза\\c[0], чтобы найти его.\r\n\r\nИсследуйте окружение, опираясь на подсказки на экране выбора аватара\r\nи используя \\c[2]Багровые глаза\\c[0]."
+            "\\c[2]Маленький Проказник\\c[0] — это небольшой демон в школе из другого мира.\r\nВы не увидите его невооружённым глазом;\r\nиспользуйте \\c[2]Багровые глаза\\c[0], чтобы найти его.\r\n\r\nИсследуйте окружение, опираясь на подсказки на экране выбора аватара\r\nи используя \\c[2]Багровые глаза\\c[0]."
           ]
         ],
         "context": [
@@ -53026,11 +53026,23 @@
             "And when Tohma got impatient and started\ndating Misao, Saotome was tripping over herself\nto take Tohma back from her!",
             "И когда Тома потерял терпение и начал\nвстречаться с Мисао, Саотоме из кожи вон лезла,\nчтобы вернуть тому обратно себе!"
           ],
-          ["Y-You sure know about this stuff...", "Т-Ты уверен, что знаешь об этом наверняка..."],
-          ["Y-You sure are knowledgeable.", "Т-Ты, конечно, хорошо осведомлён."],
+          [
+            "Y-You sure know about this stuff...",
+            "Т-Ты уверен, что знаешь об этом наверняка..."
+          ],
+          [
+            "Y-You sure are knowledgeable.",
+            "Т-Ты, конечно, хорошо осведомлён."
+          ],
           ["I read it in a book!", "Я прочёл это в книге!"],
-          ["(What sorta books do you read...?!)", "(Какие книги ты читаешь...?!)"],
-          ["(What kind of books do you read...?!)", "(Какого типа книги ты читаешь...?!)"],
+          [
+            "(What sorta books do you read...?!)",
+            "(Какие книги ты читаешь...?!)"
+          ],
+          [
+            "(What kind of books do you read...?!)",
+            "(Какого типа книги ты читаешь...?!)"
+          ],
           [
             "But I don't have the faintest idea\nwhat either of them see in Tohma!\nHe teased me when I was nursing him!",
             "Но у меня нет ни малейшей идеи,\nчто они обе нашли в Томе!\nОн дразнил меня, когда я ухаживала за ним!"
@@ -53048,9 +53060,18 @@
             "@1\nKudoh was pretty out of sorts, huh?\nI felt kind of bad for him.",
             "@1\nКудо был явно не в духе, да?\nМне было немного его жаль."
           ],
-          ["I never saw Kudoh like that at school.", "Я никогда не видел Кудо таким."],
-          ["It must've really hurt to be hated by Misao...", "Это, должно быть, действительно больно чувствовать ненависть Мисао..."],
-          ["Did Misao actually despise Kudoh?", "Действительно ли Мисао презирала Кудо?"],
+          [
+            "I never saw Kudoh like that at school.",
+            "Я никогда не видел Кудо таким."
+          ],
+          [
+            "It must've really hurt to be hated by Misao...",
+            "Это, должно быть, действительно больно чувствовать ненависть Мисао..."
+          ],
+          [
+            "Did Misao actually despise Kudoh?",
+            "Действительно ли Мисао презирала Кудо?"
+          ],
           [
             "Maybe Kudoh himself was the reason\nhe was pulled into the curse.",
             "Может быть, Кудо сам стал причиной того,\nчто его втянуло в это проклятье."
@@ -53059,14 +53080,26 @@
             "I doubt Misao felt good about him\ntrying to reconcile for his own selfish reasons\nafter he pushed her away.",
             "Сомневаюсь, что Мисао чувствовала себя хорошо\nот того, что он пытался помириться с ней из-за своих эгоистичных причин\nпосле того, как он оттолкнул её."
           ],
-          ["I'm sure he understood that, too.", "Я уверен, что он тоже всё понимал."],
-          ["I guess so... Even still,\nI think he wanted to help Misao.", "Я полагаю... И всё же,\nя думаю, он хотел помочь Мисао."],
+          [
+            "I'm sure he understood that, too.",
+            "Я уверен, что он тоже всё понимал."
+          ],
+          [
+            "I guess so... Even still,\nI think he wanted to help Misao.",
+            "Я полагаю... И всё же,\nя думаю, он хотел помочь Мисао."
+          ],
           [
             "I'm sure of it! So please, \\s[1],\nsave Misao so Kudoh's efforts won't be in vain!",
             "Я уверен в этом! Так что, пожалуйста, \\s[1],\nспаси Мисао, чтобы усилия Куды не пропали даром!"
           ],
-          ["@1\nSo, you freed Yoshino's spirit!", "@1\nЗначит, ты освободил дух Йошино!"],
-          ["@1\nYeah...\nBut I wonder if I've hurt Misao.", "@1\nДа...\nНо мне интересно, не навредил ли я Мисао.."],
+          [
+            "@1\nSo, you freed Yoshino's spirit!",
+            "@1\nЗначит, ты освободил дух Йошино!"
+          ],
+          [
+            "@1\nYeah...\nBut I wonder if I've hurt Misao.",
+            "@1\nДа...\nНо мне интересно, не навредил ли я Мисао.."
+          ],
           [
             "If I put myself in Misao's shoes,\nI couldn't see her forgiving Yoshino.",
             "Если бы я был на месте Мисао,\nне могу себе представить, как можно простить Йошину."
@@ -53081,7 +53114,10 @@
             "Ты не можешь позволить остановить тебя сейчас!\nМисао постепенно становится той, кем она не является...\nЕсли оставить её как есть, жертв будет больше!"
           ],
           ["Yeah...", "Да..."],
-          ["If only she'd been stopped sooner...", "Если бы только её остановили раньше."],
+          [
+            "If only she'd been stopped sooner...",
+            "Если бы только её остановили раньше."
+          ],
           [
             "If only I'd noticed the bullying,\nmaybe I could've stopped Yoshino...",
             "Если бы я заметил издевательства,\nвозможно, я бы остановил Йошину..."
@@ -54232,126 +54268,162 @@
           ["キャラモーション", ""],
           ["anime_aki01", ""],
           ["20", ""],
-          ["@1\nNngh...", ""],
-          ["Misao...", ""],
-          ["Ah, you've finally come to.", ""],
+          ["@1\nNngh...", "@1\nНнгх..."],
+          ["Misao...", "Мисао..."],
+          ["Ah, you've finally come to.", "Ах, вы наконец-то проснулись."],
           ["!!", ""],
           ["画面色調変更", ""],
-          ["Where am I...?", ""],
+          ["Where am I...?", "Где я..?"],
           ["x", ""],
           ["キャラ方向変更", ""],
           ["感情表現アイコン", ""],
-          ["And who are you...?", ""],
+          ["And who are you...?", "И кто ты..?"],
           [
             "I am Onigawara, the student council president.\nAnd this is the student council room.",
-            ""
+            "Я Онигавара, президент студенческого совета.\nА это - комната студенческого совета."
           ],
-          ["Luckily for you,\nyou were tossed somewhere safe.", ""],
-          ["Tossed...?", ""],
+          [
+            "Luckily for you,\nyou were tossed somewhere safe.",
+            "К счастью для вас,\nвы попали в безопасное место."
+          ],
+          ["Tossed...?", "Попали...?"],
           [
             "After the earthquake,\nthe school was sucked into another world.",
-            ""
+            "После землетрясения,\nшкола была втянута в другой мир."
           ],
           [
             "This force from this sent those inside\nflying all across the school.",
-            ""
+            "Эта сила, заставила всех, кто был внутри,\nразлететься по всей школе."
           ],
           [
             "Sucked into another world?!\nWhat's that supposed to mean?\nAnd why would that... happen...?",
-            ""
+            "Втянута в другой мир?!\nЧто это значит?\nИ почему это... случилось..?"
           ],
           ["SE/lab_shock.ogg", ""],
           ["BGM/onjin_suspense.ogg", ""],
-          ["Well. It's a curse.\\.\\.\\.\\.", ""],
+          [
+            "Well. It's a curse.\\.\\.\\.\\.",
+            "Вообщем. Это проклятье.\\.\\.\\.\\."
+          ],
           [
             "A girl's curse, which has sealed the entire\nschool campus in this other world.",
-            ""
+            "Проклятья девушки, которое запечатало весь\nкорпус школы в этом другим мире."
           ],
-          ["It couldn't be... Misao...?", ""],
-          ["President Onigawara!", ""],
+          ["It couldn't be... Misao...?", "Не может быть... Мисао..?"],
+          ["President Onigawara!", "Президент Онигавара!"],
           ["anime_chara01", ""],
-          ["*pant, pant*... Finally made it...\nI thought I was a goner!", ""],
-          ["So you finally return, Miss Library.", ""],
+          [
+            "*pant, pant*... Finally made it...\nI thought I was a goner!",
+            "*пыхтение*, *пыхтение*... Наконец-то сделала это...\nЯ думала, что сойду с ума!"
+          ],
+          [
+            "So you finally return, Miss Library.",
+            "Ты наконец-то вернулась, Мисс Библиотека."
+          ],
           [
             "She is the school's vice-president.\nAlways in the library, so that's what we call her.",
-            ""
+            "Она вице-президент школы.\nОна всегда находится в библиотеке, поэтому мы так её и называем."
           ],
-          ["So then, Miss Library, how does it look?", ""],
+          [
+            "So then, Miss Library, how does it look?",
+            "Итак, мисс Библиотека, как сейчас выглядит школа?"
+          ],
           [
             "Well, it looks messed up, and gunked up,\nand funked up every which way!",
-            ""
+            "Вообщем, она выглядит спутанной, испорченной\nи перевёрнутой с ног на голову!"
           ],
           [
             "The foundation and everything is wrecked,\nand I haven't been able to find any exits!\nWe're locked in!",
-            ""
+            "Фундамент и всё остальное разрушено,\nя не смогла найти никаких выходов!\nМы заперты!"
           ],
           ["chara_aki_etc2", ""],
           [
             "Plus, evil spirits are wandering around\nand attacking people!\nI saw a student killed before my eyes!",
-            ""
+            "Плюс, злые духи бродят вокруг\nи нападают на людей!\nЯ видела, как убили студента прямо на моих глазах!"
           ],
           [
             "I'll never be able to eat hamburgers again...\nOh, it was frightening...",
-            ""
+            "Я больше никогда не смогу есть гамбургеры...\nОх, это было очень страшно..."
           ],
           [
             "So I see.\nThank you for your report.\nYou may retire for now.",
-            ""
+            "Понятно.\nСпасибо за твой доклад.\nА сейчас ты можешь идти отдыхать."
           ],
           [
             "Yes, well, I'm going back to the library!\nCall me anytime you need me!",
-            ""
+            "Да, я возвращаюсь в библиотеку!\nПозовите меня, если я понадоблюсь!"
           ],
           ["chara_aki_f_taiki2", ""],
           ["chara_aki_m_taiki", ""],
-          ["Evil spirits...\nThe curse must have summoned them here.", ""],
+          [
+            "Evil spirits...\nThe curse must have summoned them here.",
+            "Злые духи...\nПроклятье должно быть вызвало их сюда."
+          ],
           [
             "The school is now a den of spirits...\nAnd there's nowhere to run.",
-            ""
+            "Школа теперь стала логовом духов...\nИ бежать отсюда некуда."
           ],
-          ["N-Not good...", ""],
+          ["N-Not good...", "Н-Не хорошо..."],
           [
             "There's only one solution...\nDispelling the girl's curse.\nThere's surely no other way.",
-            ""
+            "Есть только одно решение...\nРазвеять проклятье девушки.\nУ нас нет другого выбора."
           ],
-          ["...How am I supposed to dispel a curse?", ""],
+          [
+            "...How am I supposed to dispel a curse?",
+            "...Что мне нужно сделать, чтобы снять проклятье?"
+          ],
           [
             "By saving the girl's soul.\nMiss \\s[1]...\nyou surely know what it is you have to do.",
-            ""
+            "Спаси душу этой девушки.\nМисс \\s[1]... вы должны знать, что вам нужно делать."
           ],
-          ["I do...?", ""],
+          ["I do...?", "Я...?"],
           [
             "By saving the girl's soul.\nMr. \\s[1]...\nyou surely know what it is you have to do.",
-            ""
+            "Спаси душу этой девушки.\nМистер \\s[1]... вы должны знать, что вам нужно делать."
           ],
-          ["Do I...?", ""],
+          ["Do I...?", "Я...?"],
           ["ショートカット", ""],
           ["SE/match_bell.ogg", ""],
-          ["FIND ME...", ""],
-          ["Misao is calling me...\nI see, so she wants to be found...", ""],
-          ["Mr. Onigawara!\nI'll go look for Misao!", ""],
+          ["FIND ME...", "НАЙДИ МЕНЯ..."],
+          [
+            "Misao is calling me...\nI see, so she wants to be found...",
+            "Мисао зовет меня...\nПонятно, она хочет, чтобы её нашли..."
+          ],
+          [
+            "Mr. Onigawara!\nI'll go look for Misao!",
+            "Мистер Онигавара!\nЯ пойду искать Мисао!"
+          ],
           ["0", ""],
-          ["Misao's calling for me...\nHuh... So I need to find her...", ""],
+          [
+            "Misao's calling for me...\nHuh... So I need to find her...",
+            "Мисао зовет меня...\nХа... Так мне нужно найти её..."
+          ],
           [
             "...So you will? As Library informs me,\nthe school is brimming with evil spirits.\nDo you still wish to go?",
-            ""
+            "...Так вы всё-таки пойдёте? Как мне сообщила Библиотека,\nшкола кишит злыми духами.\nВы всё ещё хотите пойти?"
           ],
-          ["I will.\nBecause... Misao is my friend!", ""],
-          ["I will...\nBecause Misao is my friend!", ""],
+          [
+            "I will.\nBecause... Misao is my friend!",
+            "Пойду.\nПотому что... Мисао - мой друг!"
+          ],
+          [
+            "I will...\nBecause Misao is my friend!",
+            "Пойду.\nПотому что Мисао - мой друг!"
+          ],
           [
             "Understood.\nI will entrust you with the fate of the school.\nI believe you can save it.",
-            ""
+            "Понимаю.\nЯ доверю судьбу этой школы вам.\nЯ верю, что вы сможете спасти нас."
           ],
           [
             "If you encounter any trouble,\npay a visit to Library on the second floor.\nShe will no doubt be of aid.",
-            ""
+            "Если у вас возникнут проблемы,\nпосетите Библиотеку на втором этаже.\nОна, несомненно, будет полезна."
           ],
           [
             "And if you wish to make a record, please talk to me.\nI will do so for you anytime.",
-            ""
+            "И если вы захотите сделать запись, пожалуйста, поговорите со мной.\nЯ сделаю это для вас в любое время."
           ],
           ["異界マニュアル", ""],
-          ["I pray for your safety.", ""],
+          ["I pray for your safety.", "Я молюсь за вашу безопасность."],
           ["セーブポイント", ""],
           ["鬼瓦と会話", ""],
           ["【移動】廊下", ""],
@@ -54775,29 +54847,44 @@
           ["CharaChip/obj_door.png", ""],
           ["画面色調変更", ""],
           ["顔グラフィック", ""],
-          ["This is the student council room, right?", ""],
-          ["I really should tell Onigawara thanks.\nI wonder if he's in?", ""],
-          ["@1\nI think this is the student council room...", ""],
+          [
+            "This is the student council room, right?",
+            "Это комната студенческого совета, верно?"
+          ],
+          [
+            "I really should tell Onigawara thanks.\nI wonder if he's in?",
+            "Я действительно должен поблагодарить Онигавару.\nИнтересно, он внутри?"
+          ],
+          [
+            "@1\nI think this is the student council room...",
+            "@1\nI think this is the student council room..."
+          ],
           [
             "I should thank Onigawara for his help.\nI wonder if he's in...",
-            ""
+            "Мне нужно отблагодарить Онигавару.\nИнтересно, он сейчас внутри..."
           ],
           ["SE/lab_door_schl_open.ogg", ""],
-          ["Yah!!", ""],
-          ["Wah!!", ""],
-          ["Student", ""],
-          ["What are you standing around there for?", ""],
-          ["U-Um!\nIs Mr. Onigawara there?", ""],
+          ["Yah!!", "Ааа!!"],
+          ["Wah!!", "Ваа!!"],
+          ["Student", "Студент"],
+          ["What are you standing around there for?", "Чего ты там стоишь?"],
+          ["U-Um!\nIs Mr. Onigawara there?", "Э-Эм!\nМистер Онигавара там?"],
           ["キャラモーション", ""],
           ["anime_chara04", ""],
-          ["Onigawara who?", ""],
-          ["Onigawara the student council president?", ""],
+          ["Onigawara who?", "Онигавара кто?"],
+          [
+            "Onigawara the student council president?",
+            "Онигавара, президент студенческого совета?"
+          ],
           ["x", ""],
           [
             "What the hell are you going on about?\nI'm the student council president.",
-            ""
+            "О чём, черт возьми, ты говоришь?\nЯ президент студенческого совета."
           ],
-          ["There's no \"Onigawara\" in the student council...", ""],
+          [
+            "There's no \"Onigawara\" in the student council...",
+            "В студенческом совете нет \"Онигавары\"..."
+          ],
           ["[並列]マップ効果", ""],
           ["マップ光影", ""],
           ["map_studentcouncilroom_mae", ""],
@@ -55036,7 +55123,10 @@
           ["CharaChip/obj_door_wc.png", ""],
           ["イベント当たり判定", ""],
           ["顔グラフィック", ""],
-          ["@1\nYou sense someone, but there's no reply.", ""],
+          [
+            "@1\nYou sense someone, but there's no reply.",
+            "@1\nТы чувствуешь там кого-то, но ответа нет."
+          ],
           ["仕草", ""],
           ["少女の声", ""],
           ["SE/bitachi_voice_hanako.ogg", ""],
@@ -55047,7 +55137,10 @@
           ["anime_aki02", ""],
           ["Picture/still_hanako1.png", ""],
           ["Hanako", ""],
-          ["@1\nLeeet's plaaay...\\.\\.\\.\\.\\.\\.\\.\\.\\^", ""],
+          [
+            "@1\nLeeet's plaaay...\\.\\.\\.\\.\\.\\.\\.\\.\\^",
+            "@1\nДавааай играаать...\\.\\.\\.\\.\\.\\.\\.\\.\\^"
+          ],
           ["SE/bitachi_voice_hanako2.ogg", ""],
           ["Picture/still_hanako3.png", ""],
           ["<SQUARE>", ""],
@@ -55057,7 +55150,7 @@
           ["ゲームオーバー", ""],
           ["感情表現アイコン", ""],
           ["Picture/still_hanako2.png", ""],
-          ["@1\nY-You smell awful!", ""],
+          ["@1\nY-You smell awful!", "@1\nТ-Ты ужасно пахнешь!"],
           ["x", ""],
           ["3", ""],
           ["実績：撃退", ""],
@@ -55065,22 +55158,28 @@
           ["SE/lab_nigeru.ogg", ""],
           ["<LIGHT>便器", ""],
           ["トイレのにおい", ""],
-          ["@1\nThere's a coin in the toilet.", ""],
-          ["@50\n\\s[1]\n Here we go!\n I can stop Misao with these!", ""],
-          ["@16\n\\s[1]\n Why are these here...", ""],
+          ["@1\nThere's a coin in the toilet.", "@1\nВ туалете лежит монета."],
+          [
+            "@50\n\\s[1]\n Here we go!\n I can stop Misao with these!",
+            "@50\n\\s[1]\n Вот так вот!\n С этим я смогу остановить Мисао!"
+          ],
+          [
+            "@16\n\\s[1]\n Why are these here...",
+            "@16\n\\s[1]\n Почему они здесь..."
+          ],
           ["アイテム入手", ""],
           ["花子接触", ""],
           ["0", ""],
           ["<LIGHT>小銭", ""],
           ["CharaChip/eff_point.png", ""],
-          ["@1\nG-r-o-s-sss!", ""],
-          ["@1\nBoy, that stinks...", ""],
+          ["@1\nG-r-o-s-sss!", "@1\nОт-вра-ти-тель-нооо!"],
+          ["@1\nBoy, that stinks...", "@1\nВот черт, как же воняет..."],
           ["SE/onjin_mizu_picha.ogg", ""],
           ["ドア開く", ""],
           ["SE/onjin_door_kisimi.ogg", ""],
-          ["\\E\\f[25]Leeet's", ""],
-          ["\\E\\f[25]Leeet's plaaay", ""],
-          ["\\E\\f[25]Leeet's plaaay...", ""],
+          ["\\E\\f[25]Leeet's", "\\E\\f[25]Давааай"],
+          ["\\E\\f[25]Leeet's plaaay", "\\E\\f[25]Давааай играаать"],
+          ["\\E\\f[25]Leeet's plaaay...", "\\E\\f[25]Давааай играаать..."],
           ["<LIGHT>トイレドア", ""],
           ["並列", ""],
           ["鏡の花子", ""],
@@ -55358,14 +55457,20 @@
           ["CharaChip/chara_tentou.png", ""],
           ["感情表現アイコン", ""],
           ["顔グラフィック", ""],
-          ["@1\nTohma!", ""],
+          ["@1\nTohma!", "@1\nТома!"],
           ["キャラモーション", ""],
           ["anime_aki02", ""],
-          ["@1\nTohma! Stay with me!", ""],
-          ["@1\nTohma! Get a hold of yourself!", ""],
-          ["Ack... oh... urk...", ""],
-          ["Good... He's still breathing...\nI have to get him treated!", ""],
-          ["Good... Still breathing.\nI have to get him treated!", ""],
+          ["@1\nTohma! Stay with me!", "@1\nТома! Не умирай!"],
+          ["@1\nTohma! Get a hold of yourself!", "@1\nТома! Приди в себя!"],
+          ["Ack... oh... urk...", "Ак... ох... угх..."],
+          [
+            "Good... He's still breathing...\nI have to get him treated!",
+            "Отлично... Он ещё дышит.\nЯ должен вылечить его!"
+          ],
+          [
+            "Good... Still breathing.\nI have to get him treated!",
+            "Отлично... Ещё дышит...\nЯ должна вылечить его!"
+          ],
           ["画面色調変更", ""],
           ["x", ""],
           ["ショートカット", ""],
@@ -55374,177 +55479,267 @@
           ["anime_chara03", ""],
           ["16", ""],
           ["☆<LIGHT>吉野", ""],
-          ["@1\nForgive me! Forgive me, Misao!\nNOOOOOOOOOO!!", ""],
+          [
+            "@1\nForgive me! Forgive me, Misao!\nNOOOOOOOOOO!!",
+            "@1\nПрости меня! Прости меня, Мисао!\nНЕЕЕЕЕЕЕЕЕЕТ!!"
+          ],
           ["徒歩移動", ""],
           ["キャラ方向変更", ""],
-          ["Hack! Augh!", ""],
-          ["Oogh! Gahhh!", ""],
-          ["Hel... p...!\nHel... gahhh!", ""],
+          ["Hack! Augh!", "Чёрт! Агх!"],
+          ["Oogh! Gahhh!", "Оох! Гаххх"],
+          ["Hel... p...!\nHel... gahhh!", "Помо... ги...!\nПомо... гах-х-х!"],
           [
             "You can't get away with what you did\nto Misao, Yoshino. This is your punishment.",
-            ""
+            "Тебе не сойдет с рук то, что ты сделала\nс Мисао, Йошино. Это твоё наказание."
           ],
           [
             "But I know you've suffered plenty yourself.\nSo I'll free you.",
-            ""
+            "Но я знаю, что ты и сама уже настрадалась.\nТак что я тебя освобожу."
           ],
           [
             "Misao, won't you stop now?\nI understand how you feel,\nbut Yoshino really regrets it...",
-            ""
+            "Мисао, ты не остановишься?\nЯ понимаю что ты чувствуешь,\nно Йошино действительно сожалеет..."
           ],
-          ["I guess that didn't work...", ""],
-          ["If only I could find something to stop Misao with...", ""],
+          ["I guess that didn't work...", "Думаю, это не сработает..."],
+          [
+            "If only I could find something to stop Misao with...",
+            "Если бы я только смогла найти что-нибудь, чтобы остановить Мисао..."
+          ],
           [
             "What you did to Misao isn't something\nyou can get away with, Yoshino.",
-            ""
+            "То, что ты сделала с Мисао, не являеться чем-то,\nчто сможет сойти тебе с рук, Йошино."
           ],
-          ["But I'm sure you've suffered as well...", ""],
+          [
+            "But I'm sure you've suffered as well...",
+            "Но мне кажется, что ты тоже страдала..."
+          ],
           [
             "Isn't this enough?\nStop it, and don't torture Yoshino anymore.",
-            ""
+            "Разве этого было недостаточно?\nОстановись, и больше не мучай Йошино."
           ],
           ["仕草", ""],
           [
             "I guess... it didn't work.\nI suppose after what she did to her,\nher rage won't be easily calmed...",
-            ""
+            "Я думаю... это не сработает\nПолагаю, после того, что она с ней сделала,\nеё так просто не остановить."
           ],
-          ["But this is no good...\nMisao's going to...", ""],
-          ["Need to think of a way to stop her...", ""],
+          [
+            "But this is no good...\nMisao's going to...",
+            "Но это не хорошо...\nМисао собирается..."
+          ],
+          [
+            "Need to think of a way to stop her...",
+            "Нужно придумать способ остановить её..."
+          ],
           ["アイテム入手", ""],
           ["anime_aki05", ""],
-          ["@1\nYoshino!", ""],
-          ["O-Oogh...", ""],
-          ["Doesn't look like she can speak...", ""],
-          ["Seems she's in no condition to speak...", ""],
-          ["*sniff*... Forgive me... forgive meee...", ""],
-          ["Yoshino, it's fine now!", ""],
-          ["No! NOOOOO!\nStop! Stay away!", ""],
-          ["*sn-sniff...*", ""],
+          ["@1\nYoshino!", "@1\nЙошино!"],
+          ["O-Oogh...", "О-Оох..."],
+          [
+            "Doesn't look like she can speak...",
+            "Не похоже, что она может говорить..."
+          ],
+          [
+            "Seems she's in no condition to speak...",
+            "Кажется, она не в состоянии говорить..."
+          ],
+          [
+            "*sniff*... Forgive me... forgive meee...",
+            "*сопение*... Прости меня... прости меняяя..."
+          ],
+          ["Yoshino, it's fine now!", "Йошино, всё в порядке!"],
+          ["No! NOOOOO!\nStop! Stay away!", "Нет! НЕЕЕЕЕТ!\nСтой! Не подходи!"],
+          ["*sn-sniff...*", "*с-сопение*..."],
           [
             "Yoshino, I sure hope this has taught you\nnot to be a bully, or else!",
-            ""
+            "Йошино, надеюсь, ты поняла,\nчто хулиганом быть плохо, или иначе!"
           ],
           [
             "Yoshino, you had a part in all this.\nThis should teach you not to bully anymore!",
-            ""
+            "Йошино, ты участвовала во всём этом.\nНадеюсь, ты поняла что быть хулиганом плохо!"
           ],
-          ["I won't... I swear I won't!\nForgive me...!", ""],
+          [
+            "I won't... I swear I won't!\nForgive me...!",
+            "Я не буду... Клянусь, я не буду!\nПрости меня...!"
+          ],
           [
             "I'm sure Misao will forgive you, too.\nLet's head back together.",
-            ""
+            "Я уверена, Мисао тоже простила тебя.\nДавай вернёмся вместе."
           ],
           [
             "I will. And I'm sure Misao will, too.\nLet's head back together.",
-            ""
+            "Я прощаю тебя. И уверена, что Мисао тоже.\nДавай вернёмся вместе."
           ],
           ["chara_misao_etc", ""],
-          ["Wh... y...", ""],
+          ["Wh... y...", "Поче... му..."],
           ["SE/lab_shock.ogg", ""],
           ["Picture/pose_misao_kage.png", ""],
           ["BGM/HMIX_fuon.ogg", ""],
           [
             "Why are you getting in my way...?\nI thought you saved me.\nI thought you were my one friend...",
-            ""
+            "Почему ты мешаешь мне...?\nЯ думала, что ты помогаешь мне.\nЯ думала, что ты мой единственный друг..."
           ],
-          ["Yes, I've always been your friend, Misao.\nBut...", ""],
-          ["Letting you do this wouldn't be saving you at all.", ""],
-          ["I've always been on your side.\nBut...", ""],
-          ["Me letting you do this wouldn't be saving you at all.", ""],
-          ["What are you...", ""],
-          ["Misao, you haven't passed on yet...", ""],
-          ["If you keep doing this, you'll never be able to.", ""],
-          ["Misao, you still haven't been freed from your torment.", ""],
-          ["If you keep this stuff up, your soul will never be saved.", ""],
-          ["Shut up...", ""],
-          ["Listen, Misao.\nWill doing this really clear up your heart?", ""],
-          ["Misao...\nWill doing this really clear up your heart?", ""],
+          [
+            "Yes, I've always been your friend, Misao.\nBut...",
+            "Да, я всегда была твоим другом, Мисао.\nНо..."
+          ],
+          [
+            "Letting you do this wouldn't be saving you at all.",
+            "Но если я позволю тебе сделать это, это совсем не спасёт тебя."
+          ],
+          [
+            "I've always been on your side.\nBut...",
+            "Я всегда был на твоей стороне.\nНо..."
+          ],
+          [
+            "Me letting you do this wouldn't be saving you at all.",
+            "Если я позволю тебе сделать это, я не смогу помочь."
+          ],
+          ["What are you...", "Да что ты..."],
+          [
+            "Misao, you haven't passed on yet...",
+            "Мисао, ты ещё не вознеслась..."
+          ],
+          [
+            "If you keep doing this, you'll never be able to.",
+            "Если ты продолжишь делать это, ты никогда не сможешь вознестись."
+          ],
+          [
+            "Misao, you still haven't been freed from your torment.",
+            "Мисао, ты всё ещё не освобождена от своих мучений."
+          ],
+          [
+            "If you keep this stuff up, your soul will never be saved.",
+            "Если ты продолжишь в том же духе, твоя душа никогда не будет спасена."
+          ],
+          ["Shut up...", "Заткнись..."],
+          [
+            "Listen, Misao.\nWill doing this really clear up your heart?",
+            "Послушай, Мисао.\nСпасёт ли это твоё сердце?"
+          ],
+          [
+            "Misao...\nWill doing this really clear up your heart?",
+            "Мисао...\nСпасёт ли это твоё сердце?"
+          ],
           ["anime_ghost01", ""],
           [
             "Of course it won't.\nIf it did, you already would've ascended.",
-            ""
+            "Конечно нет.\nЕсли бы это помогло, ты бы уже вознеслась."
           ],
           [
             "Of course it won't.\nIf it did, you wouldn't be here right now.",
-            ""
+            "Конечно нет.\nЕсли бы это помогло, тебя бы уже здесь не было."
           ],
-          ["Shut up, shut up, shut up...", ""],
+          ["Shut up, shut up, shut up...", "Заткнись, заткнись, заткнись..."],
           [
             "Stop this, Misao.\nYou're just being vengeful...\nI don't want to see you like that!",
-            ""
+            "Прекрати, Мисао.\nТы просто мстишь...\nМне не хочется видеть тебя такой!"
           ],
           [
             "Stop this, Misao.\nYou're just being vengeful.\nI don't want to see you like that.",
-            ""
+            "Прекрати, Мисао.\nТы просто мстишь.\nМне не хочется видеть тебя такой."
           ],
           ["SE/bitachi_voice_zombie_aaaaa.ogg", ""],
-          ["SILEEEEEEEEEENCE!!!", ""],
+          ["SILEEEEEEEEEENCE!!!", "ТИХОООООООООО!!!"],
           ["SE/match_sonic.ogg", ""],
-          ["Misao...!", ""],
+          ["Misao...!", "Мисао...!"],
           ["<LIGHT>ノック", ""],
           ["1回目", ""],
-          ["@1\nI think this was for cleaning supplies...", ""],
+          [
+            "@1\nI think this was for cleaning supplies...",
+            "@1\nЯ думаю, это было для чистящих средств..."
+          ],
           [
             "@1\nI think this is for cleaning supplies...\nWhat am I even doing here?",
-            ""
+            "@1\nЯ думаю, это для чистящих средств...\nЧто я вообще здесь делаю?"
           ],
           ["2回目", ""],
-          ["@1\nKnocking more won't do anything!", ""],
-          ["@1\nI doubt knocking will do anything more.", ""],
+          [
+            "@1\nKnocking more won't do anything!",
+            "@1\nЕсли почтучать ещё, то ничего не произойдёт!"
+          ],
+          [
+            "@1\nI doubt knocking will do anything more.",
+            "@1\nЯ сомневаюсь, что стуками можно добиться чего-то ещё."
+          ],
           ["anime_chara02", ""],
           ["CharaChip/chara_touma.png", ""],
-          ["@1\nEeeeek!", ""],
+          ["@1\nEeeeek!", "@1\nИиииик!"],
           ["SE/lab_door_open.ogg", ""],
-          ["AAAAAAAAAAGH!\nTHERE IT IS!!", ""],
-          ["P-Please, calm down!\nIt's just me! \\s[1]!", ""],
-          ["H-Hey, calm down!\nIt's just me! It's \\s[1]!", ""],
+          ["AAAAAAAAAAGH!\nTHERE IT IS!!", "АААААААААА!\nЧТО ЭТО!!"],
+          [
+            "P-Please, calm down!\nIt's just me! \\s[1]!",
+            "П-Пожалуйста, успокойся!\nЭто я! \\s[1]!"
+          ],
+          [
+            "H-Hey, calm down!\nIt's just me! It's \\s[1]!",
+            "Э-Эй, успокойся!\nЭто я! Это \\s[1]!"
+          ],
           ["CharaChip/chara_touma_pocket.png", ""],
-          ["\\s[1]?!\nD-Don't scare me like that!", ""],
+          [
+            "\\s[1]?!\nD-Don't scare me like that!",
+            "\\s[1]?!\nН-Не пугай меня так!"
+          ],
           [
             "\\s[1]?!\nD-Don't scare me like that!\nWhy are you all bloody?!",
-            ""
+            "\\s[1]?!\nН-Не пугай меня так!!\nПочему ты весь в крови?!"
           ],
           [
             "You always struck me as tough,\nbut I guess you're actually a coward...",
-            ""
+            "Ты всегда казался мне жестоким,\nно теперь я думаю, на самом деле ты трус..."
           ],
-          ["Tohma...\nSo you're always just putting on a bluff, huh...", ""],
-          ["S-Say what?!", ""],
-          ["So, Saotome's dead.", ""],
-          ["...I couldn't save Saotome...", ""],
-          ["She's gone...", ""],
-          ["Otome...", ""],
+          [
+            "Tohma...\nSo you're always just putting on a bluff, huh...",
+            "Тома...\nТак ты всегда просто блефовал, ха..."
+          ],
+          ["S-Say what?!", "Ч-Что?!"],
+          ["So, Saotome's dead.", "Вообщем, Саотоме мертва..."],
+          ["...I couldn't save Saotome...", "...Я не спас Саотоме..."],
+          ["She's gone...", "Её больше нет.."],
+          ["Otome...", "Отоме..."],
           [
             "I-It ain't my fault!\nI didn't do nothin' wrong! It's all Misao!",
-            ""
+            "Э-это не моя вина!\nЯ не сделал ничего плохого! Это всё Мисао!"
           ],
-          ["Dammit! Misao's gonna kill me too!\nHelp me, \\s[1]!", ""],
-          ["You help me, then!\nWe'll save Misao together!", ""],
-          ["You help me, then.\nWe'll save Misao together.", ""],
+          [
+            "Dammit! Misao's gonna kill me too!\nHelp me, \\s[1]!",
+            "Чёрт возьми! Мисао меня тоже убьет!\nПомоги мне, \\s[1]!"
+          ],
+          [
+            "You help me, then!\nWe'll save Misao together!",
+            "Тогда ты мне поможешь!\nМы спасём Мисао вместе!"
+          ],
+          [
+            "You help me, then.\nWe'll save Misao together.",
+            "Тогда ты мне поможешь.\nМы спасём Мисао вместе."
+          ],
           ["SE/lab_step_cyakuchi.ogg", ""],
           [
             "Huh? Don't be foolin'!\nIt's Misao's fault all this happened!\nWhy the hell you wanna save her?!",
-            ""
+            "А? Не сходи с ума!\nЭто вина Мисао, из-за неё всё это произошло!\nКакого черта ты хочешь спасти её?!"
           ],
           [
             "So you'd rather cower here forever?\nBecause I don't care what happens to you.\nLaters!",
-            ""
+            "Так ты бы предпочел вечно прятаться?\nПотому что, мне всё равно что с тобой произойдет.\nУдачи!"
           ],
           [
             "Fine, cower here forever if you want.\nDon't come crawling to me later.",
-            ""
+            "Хорошо, оставайся здесь, если хочешь.\nНо не лезь ко мне потом."
           ],
           [
             "Wait! Wait up!\nOkay! I'll do whatever, help with anything!\nJust don't leave me alone!",
-            ""
+            "Подожди! Подожди!\nЛадно! Я сделаю всё что угодно, помогу с чем угодно!\nТолько не оставляй меня одного!"
           ],
-          ["Oh, all right...\nJust don't fall behind.", ""],
-          ["Got it.\nDon't fall behind.", ""],
-          ["Y-Yeah!\nOkay, let's go!", ""],
+          [
+            "Oh, all right...\nJust don't fall behind.",
+            "Ох, хорошо...\nТолько не отставай."
+          ],
+          ["Got it.\nDon't fall behind.", "Отлично.\nНе отставай."],
+          ["Y-Yeah!\nOkay, let's go!", "Д-да!\nПогнали!"],
           ["足音ループ", ""],
           ["ダッシュ", ""],
           ["震える", ""],
           ["SE/onjin_furueru.ogg", ""],
-          ["@1\n*shudder...*", ""],
+          ["@1\n*shudder...*", "@1\n*дрожь*..."],
           ["鏡の霊", ""],
           ["壁の血", ""],
           ["<LIGHT>新EDアイテム", ""],
@@ -55552,7 +55747,10 @@
           ["<LIGHT><2>真ED操", ""],
           ["CharaChip/chara_misao_etc.png", ""],
           ["イベント当たり判定", ""],
-          ["@1\nHow can I stop Misao...?", ""],
+          [
+            "@1\nHow can I stop Misao...?",
+            "@1\nКак я могу остановить Мисао...?"
+          ],
           ["基本メニュー", ""],
           ["操(悪霊)", ""],
           ["anime_aki01", ""],
