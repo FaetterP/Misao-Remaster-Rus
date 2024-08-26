@@ -763,7 +763,7 @@
           ["文字列", ""],
           ["<SQUARE>", ""],
           ["<GRADY-000-999>", ""],
-          ["\\c[1]\\f[50]DROPPED OUT", "\\c[1]\\f[50]В НЕБЫТИЕ"],
+          ["\\c[1]\\f[50]DROPPED OUT", "\\c[1]\\f[50]В  НЕБЫТИЕ"],
           ["メニュー描写", ""],
           ["Keep trying", "Продолжить"],
           ["Give up", "Сдаться"],
@@ -17316,7 +17316,7 @@
           ["face/face_aki2_emi.png", ""],
           [
             "Use the keyboard to type\na name for the protagonist.\n \\f(15](Press Enter to confirm.)",
-            "Используйте клавиатуру, чтобы\nнаписать имя главного героя.\n \\f(15](Нажмите Enter для подтверждения.)"
+            "Используйте клавиатуру, чтобы\nнаписать имя главного героя.\n \\f[15](Нажмите Enter для подтверждения.)"
           ],
           ["<LINE>", ""],
           ["ネーム", ""],
@@ -17326,7 +17326,10 @@
           ["@1\nThat name cannot be used.", "@1\nЭто имя нельзя использовать."],
           ["face/face_aki2.png", ""],
           ["face/face_aki.png", ""],
-          ["\\c[0]Go with \\c[1]\\s[1]\\c[0]?", ""],
+          [
+            "\\c[0]Go with \\c[1]\\s[1]\\c[0]?",
+            "\\c[0]Продолжить как \\c[1]\\s[1]\\c[0]?"
+          ],
           ["確定", ""],
           ["0", ""],
           ["性別", ""],
@@ -19882,7 +19885,10 @@
           ["ひとでなしくんの声", ""],
           ["SE/match_voice_hitodenashi_re.ogg", ""],
           ["SE/match_voice_hitodenashi.ogg", ""],
-          ["@2\nFound \\c[2]Li'l Miscreant\\c[0]!", "@2\nНайден \\c[2]Маленький Проказник\\c[0]!"],
+          [
+            "@2\nFound \\c[2]Li'l Miscreant\\c[0]!",
+            "@2\nНайден \\c[2]Маленький Проказник\\c[0]!"
+          ],
           ["SE/match_voice_hitodenashi2_re.ogg", ""],
           ["SE/match_voice_hitodenashi2.ogg", ""],
           ["アニメーション", ""],
@@ -20004,7 +20010,10 @@
           ["アバター入手", ""],
           ["<SCREENSHOT>", ""],
           ["ショートカット", ""],
-          ["Obtained avatar \\E\\c[2]\\cself[5]\\N\\c[0].", "Получен аватар \\E\\c[2]\\cself[5]\\N\\c[0]."],
+          [
+            "Obtained avatar \\E\\c[2]\\cself[5]\\N\\c[0].",
+            "Получен аватар \\E\\c[2]\\cself[5]\\N\\c[0]."
+          ],
           ["\\f[10]Эта функция требует сохранение версии 1.06 или позже.", ""],
           ["入手アバター", ""],
           ["演出", ""],
@@ -22982,7 +22991,7 @@
           ["Picture/tips_sousa.png", ""],
           [
             "Press \\cself[5] while exploring to activate the \\c[2]Crimson Eyes\\c[0].\r\nThe \\c[2]Crimson Eyes\\c[0] will highlight places you've checked.\r\nTry using them if you're stuck.\r\n",
-            "Нажмите \\cself[5] во время исследования мира, чтобы активировать \\c[2]Багровые глаза\\c[0].\r\n\\c[2]Багровые глаза\\c[0] выделят проверенные места.\r\nПопробуйте использовать их, если застряли.\r\n"
+            "Нажмите \\cself[5] во время исследования мира,\r\nчтобы активировать \\c[2]Багровые глаза\\c[0].\r\n\\c[2]Багровые глаза\\c[0] выделят проверенные места.\r\nПопробуйте использовать их, если вы застряли.\r\n"
           ],
           ["Picture/tips_hiiro.png", ""],
           ["\\i[603]", ""],
@@ -22995,7 +23004,7 @@
           ["\\i[510]", ""],
           [
             "Press \\cself[5] while exploring to \\c[2]quicksave\\c[0].\r\nBe careful, though, as some places won't allow you to save.",
-            "Нажмите \\cself[5] во время исследования мира, чтобы сделать \\c[2]быстрое сохранение\\c[0].\r\nНо будьте осторожны: в некоторых местах сохранение будет недоступно."
+            "Нажмите \\cself[5] во время исследования мира, чтобы сделать\r\n\\c[2]быстрое сохранение\\c[0]. Но будьте осторожны: в некоторых\r\nместах сохранение будет недоступно."
           ],
           ["\\i[604]", ""],
           ["\\i[514]", ""],
@@ -23007,7 +23016,7 @@
           ["\\i[512]", ""],
           [
             "Explore the school consumed by the other world,\r\nand find \\c[2]Misao's belongings\\c[0].",
-            "Исследуйте школу, поглощённую иным миром,\r\nи найдите \\c[2]вещи Мисао\\c[0]."
+            "Исследуйте школу, поглощённую другим миром,\r\nи найдите \\c[2]вещи Мисао\\c[0]."
           ],
           [
             "\\c[2]Li'l Miscreant\\c[0] is a small demon in the otherworldly school.\r\nYou can't see him with the naked eye;\r\nuse the \\c[2]Crimson Eyes\\c[0] to find him.\r\n\r\nSearch your surroundings, referring to the hints on the report card's\r\nAvatar Select screen and using the \\c[2]Crimson Eyes\\c[0].",
@@ -25317,7 +25326,7 @@
           ["ゲームオーバー", ""],
           ["<LIGHT>絵の具セット", ""],
           ["顔グラフィック", ""],
-          ["@1\nA set of paints.", "@1\nНабор красок"],
+          ["@1\nA set of paints.", "@1\nНабор красок."],
           ["基本メニュー", ""],
           ["←廊下", ""],
           ["場所移動", ""],
@@ -28245,7 +28254,7 @@
           ["chara_run", ""],
           ["WAAAAAUUUUUGH!!!", "ААААААААААААА!!!"],
           ["SE/lab_nigeru.ogg", ""],
-          ["Tohma!!", ""],
+          ["Tohma!!", "Тома!!"],
           ["No... Nooooo...!", "Нет... Нееееет..!"],
           ["CharaChip/chara_aki_f_run.png", ""],
           ["CharaChip/chara_aki_m_run.png", ""],
@@ -30449,7 +30458,7 @@
           ["<LIGHT><ITEM>消火器", ""],
           [
             "@1\nA fire extinguisher!\nPerfect, now I'll get that evil spirit...!",
-            "@1\nОгнетушитель!\nОтлично, сейчас я поймаю этого духа..!"
+            "@1\nОгнетушитель!\nОтлично, сейчас я прогоню этого духа..!"
           ],
           ["キャラモーション", ""],
           ["anime_aki01", ""],
@@ -30457,7 +30466,7 @@
           ["CharaChip/chara_run2.png", ""],
           [
             "@1\nA fire extinguisher!\nPerfect, now I can get that evil spirit...",
-            "@1\nОгнетушитель!\nОтлично, сейчас я могу поймать этого духа..."
+            "@1\nОгнетушитель!\nОтлично, сейчас я могу прогнать этого духа..."
           ],
           ["x", ""],
           ["早乙女助ける", ""],
@@ -37213,7 +37222,7 @@
           ["Geeeeez! Tohma, you pervert!", "Божеееее! Тома, ты извращенец!"],
           [
             "Aren't you the one who put Misao's texts\non the blackboard, Otome?",
-            "Разве не ты та, которая поместила письма Мисао\nна доске, Отоме?"
+            "Разве не ты разместила письма Мисао\nна доске, Отоме?"
           ],
           [
             "Whaaa? I dunno what you're saying!",
@@ -37919,8 +37928,8 @@
           ["画面色調変更", ""],
           ["Student", "Студент"],
           ["顔グラフィック", ""],
-          ["@1\nWell, look who's here!", ""],
-          ["*giggle...*", "*Хихиканье*..."],
+          ["@1\nWell, look who's here!", "@1\nТак, смотрите, кто здесь!"],
+          ["*giggle...*", "*хихиканье*..."],
           ["What...?", "Что...?"],
           ["キャラモーション", ""],
           ["mob_002", ""],
@@ -41839,7 +41848,7 @@
             "I thought I heard Misao...\nI... guess it was just a dream.",
             "Мне показалось, я слышал Мисао...\nЯ... думаю, это был всего лишь сон."
           ],
-          ["Has it been three months...?", "Это было три месяца..?"],
+          ["Has it been three months...?", "Это было три месяца назад..?"],
           ["x", ""],
           [
             "Oh, nooo! It's so late!\nI'm gonna be late for school!",
@@ -41847,7 +41856,7 @@
           ],
           [
             "Yikes! Look at the time!\nI'm gonna be late for school!",
-            "Ой! Посмотрите на часы!\nЯ же сейчас опоздаю в школу!"
+            "Ой! Сколько сейчас времени!\nЯ же сейчас опоздаю в школу!"
           ],
           ["SE/lab_locker_open1.ogg", ""],
           [
@@ -41875,26 +41884,29 @@
           ],
           [
             "Three months ago, Misao went missing.",
-            "Три месяца назад, когда Мисао пропала."
+            "Три месяца назад Мисао пропала."
           ],
           [
             "She wasn't coming to school.\nAnd she hadn't come home either.",
             "Она не приходила в школу.\nИ также не приходила домой."
           ],
-          ["Three months back, Misao went missing.", ""],
+          [
+            "Three months back, Misao went missing.",
+            "Три месяца назад Мисао пропала."
+          ],
           [
             "She stopped coming to school.\nAnd she hadn't come home either.",
-            "Она прекратила ходить в школу.\nИ также прекратила ходить домой."
+            "Она перестала ходить в школу.\nИ также перестала ходить домой."
           ],
           [
             "She never seemed the type to flee home.\nOur parents were saying that she might have\ngotten involved in something.",
-            "Она не казалась таким человеком, который может сбежать из дома.\nНаши родители говорили, что она могла\nбыть вовлечена во что-то."
+            "Она не казалась таким человеком, который может сбежать \nиз дома. Наши родители говорили, что она могла\nбыть вовлечена во что-то."
           ],
           ["CharaChip/chara_aki_f_bag.png", ""],
           ["CharaChip/chara_aki_m_bag.png", ""],
           ["キャラ方向変更", ""],
-          ["@1\nWell, I'm off!", "@1\nНу, я ушёл!"],
-          ["@1\nOkay... I'm off!", "@1\nОтлично... Я ушла!"],
+          ["@1\nWell, I'm off!", "@1\nНу, я пошла!"],
+          ["@1\nOkay... I'm off!", "@1\nХорошо... Я пошёл!"],
           ["SE/lab_door_open.ogg", ""],
           ["SE/lab_door_genkan_close.ogg", ""],
           ["靴アニメ", ""],
@@ -42120,7 +42132,7 @@
           ],
           [
             "@2\nAll our classmates gossipped about\nhow she was probably already dead.",
-            "@2\nВсе наши одноклассники обсуждали это,\nкак она, возможно, умерла."
+            "@2\nВсе наши одноклассники обсуждали\nкак она, возможно, уже мертва."
           ],
           ["キャラモーション", ""],
           ["anime_aki01", ""],
@@ -42283,7 +42295,7 @@
           ],
           [
             "So maybe if I clean my hands constantly,\nevery day, all the time, he'll like me more!",
-            "Возможно, если я буду чистить свои руки\nкаждый день, всё время, я понравлюсь ему ещё больше!"
+            "Возможно, если я буду чистить свои руки постоянно,\nкаждый день, всё время, то я понравлюсь ему ещё больше!"
           ],
           [
             "I don't really... care, Ayaka.",
@@ -42323,9 +42335,9 @@
           ["叶真たちのパート", ""],
           [
             "Hey, there's been some spoooooky\nparanormal business going on at this school...\nI'm getting a little freaked, myself...",
-            "Эй, знаете, здесь происходят страаашные.\nпаранормальные дела в этой школе...\nМне становиться немного страшно от этого всего этого..."
+            "Эй, знаете, здесь происходят страаашные.\nпаранормальные дела в этой школе...\nМне становиться немного не по мебе от этого всего этого..."
           ],
-          ["Paranormal, my ass!", "Паранормальное? Да ты чё!"],
+          ["Paranormal, my ass!", "Паранормальные? Да ты чё!"],
           [
             "I'm for real! IT'S for real!\nThe other day, a kid in the other class\ngot dragged away in the bathroom!",
             "Правда! ЭТО реально!\nНа днях, ребенка из другого класса\nутащили в туалет!"
@@ -42346,7 +42358,7 @@
           ],
           [
             "Wait... Whaddif...\nThis's Misao's curse...?",
-            "Стойте... Чтоесль...\nЭто проклятье Мисао..?"
+            "Стойте... Чтоесль...\nЭто проклятье Мисао...?"
           ],
           [
             "Look, this is no time for jokes...",
@@ -42371,7 +42383,7 @@
           ],
           [
             "And Tohma, you always screwed with Misao!\nYou're the one who's gonna get cursed!",
-            "И Тома, ты тоже вечно досаждал Мисао!\nТы первый кто будет проклят!"
+            "И Тома, ты тоже вечно досаждал Мисао!\nТы первый, кто будет проклят!"
           ],
           [
             "Me? Hah, I'm fine!\n'Cause Misao fell for me!",
@@ -42381,7 +42393,7 @@
           ["I wonder about that...", "Надеюсь на это..."],
           [
             "Tohmaaa, I'm scaaared...\nI mean, I'm your girlfriend, so...\nMisao might have a grudge...",
-            "Томааа, я напуганааа...\nНу в смысле, я твоя девушка, так что...\nМисао может обидеться..."
+            "Томааа, мне страаашно...\nНу в смысле, я твоя девушка, так что...\nМисао может обидеться..."
           ],
           ["x", ""],
           ["chara_kudou", ""],
@@ -42400,7 +42412,7 @@
           ],
           [
             "Oops, did I say that out loud?\nGahahahah!",
-            "У-у-упс, я сказал это вслух?\nПхахахахах!"
+            "Ууупс, я сказал это вслух?\nПхахахахах!"
           ],
           ["SE/match_noise.ogg", ""],
           ["Picture/still_noroi.png", ""],
@@ -42522,10 +42534,10 @@
           ],
           [
             "Weh-he-ell...!\nOne of the girls here loves Tohma!",
-            "Итааааак..!\nОдна из девушек, прямо здесь, любит Тому!"
+            "Итааааак..!\nОдна из девушек, которые прямо здесь, любит Тому!"
           ],
-          ["Huh?!\nAre you confessin' to me?!", "А?!\nТы признаешься мне?!"],
-          ["You WISH it was me!!", "Тыы ХОЧЕШЬ, чтобы это была я!?"],
+          ["Huh?!\nAre you confessin' to me?!", "А?!\nТы признаёшься мне?!"],
+          ["You WISH it was me!!", "Ты ХОЧЕШЬ, чтобы это была я!?"],
           [
             "It's none other than the simple girl\nwho never stands out... Misaooo!",
             "Это никто иная, как самая простая девушка,\nкоторая никогда не выделялась в нашем классе... Мисаооо!"
@@ -42562,7 +42574,7 @@
           ["O-Okay...", "Х-Хорошо..."],
           [
             "Why did Yoshino spill the beans...?",
-            "Зачем Йошино выдала секрет..?"
+            "Зачем Йошино выдала этот секрет..?"
           ],
           [
             "Well, not like it matters!\nBecause of that, now I'm Tohma's girlfriend.\nI should thank Yoshino.",
@@ -42577,7 +42589,7 @@
             "T-Tohma...!\nWhat... That's so embarrassing...",
             "T-Тома..!\nЧто... Это так неловко..."
           ],
-          ["H-How should I reply...?", "К-Как я должна ответить..?"],
+          ["H-How should I reply...?", "К-Как я должна ответить...?"],
           ["CharaChip/chara_touma_pocket.png", ""]
         ],
         "context": [
@@ -44230,7 +44242,7 @@
           ["-10", ""],
           ["10", ""],
           ["SE/match_swing.ogg", ""],
-          ["Huh?\\.\\.\\.\\^", ""],
+          ["Huh?\\.\\.\\.\\^", "А?\\.\\.\\.\\^"],
           ["Misa... o...!", "Миса... о..!"],
           ["SE/bitachi_aki_f_himei.ogg", ""],
           ["CharaChip/anime_aki01.png", ""],
@@ -54270,7 +54282,7 @@
           ["20", ""],
           ["@1\nNngh...", "@1\nНнгх..."],
           ["Misao...", "Мисао..."],
-          ["Ah, you've finally come to.", "Ах, вы наконец-то проснулись."],
+          ["Ah, you've finally come to.", "Ах, вы наконец-то очнулись."],
           ["!!", ""],
           ["画面色調変更", ""],
           ["Where am I...?", "Где я..?"],
@@ -54280,7 +54292,7 @@
           ["And who are you...?", "И кто ты..?"],
           [
             "I am Onigawara, the student council president.\nAnd this is the student council room.",
-            "Я Онигавара, президент студенческого совета.\nА это - комната студенческого совета."
+            "Я Онигавара, президент студенческого совета.\nА это комната студенческого совета."
           ],
           [
             "Luckily for you,\nyou were tossed somewhere safe.",
@@ -54289,11 +54301,11 @@
           ["Tossed...?", "Попали...?"],
           [
             "After the earthquake,\nthe school was sucked into another world.",
-            "После землетрясения,\nшкола была втянута в другой мир."
+            "После землетрясения\nшкола была втянута в другой мир."
           ],
           [
             "This force from this sent those inside\nflying all across the school.",
-            "Эта сила, заставила всех, кто был внутри,\nразлететься по всей школе."
+            "Эта сила заставила всех, кто был внутри,\nразлететься по всей школе."
           ],
           [
             "Sucked into another world?!\nWhat's that supposed to mean?\nAnd why would that... happen...?",
@@ -54307,7 +54319,7 @@
           ],
           [
             "A girl's curse, which has sealed the entire\nschool campus in this other world.",
-            "Проклятья девушки, которое запечатало весь\nкорпус школы в этом другим мире."
+            "Проклятья девушки, которое запечатало весь\nкорпус школы в этом другом мире."
           ],
           ["It couldn't be... Misao...?", "Не может быть... Мисао..?"],
           ["President Onigawara!", "Президент Онигавара!"],
@@ -54322,11 +54334,11 @@
           ],
           [
             "She is the school's vice-president.\nAlways in the library, so that's what we call her.",
-            "Она вице-президент школы.\nОна всегда находится в библиотеке, поэтому мы так её и называем."
+            "Она вице-президент школы.\nОна всегда находится в библиотеке, поэтому\nмы так её и называем."
           ],
           [
             "So then, Miss Library, how does it look?",
-            "Итак, мисс Библиотека, как сейчас выглядит школа?"
+            "Итак, Мисс Библиотека, как сейчас выглядит школа?"
           ],
           [
             "Well, it looks messed up, and gunked up,\nand funked up every which way!",
@@ -54357,7 +54369,7 @@
           ["chara_aki_m_taiki", ""],
           [
             "Evil spirits...\nThe curse must have summoned them here.",
-            "Злые духи...\nПроклятье должно быть вызвало их сюда."
+            "Злые духи...\nДолжно быть, проклятье вызвало их сюда."
           ],
           [
             "The school is now a den of spirits...\nAnd there's nowhere to run.",
@@ -54400,15 +54412,15 @@
           ],
           [
             "...So you will? As Library informs me,\nthe school is brimming with evil spirits.\nDo you still wish to go?",
-            "...Так вы всё-таки пойдёте? Как мне сообщила Библиотека,\nшкола кишит злыми духами.\nВы всё ещё хотите пойти?"
+            "...Так вы всё-таки пойдёте? Как сообщила Библиотека,\nшкола кишит злыми духами.\nВы всё ещё хотите пойти?"
           ],
           [
             "I will.\nBecause... Misao is my friend!",
-            "Пойду.\nПотому что... Мисао - мой друг!"
+            "Хочу.\nПотому что... Мисао - мой друг!"
           ],
           [
             "I will...\nBecause Misao is my friend!",
-            "Пойду.\nПотому что Мисао - мой друг!"
+            "Хочу.\nПотому что Мисао - мой друг!"
           ],
           [
             "Understood.\nI will entrust you with the fate of the school.\nI believe you can save it.",
@@ -54420,7 +54432,7 @@
           ],
           [
             "And if you wish to make a record, please talk to me.\nI will do so for you anytime.",
-            "И если вы захотите сделать запись, пожалуйста, поговорите со мной.\nЯ сделаю это для вас в любое время."
+            "И если вы захотите сделать запись, пожалуйста, поговорите\nсо мной. Я сделаю это для вас в любое время."
           ],
           ["異界マニュアル", ""],
           ["I pray for your safety.", "Я молюсь за вашу безопасность."],
