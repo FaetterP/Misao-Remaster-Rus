@@ -1,8 +1,8 @@
 {
   "data": [[null]],
   "columns": [
-    { "readOnly": false, "wordWrap": true, "width": 408 },
-    { "readOnly": false, "wordWrap": true, "width": 248 },
+    { "readOnly": false, "wordWrap": true, "width": 92 },
+    { "readOnly": false, "wordWrap": true, "width": 84 },
     { "readOnly": false, "wordWrap": true, "width": 135 },
     { "readOnly": false, "wordWrap": true, "width": 121 },
     { "readOnly": false, "wordWrap": true, "width": 110 }
@@ -20,9 +20,9 @@
     "skipElement": ["note", "Comment", "Script"],
     "gameEngine": "wolf",
     "gameTitle": "Misao - 2024 HD Remaster",
-    "projectId": "ZQdaB3MUvT",
-    "cache": { "cacheID": "", "cachePath": "www/php/cache/ZQdaB3MUvT" },
-    "buildOn": "2024-08-20 15:46:42",
+    "projectId": "u7wlvpTm8J",
+    "cache": { "cacheID": "", "cachePath": "www/php/cache/u7wlvpTm8J" },
+    "buildOn": "2024-08-26 19:38:53",
     "appVersion": "0.9",
     "loc": "D:\\misao\\Misao",
     "files": {
@@ -30,8 +30,7 @@
         "data": [
           ["アイテム1", ""],
           ["アイテム2", ""],
-          ["アイテム3", ""],
-          [null, null, null, null, null]
+          ["アイテム3", ""]
         ],
         "context": [
           ["CDataBase.dat/db/6/fldSet/0/idx/3/val"],
@@ -50,11 +49,9 @@
         "type": "",
         "originalFormat": "WRPGE Database File",
         "dirname": "Data/BasicData/CDataBase.dat",
-        "indexIsBuilt": true,
+        "indexIsBuilt": false,
         "progress": { "translated": 0, "length": 3, "percent": 0 },
-        "parameters": [],
-        "cacheResetOnChange": {},
-        "cellInfo": []
+        "parameters": []
       },
       "Data/BasicData/CDataBase.dat/db/11": {
         "data": [
@@ -65,8 +62,7 @@
           ["\\i[604]", ""],
           ["\\i[514]", ""],
           ["\\i[607]", ""],
-          ["\\i[512]", ""],
-          [null, null, null, null, null]
+          ["\\i[512]", ""]
         ],
         "context": [
           ["CDataBase.dat/db/11/fldSet/1/idx/1/val"],
@@ -99,11 +95,9 @@
         "type": "",
         "originalFormat": "WRPGE Database File",
         "dirname": "Data/BasicData/CDataBase.dat",
-        "indexIsBuilt": true,
+        "indexIsBuilt": false,
         "progress": { "translated": 0, "length": 8, "percent": 0 },
-        "parameters": [],
-        "cacheResetOnChange": {},
-        "cellInfo": []
+        "parameters": []
       },
       "Data/BasicData/CommonEvent.dat/CommonEvent/0": {
         "data": [
@@ -137,8 +131,7 @@
           ["画面暗くする", ""],
           ["移動制限 -1=制限", ""],
           ["ゆっくり消える", ""],
-          ["一時文字列", ""],
-          [null, null, null, null, null]
+          ["一時文字列", ""]
         ],
         "context": [
           ["CommonEvent.dat/CommonEvent/0/name"],
@@ -273,11 +266,9 @@
         "type": "",
         "originalFormat": "WRPGE Common Event DAT File",
         "dirname": "Data/BasicData/CommonEvent.dat",
-        "indexIsBuilt": true,
+        "indexIsBuilt": false,
         "progress": { "translated": 0, "length": 31, "percent": 0 },
-        "parameters": [],
-        "cacheResetOnChange": {},
-        "cellInfo": []
+        "parameters": []
       },
       "Data/BasicData/CommonEvent.dat/CommonEvent/1": {
         "data": [
@@ -304,8 +295,7 @@
           ["1パターンのウェイト", ""],
           ["キャラX座標", ""],
           ["キャラY座標", ""],
-          ["イベントID", ""],
-          [null, null, null, null, null]
+          ["イベントID", ""]
         ],
         "context": [
           ["CommonEvent.dat/CommonEvent/1/name"],
@@ -407,11 +397,9 @@
         "type": "",
         "originalFormat": "WRPGE Common Event DAT File",
         "dirname": "Data/BasicData/CommonEvent.dat",
-        "indexIsBuilt": true,
+        "indexIsBuilt": false,
         "progress": { "translated": 0, "length": 24, "percent": 0 },
-        "parameters": [],
-        "cacheResetOnChange": {},
-        "cellInfo": []
+        "parameters": []
       },
       "Data/BasicData/CommonEvent.dat/CommonEvent/2": {
         "data": [
@@ -435,8 +423,7 @@
           ["特殊2", ""],
           ["特殊3", ""],
           ["なし", ""],
-          ["あり", ""],
-          [null, null, null, null, null]
+          ["あり", ""]
         ],
         "context": [
           ["CommonEvent.dat/CommonEvent/2/name"],
@@ -538,11 +525,9 @@
         "type": "",
         "originalFormat": "WRPGE Common Event DAT File",
         "dirname": "Data/BasicData/CommonEvent.dat",
-        "indexIsBuilt": true,
+        "indexIsBuilt": false,
         "progress": { "translated": 0, "length": 21, "percent": 0 },
-        "parameters": [],
-        "cacheResetOnChange": {},
-        "cellInfo": []
+        "parameters": []
       },
       "Data/BasicData/CommonEvent.dat/CommonEvent/3": {
         "data": [
@@ -561,8 +546,7 @@
           ["ピクチャ番号", ""],
           ["X", ""],
           ["Y", ""],
-          ["ピクチャ番号保存", ""],
-          [null, null, null, null, null]
+          ["ピクチャ番号保存", ""]
         ],
         "context": [
           ["CommonEvent.dat/CommonEvent/3/name"],
@@ -632,11 +616,9 @@
         "type": "",
         "originalFormat": "WRPGE Common Event DAT File",
         "dirname": "Data/BasicData/CommonEvent.dat",
-        "indexIsBuilt": true,
+        "indexIsBuilt": false,
         "progress": { "translated": 0, "length": 16, "percent": 0 },
-        "parameters": [],
-        "cacheResetOnChange": {},
-        "cellInfo": []
+        "parameters": []
       },
       "Data/BasicData/CommonEvent.dat/CommonEvent/4": {
         "data": [
@@ -645,7 +627,7 @@
           ["顔グラフィック", ""],
           ["Obtained \\my[-9]\\E\\c[2]\\cself[5]\\N\\c[0].", ""],
           ["SE/match_bell.ogg", ""],
-          ["You've collected all six keys.", "Вы собрали все шесть ключей."],
+          ["You've collected all six keys.", ""],
           ["アイテム名", ""],
           ["個数", ""],
           ["0", ""],
@@ -653,8 +635,7 @@
           ["アイテム前", ""],
           ["ピクチャ番号", ""],
           ["X", ""],
-          ["Y", ""],
-          [null, null, null, null, null]
+          ["Y", ""]
         ],
         "context": [
           ["CommonEvent.dat/CommonEvent/4/name"],
@@ -717,35 +698,9 @@
         "type": "",
         "originalFormat": "WRPGE Common Event DAT File",
         "dirname": "Data/BasicData/CommonEvent.dat",
-        "indexIsBuilt": true,
-        "progress": {
-          "translated": 1,
-          "length": 14,
-          "percent": 7.142857142857142
-        },
-        "parameters": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          [
-            {
-              "contextStr": "CommonEvent.dat/CommonEvent/4/Command/22/Message/0",
-              "translation": ""
-            }
-          ]
-        ],
-        "cacheResetOnChange": {},
-        "cellInfo": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          [null, { "t": "HU", "v": 1 }]
-        ],
-        "lastSelectedCell": [6, 1]
+        "indexIsBuilt": false,
+        "progress": { "translated": 0, "length": 14, "percent": 0 },
+        "parameters": []
       },
       "Data/BasicData/CommonEvent.dat/CommonEvent/5": {
         "data": [
@@ -27542,8 +27497,7 @@
           ["操霊(緋色の眼)", ""],
           ["CharaChip/chara_misao_ghost$.png", ""],
           ["[並列]花表示", ""],
-          ["アプデ処理", ""],
-          [null, null, null, null, null]
+          ["アプデ処理", ""]
         ],
         "context": [
           ["classroom3-C.mps/Event/0/name"],
@@ -27815,11 +27769,9 @@
         "type": "",
         "originalFormat": "WRPGE Map File",
         "dirname": "Data/MapData",
-        "indexIsBuilt": true,
+        "indexIsBuilt": false,
         "progress": { "translated": 0, "length": 55, "percent": 0 },
-        "parameters": [],
-        "cacheResetOnChange": {},
-        "cellInfo": []
+        "parameters": []
       },
       "Data/MapData/classroom3-C2.mps": {
         "data": [
@@ -28907,8 +28859,7 @@
           ["←死の廊下", ""],
           ["操霊(緋色の眼)", ""],
           ["CharaChip/anime_ghost02.png", ""],
-          ["【並列】", ""],
-          [null, null, null, null, null]
+          ["【並列】", ""]
         ],
         "context": [
           ["corridor_1F2.mps/Event/0/name"],
@@ -28950,11 +28901,9 @@
         "type": "",
         "originalFormat": "WRPGE Map File",
         "dirname": "Data/MapData",
-        "indexIsBuilt": true,
+        "indexIsBuilt": false,
         "progress": { "translated": 0, "length": 8, "percent": 0 },
-        "parameters": [],
-        "cacheResetOnChange": {},
-        "cellInfo": []
+        "parameters": []
       },
       "Data/MapData/corridor_1F3.mps": {
         "data": [
@@ -47580,8 +47529,7 @@
           ["並列", ""],
           ["[並列]光影", ""],
           ["マップ光影", ""],
-          ["map_shinend_kuratakaisou3", ""],
-          [null, null, null, null, null]
+          ["map_shinend_kuratakaisou3", ""]
         ],
         "context": [
           ["shinend_kuratakaisou3.mps/Event/0/name"],
@@ -48144,12 +48092,9 @@
         "type": "",
         "originalFormat": "WRPGE Map File",
         "dirname": "Data/MapData",
-        "indexIsBuilt": true,
+        "indexIsBuilt": false,
         "progress": { "translated": 0, "length": 123, "percent": 0 },
-        "parameters": [],
-        "cacheResetOnChange": {},
-        "cellInfo": [],
-        "lastSelectedCell": [9, 1]
+        "parameters": []
       },
       "Data/MapData/shinend_kuratakaisou4.mps": {
         "data": [
@@ -54467,7 +54412,7 @@
         "cellInfo": []
       }
     },
-    "selectedId": "Data/BasicData/CommonEvent.dat/CommonEvent/4",
+    "selectedId": "Common Reference",
     "trash": {},
     "options": {
       "init": {
